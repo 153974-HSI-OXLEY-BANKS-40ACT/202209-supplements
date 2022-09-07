@@ -1,0 +1,258 @@
+From - Tue Sep  6 09:31:24 2022
+X-Account-Key: account1
+X-UIDL: AElMU4JLPxmOYxc8PQfESGEQPxw
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.196.218.151
+ by atlas324.free.mail.bf1.yahoo.com with HTTPS; Tue, 6 Sep 2022 12:25:33 +0000
+Return-Path: <prvs=241ed9bd6=frrodriguez@buildings.nyc.gov>
+X-Originating-Ip: [216.71.138.16]
+Received-SPF: pass (domain of buildings.nyc.gov designates 216.71.138.16 as permitted sender)
+Authentication-Results: atlas324.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@buildings.nyc.gov header.s=mail-s1;
+ dkim=pass header.i=@buildings.nyc.gov header.s=selector1;
+ spf=pass smtp.mailfrom=buildings.nyc.gov;
+ dmarc=pass(p=REJECT) header.from=buildings.nyc.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 6 Sep 2022 12:25:33 +0000
+X-YMailAVSC: ZY0HCh83bBsIbLcGT8sfPFgYvA8vJB4AS3JeiBtGJj1MUwu
+ .GHYoK_H8nfJt6ksaTNpLXt7ypi.LoUZLpPP0XPFPPk5pZhYTkVT6zBKuvyE
+ Fe_EgqvP_ifG2dtxp35OPWDv2MghroBaX5pfKehRwjDTLeLTQ0ascA2RgKHg
+ .2PJXp2qpgjvz2cv1bRr16sCH4h33qdTAsDzzQ5NldYzynleTir3CNSD5xnR
+ hdLYcUX7oopePUnf3LQZ7KEpSlLXVdFVW1TBdZoZtpZDMKvlj0leky5ytQwr
+ TG8x4qDkIaFN7WF4v3BkMZUt4ZYenTyFBozcXrG3Zb.5Dxvlro9mg7PpXxjF
+ 4p1.P5FY87oj9k.0h20tAiSY9UCGcvakc9JwwiXCZlE14KeOtyNIUwkD3_I9
+ CUPzwBxSzmEMFTereI40SzM66igtdC4JetiDKe83Loaj4AC05W0y0.NJ8QmH
+ 5aXH2AAzgBfD4Ld3EsP.7Y3W1kbvQRCMD7QZ58S2mUXT..aWX7234mSQ7v43
+ kuDL1XiAkno8rn2CJeTS_4_4x2Mj.ZyyQpMjk7RvNF1_x5N7jg7y_lWK0cg.
+ YvEjwCkGVcUPhsHw3QMYNgnVS6H7kkvQs6Zc_FsH6AI22I9DHF4.C710OWmM
+ g6iyX7mWo610K.vQ0awwmjuhhcod7By75nOAcNPTKGeZB4Sv7h5uIIOUoDA4
+ Jc5pmbELrqMrDCmeCKE1pX2jJVr9nJeKC9k2o_tF9z5xMGAw7ZY_nk_ZtVT1
+ qTEOKd3HNh4XpOV7OInP1sMsqHO35xktYZtUTa7V0C_vSI4QVSezxtIPD3OQ
+ ZnAtV5qJMSiQtRaChBcHUtlBdqnvhHcc411pPSmHLEyFuRvS.gI3csS0mGcy
+ rvvFue72OYG26z1wF8_QM0qT90blU5yLKHpeEYTnkkRXeFL3LRYBboTxGN.A
+ GaFbj1TivOXnyREsnt02wTHVOZlPLDiXp0DR_HcMu0PZo8ymOwnR1VSDPUf.
+ Kb.D.PU1nRg8OPzPOIqfYgeSE52AlbQ_WzmXc4WxwVccqCj7xJyLDWu52yzM
+ Std5h2Fc60CCofd3Yp5_oTTZ.hznmKNdjje0MMe8Z4QwYDAV4y3_mmoIGnvw
+ Xzh56_yTKPSObeqLgDcNtZOuAO13apxy1VhtWp5DBr2fOITWmq5p0_nvK19I
+ wJV.CSAR0JLlecwpllDvKCP59dRlSSRfM2L6wto1XW9xp3t140k_nNbZ94m2
+ 9NWTaFaIqruAoJBrLlAXxSx9P2CWk
+X-YMailISG: uzVnI4YWLDvP3f_sv2RVz3_L3yHjXsYNKPlizFDMKbHtyOj_
+ gMebtTDoVtPeyMf.7mrJiwnq8C3ioZFHd_Qo8KaWat13sTdv4dphQhe7aJG1
+ ZPcxuf0v5ft.op_C1lrAAi.ljYcPuSYMnBUBE6fpnqYuDbdoxo0n.dSgUWeR
+ QtMUZlhA9kitGsP_YYloT0BxjlgUrAfzLk_rPEk98xnncs3FfTfeLSqk6U09
+ gusCLrZsMvblP.W_uI1FuaXXaufTAumKhzo.D88xvCLiLszUp4HRZLjFlWWM
+ 2uTN1SYCu8E3ErECH4uJW3454DLVkArtFOciqiFdcWjq9YDBGFYVHpCn6rIB
+ vinSPQvoxtmA.LzsLRaxXbmtUv_4wwDNourUlDkbW5Du_Bu3hzJQ.WC3Aaff
+ 1BJ3.66qa6wGK.Ud8qIb2Yx0Fwb98WU_WQSs8Z27Es6ZSctjmCZGFQf0b8m9
+ QZz0BRZwuu0YexbTvUHRhfwP75ZSxL7KIL05iGq.v8sCEKHTub6PoHPRurXA
+ _wHj7FpiJh5Jf6sv.m7iPBOHkQuPIMR5GzR2CUjIJdnkqAJjXFSri9oS6tqC
+ Soj3zYXsw8C6SbFEW7rt4dWZBNk5Pyfiw8u7VTUZ5XwzQSZIeYHCVhbavIid
+ cNXC7_VntZq8ICxWgVS4O5mBSsc1GWpKERrnhh9lt0RJBTnQOo6QaHRGPlJd
+ tGok99szuRroAcrShqqrkc5xAJf9EodHaQoi8U9jgEItOMIzmekDJV.tdWsF
+ nTaF4qK1eutdINmFYF3f3f4aNu7Ecbef0AUlvz0ms1h.P47hGzWBwpxg56sA
+ jigth7_PbMU0N3SToD0WMKpf1.qOsrnuMFCDj1J8W5Dyv9ccnrLjMkkeQyGY
+ jhUMBEFsjbP6Lu9zGUZgwvZxDElqvZdYpAGYxRBVU9Q81r9LscfbSWP0LzyY
+ 6RE6bL1Pz.24pjyq7GlI5crXOg_og3f7EzPjo_LskQiutNWaULyQRWzfBjOn
+ nGRKv41JKlfaHuvAFmi.cJijVLeljQJLpMRYbY4rrJCEKHZ1RGSPXYhMES7L
+ xcA7_EHKFHiZ2IEDkQaHBZtsfnKDrLwSzsOJO5AM.LyTUy9XpySQkM8pZSPn
+ 2oi3lcpZbbO01Mi.6cylnG0dn31Ai.K7gLYCVTx5Yw4YELlVc2lbr8d2JSK0
+ OzEEISz0NxaWqztWzZ0yFSjOhxzy0a6H.oDbPl_QVvq6cCvpErjyJMX9tU05
+ UDO9M1vbagVW.w6fEBSp2VjbHWVs1re1JGEIJO_fSA--
+Received: from 216.71.138.16 (EHLO esa10.nycdoitt.iphmx.com)
+ by 10.196.218.151 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 06 Sep 2022 12:25:33 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+  d=buildings.nyc.gov; i=@buildings.nyc.gov; q=dns/txt;
+  s=mail-s1; t=1662467132; x=1694003132;
+  h=from:to:subject:sender:date:message-id:in-reply-to:
+   mime-version;
+  bh=jzrAc61yMf8Kjs5/6GJz9xYJYBbTtJbOrNg215x8mRo=;
+  b=eNkWVYjsdnslujxXigWpHpZ99qjn8ihcO6WMKP6giWvEonrgw6srpOz3
+   A1ByePFO6QGYajQLwzVdIqhMKV1Pvv1OAVP5cqNi06lZ3QxRh4rvSwXj/
+   RU0sSDnxpDYBdOMiUXWUuwo3rKnAX6k7PH193+eSVNnN9EoEkXQ5Db6UM
+   s=;
+IronPort-Data: A9a23:75xeLayjGrehP//LkiV6t+dFxyrEfRIJ4+MujC+fZmUNrF6WrkVWy
+ mVNWGqFOf+LMGXwc9snaN7l8BwDuMOAzNM3QVY6/C00HyNBpPSeOdnIdU2Y0wF+jyHgoOCLy
+ +1EN7Es+ehtFie0Si+Fa+Sn9z8kvU2xbuKUIPbePSxsThNTRi4kiBZy88Y0mYctitWia++3k
+ YqaT/b3ZRn0gFaYDkpOs/jZ8EI34qyo0N8llgdWic5j7Qa2e0Y9XMp3yZGZdxPQXoRSF+imc
+ OfPpJnRErTxpkpF5nuNy94XQ2VSKlLgFVHmZkl+AsBOtiN/Shkaic7XAha9hXB/0F1ll/gpo
+ DlEWAfZpQ0BZsUgk8xEO/VU/r0X0QSrN9YrLFDm2fF/wXEqfFPy5PlPIwIkLbQi590vP2xez
+ 60eDSsSO0Xra+KemNpXS8FDre97dozHGdhavXttizbEEfwhXJbPBb3Q4sNV1ysxgcYIGuvCY
+ 80eanxkaxGojx9nYw9LTs5h2rn1wCCnK1W0q3rMzUYzy2bJ1gt9yrniLdfHUtaXRMFZn0CXv
+ STA7m+/DRYEXDCa4WrYqSv31rOX9c/9cI0VNbGJ09RRvFCwyGgwChtNdWO6n9Ds3yZSXPoac
+ ST44BEGqLNsrBPyFoWhA0fm/laVtx4bXJxbFOhS1e2W4q/d4gLcCm1fQTVKMIYirJVvHWRs0
+ UKVldT0AzApqKeSVX+W6raTq3W1JDQRKmgBIyQDSGPp/uXenW36tTqXJv4LLUJ/poed9e3Yq
+ 9xSkBUDug==
+IronPort-HdrOrdr: A9a23:pwB5060HMukHD93umrJR/wqjBTFyeYIsimQD101hICG9Lfb0qy
+ n+pp4mPEHP4wr5AEtQ4exoS5PwOk80lKQFqrX5WI3PYOCIghrOEGgP1+rfKnjbalTDH41mpO
+ 1dmspFebvN5DFB5K6UjjVQPOxQpOVvm5rY5ts2uk0dKD2CHJsQjTuRZDz6LmRGAC19QbYpHp
+ uV4cRK4xC6f24MU8i9Dn4ZG8DeutzijvvdEFI7Li9izDPLoSKj6bb8HRTd9AwZSSlzzbAr9n
+ WAuxDl55+kr+qwxnbnpiDuBtVt6ZXcI+l4dYyxY/suW3bRYzOTFcVcsvO5zXIISaqUmSwXeZ
+ H30mod1oJImj7slyiO0GfQ8hil3zA053D4z1iExXPlvMziXTo/T9FMnIRDb3LimjwdVfxHod
+ Z2Nliixu1qJAKFmD6468nDVhlsmEbxqX0+kfQLh3gaVYcFcrdeoYEW4UsQSf47bWrHwZFiFP
+ MrANDX5f5Qf1/fZ3fFvnN3yNjpWngoBB+JTkULp8TQ2TlLm3JyyVce2aUk7z493YN4T4MB6/
+ XPM6xumr0LRsgKbbhlDONEWsezAnyle2O4DIq4SW6Xa53v+0i92aIfzI9FlN1CIqZ4sqfasK
+ 6xIW9wpCo1Z1/kD9GI0dlC7g3NKV/NLgjQ9g==
+X-IronPort-AV: E=Sophos;i="5.93,294,1654574400"; 
+   d="scan'208,217";a="85313840"
+X-IronPort-Outbreak-Status: No, level 0, Unknown - Unknown
+Received: from mail-dm3gcc02lp2100.outbound.protection.outlook.com (HELO GCC02-DM3-obe.outbound.protection.outlook.com) ([104.47.65.100])
+  by ob1.nycdoitt.iphmx.com with ESMTP/TLS/ECDHE-RSA-AES256-GCM-SHA384; 06 Sep 2022 08:25:31 -0400
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=Gw3AWeuGunVHmjf36rJDDpP0VYv10F8mMTi5EQ6wipjn5lExNwWH0/9mqDEKZdRLfjMbcIWFBTYa2V5/csG+Yd9DsZLaj8A1BRni2avw7+SzzmDH+qBVv5vDadS/YwtCzyG3ZQ7XxqkmS9JA2NVbUmESpFTPP6FtqyN7YYIG8YYvp4TlcjLFG0+gBjfX/shcEdfQ3Y6by2GISKCRazOqI1DNuDOv7Jn2kzchMEHAuNhhqAYboVmKdvGJftztMFepuL5sydzzUk4IVPRgw+4lCyzOspGhnkGTnrEviWezJ6HfrRzQ/TyzCSJ4yu+h+sbjD6iEPD/uEkSod3yqqg45iA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=jzrAc61yMf8Kjs5/6GJz9xYJYBbTtJbOrNg215x8mRo=;
+ b=RO+iDrCi0VwjBPsi+ilrohHgFNaYMggltlYiGU/6YlT+D5eSrwF9NrZmeAvd7n1TdBO7FDi/oFK0u9VzzQrKmCP6DzBurgzrPbDg5xY2ppz0t2FQHcj6W7QaDsWMapJUq1EeVkZwgGv5b3gQ6TjG1wFd/X1ug2jCMFlpCK8zU7o78Cw69R1ZLx9pU0iH+Ld526KxUYsmkfuPTlYHaJOwmAyvpojbZk2b54XjtqVOTH+5AChnnWqOAPCMiMVxl/oHJ6tx/WgFYoPIw4By+7WlUxjRfk5iTYF9iU8fc7wGCVCJoBdqjCTtIs4daDBEaLH0Bhf4JYobYY8hQg9mvv6PNw==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=buildings.nyc.gov; dmarc=pass action=none
+ header.from=buildings.nyc.gov; dkim=pass header.d=buildings.nyc.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=buildings.nyc.gov;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=jzrAc61yMf8Kjs5/6GJz9xYJYBbTtJbOrNg215x8mRo=;
+ b=beDewzUb4o4A4GZHj8708jw84ZSkRoyICQUE1ItXIOFXpOANFz8A4ue8tXkg/ZmdZNiwj5qtpa3Rvoadx88vFyzeEGfJz3aktd14wmG+DelOU59H+XfTPlN+5o3XRaw5VInTbpq1bjt0mJHb5k5y8GI5EuDc9iVRtBBlsjrhaoHRFK2i2quDbtUQ3R5+qPL0A9Ew6iJcUle4zzQy4OyC6D7Bou00rEsfnzimyJOpqoFwGMg03KndYQ4nWP2BR3FiBdsf6q6YcbRcDe+r/vUxOJa099IDyzROtL7ywoNxRJ8pmFE1Qcp9dJpHnhbyrpHVM6JzF+QmTj9MnWGXNRK/Rw==
+Received: from BLAPR09MB6531.namprd09.prod.outlook.com (2603:10b6:208:2aa::11)
+ by SA0PR09MB6348.namprd09.prod.outlook.com (2603:10b6:806:aa::13) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Tue, 6 Sep
+ 2022 12:25:30 +0000
+Received: from BLAPR09MB6531.namprd09.prod.outlook.com
+ ([fe80::a4e2:53d:1327:974a]) by BLAPR09MB6531.namprd09.prod.outlook.com
+ ([fe80::a4e2:53d:1327:974a%9]) with mapi id 15.20.5612.012; Tue, 6 Sep 2022
+ 12:25:29 +0000
+From: "HouseconnectionIR (Buildings)" <HouseconnectionIR@buildings.nyc.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Not read: [EXTERNAL] Re: Fwd: II. VIDEOTAPED THE "INTERIOR OF MY
+ APARTMENT" WITHOUT MY KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Topic: [EXTERNAL] Re: Fwd: II. VIDEOTAPED THE "INTERIOR OF MY
+ APARTMENT" WITHOUT MY KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Index: AQHYvxhl+VOORH9hK0ShUnKZSKTwJq3SWRyt
+Sender: "Francisco Rodriguez (Buildings)" <frrodriguez@buildings.nyc.gov>
+Date: Tue, 6 Sep 2022 12:25:29 +0000
+Message-ID:
+ <BLAPR09MB6531770D49333694FDB2980DEE7E9@BLAPR09MB6531.namprd09.prod.outlook.com>
+In-Reply-To: <4bc148f4-ed64-e0e9-df19-aa53b2aaa6bf@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-messagesentrepresentingtype: 2
+x-ms-publictraffictype: Email
+x-ms-traffictypediagnostic: BLAPR09MB6531:EE_|SA0PR09MB6348:EE_
+x-ms-office365-filtering-correlation-id: dc770f83-f1d5-4245-0782-08da9002e301
+x-outbound-auth: NYCO365
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ sivXBbKAXUzV0B1s88BuVqW4+v7MuUfOSbrcpG92HGw8wdRew/mvdrLCH8Hj9fRm+vKl8WWjk/J2JE0x/gv9JHpCL2sl1jPRkLOEVMN2/bjs4J4S3ZFNtxfxqPpV5U6TlN+u9i+0RRWfuUU7r/BbxuJDtG8jOvxdnuFoir9wP2a3rV9XHaJQYW5hyHQus4f5jZnQ0buAArKX+/nu61XNji5C7+TNZWO/uAWb9yh/HO80tfyAWAdDVzP+Ozy+ZCsSJ+qMjvyIt8ML6w4qyJQdBrWW6BZYACeRpwCSIO3/8JJYev/iUCZY0dTkodFSk3XL0YdiO4YfI2CyL7BA7PPa7jtRTEwpbWkADMfJZ7tVb1eV/0d5j3ZBA7m07NOA5B/7Iq/OYTvgBS7Y0p/9m12Bal34Tp1oMXzE6500m8vMpo8unTNj5iwrECGyEgLp5vO4TN2f6nJLdz3mOwAAVkGkvpp8as9leTDkoALwdiyHKora/rXY/Rb1NrT8w8qJ2k5bRZ2h57a4eUngKjL3K5ApjvPQP1Pxy7Y+TYT6NFXYAuc=
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BLAPR09MB6531.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(55016003)(2906002)(4270600006)(186003)(621065003)(73894004)(38070700005)(82960400001)(8676002)(66476007)(66946007)(66446008)(66556008)(76116006)(64756008)(52536014)(33656002)(8936002)(6916009)(26005)(6506007)(7846003)(498600001)(71200400001)(7696005)(122000001)(9686003)(38100700002)(2490200003);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?bbCKJxuK+ptwTQXr5FKOcD7ftelhNcpCifMGxVQROHRLyi0oNBDYBWbBCIGz?=
+ =?us-ascii?Q?SmlqoYIEsXyUey6WmwftpV2OaAfYiTQVXjR68hWu33rwGJtf2ArxGYeSJq5q?=
+ =?us-ascii?Q?fTfP45+auCSM0c4QK3LkWLgZtQXit1RmWVpU6Z8qFiThfaSAgj9aaAl/vayd?=
+ =?us-ascii?Q?h4IJf7x1Za0CVGHLDL0yKV/y5HBbBV/tRuOWjp5X0O1lrIG1kClKwAJeXxyj?=
+ =?us-ascii?Q?5kf6NX8EHhRbF2lHKvgX3mY37OHUycKQAAo8r5pghrIAnefy4Fl4BNmovF5U?=
+ =?us-ascii?Q?At4ppON/a00WhPIeKZmDm87z85gM75PFpf4Ck8lgHUZXdvN1vEmLJImSe2dp?=
+ =?us-ascii?Q?Prp/qPX5SxClHD19XEaufy66dv5Bsmt/vAZ0SA9ug4bs7e/Sa0iyPhutyg0H?=
+ =?us-ascii?Q?a56z9yspnaWJadjm9VUKvlTm2G5VPlwzFOW0D9iZlZq/UZlXj6eyRB3tMNyO?=
+ =?us-ascii?Q?6EjlSsONVNHfguYyLTzGk7G/trFmAIr+YHQ2ncY12laTxtZDkq1DeF4YT+DF?=
+ =?us-ascii?Q?MsO58Kh7dJWNKNKWrp4vsoMzciEoHe0H2w/r+aQnQOF3b7Z6IMBwp8DVAlJN?=
+ =?us-ascii?Q?5APPxDBK3N5kT1mqU9Dhf9MF2M54Z8NpvwXxH52iAX3PKiHCSPnNw8/CXyLT?=
+ =?us-ascii?Q?7W7YqvvYcymIKQFrJEuE/pkK7gr2/vKMLh/jyLG2WfDu8oVeAU1B0mUpQuGu?=
+ =?us-ascii?Q?jA0FUZYdc8r7OMgZ0DUlqmtMYNBNQOSrzNRpx+1yG9q4MOjip2m0Wwr1qjR1?=
+ =?us-ascii?Q?PTrCTxeDRdENhOxwJaebFJ082tNw91c5xyimYVA2GoJYKDqe46Cqo5K9PAZg?=
+ =?us-ascii?Q?laeeqXejuZoeFd1odnlpXbII1aWkWTcAVGRsBA6RcLg4Ca5kce12Fd1R/XDn?=
+ =?us-ascii?Q?TFX2r/zBOadTZoxY2ywp2As1ZA7/CRj/L4FDzOokdvX6ZlqvL0dPh3qrHk+K?=
+ =?us-ascii?Q?BmkVbARNpAFoBO1cMzh64l0zUW5EIn2KO+Y+2pOMqJXRK16p08//brvv4KJY?=
+ =?us-ascii?Q?O4ngCKEG7r+RvOQmJY+B+Jj1BkriXmoyinFdrjtAv6vbEqYISLJLZ+gWmCTR?=
+ =?us-ascii?Q?T520Mom5iAK/C4qDOcy8Eco6KWPbcSDznNNv1JTqpsJegd4xqDr2XcVlufYw?=
+ =?us-ascii?Q?knfLHf1xyBIeZrQQ0p3mu+HiKXHfpq3fd1C4Rxu3DpPbEC9nHRucblJkfFzk?=
+ =?us-ascii?Q?a/MV6nMuLJv6xt8yPyGEMBoF0sQFL4a7x8G4v5xVVd05TN3NbG1SjW8w1K7q?=
+ =?us-ascii?Q?I0NVQheeqhCG6zOJ/vEPw5jN83zN8H0gt6Qg52+uwNxOu9wPrMgVGmm7NSrl?=
+ =?us-ascii?Q?7gXF8gHveJvz/fctu005wTrEIpPIcysWh08u2VoY0kknNEw/D89Y/Eww3got?=
+ =?us-ascii?Q?i1irT1JRhUm5OIKHgMxqgT6DvUKICQ/SrMki8bFFnYwbBtPB3T/k463NOqSE?=
+ =?us-ascii?Q?xSs/a0Uqfb+b4+C2GReQ4YXIeVugxzzq4jdXvvl1pK0clIZtF1qP4PqmxVan?=
+ =?us-ascii?Q?QDTzU8bFw5vl0IEoQ39Yb91hlyTsIJk6DAxApLgReHtrd2JTbTY8N4dNN5AY?=
+ =?us-ascii?Q?5PO7UvW1ECjVlib9f2GMpAP8qAXau5mb2+5x5O3CuijnUcTA+9GyyqicFt56?=
+ =?us-ascii?Q?+A=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_BLAPR09MB6531770D49333694FDB2980DEE7E9BLAPR09MB6531namp_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: buildings.nyc.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BLAPR09MB6531.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: dc770f83-f1d5-4245-0782-08da9002e301
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Sep 2022 12:25:29.9020
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 32f56fc7-5f81-4e22-a95b-15da66513bef
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA0PR09MB6348
+Content-Length: 2213
+
+--_000_BLAPR09MB6531770D49333694FDB2980DEE7E9BLAPR09MB6531namp_
+Content-Type: multipart/alternative;
+	boundary="_002_BLAPR09MB6531770D49333694FDB2980DEE7E9BLAPR09MB6531namp_"
+
+--_002_BLAPR09MB6531770D49333694FDB2980DEE7E9BLAPR09MB6531namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: HouseconnectionIR (Buildings)
+   Subject: [EXTERNAL] Re: Fwd: II. VIDEOTAPED THE "INTERIOR OF MY APARTMEN=
+T" WITHOUT MY KNOWLEDGE OR CONSENT [ 153974/2020 ]
+   Sent: Friday, September 2, 2022 6:04:34 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was deleted without being read on Tuesday, September 6, 2022 8:24:46 AM (U=
+TC-05:00) Eastern Time (US & Canada).
+
+--_002_BLAPR09MB6531770D49333694FDB2980DEE7E9BLAPR09MB6531namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: HouseconnectionIR (Buildings)<br>
+&nbsp;&nbsp; Subject: [EXTERNAL] Re: Fwd: II. VIDEOTAPED THE &quot;INTERIOR=
+ OF MY APARTMENT&quot; WITHOUT MY KNOWLEDGE OR CONSENT [ 153974/2020 ]<br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 6:04:34 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was deleted without being read on Tuesday, September 6, 2022 8:24:46 =
+AM (UTC-05:00) Eastern Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_BLAPR09MB6531770D49333694FDB2980DEE7E9BLAPR09MB6531namp_--
+
+--_000_BLAPR09MB6531770D49333694FDB2980DEE7E9BLAPR09MB6531namp_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; frrodriguez@buildings.nyc.gov
+Disposition: automatic-action/MDN-sent-automatically; deleted
+X-MSExch-Correlation-Key: FyQdIm+4eEi6KkWNMU12tw==
+X-Display-Name: Francisco Rodriguez (Buildings)
+
+
+--_000_BLAPR09MB6531770D49333694FDB2980DEE7E9BLAPR09MB6531namp_--

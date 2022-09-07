@@ -1,0 +1,149 @@
+From - Mon Sep  5 13:14:24 2022
+X-Account-Key: account1
+X-UIDL: AMG0WTNf+kscYxXlHwtp4JEaP0Q
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.210
+ by atlas325.free.mail.bf1.yahoo.com with HTTPS; Mon, 5 Sep 2022 12:01:35 +0000
+Return-Path: <HeckM@mcohio.org>
+X-Originating-Ip: [12.197.122.50]
+Received-SPF: pass (domain of mcohio.org designates 12.197.122.50 as permitted sender)
+Authentication-Results: atlas325.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=mcohio.org;
+ dmarc=pass(p=NONE) header.from=mcohio.org;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 5 Sep 2022 12:01:35 +0000
+X-YMailAVSC: pcQmD2c3bBsYEHcG43GIrmd86fx.puVCgf5hS9uGDTosStK
+ LCbxqNX.HfRRoka14pt8V8_P2yDA1dbqtV.olA3vKu3jlwUPf1H8JshpqD5X
+ vad6fMEZpZJIeuxmL6uo3sfg70K.1rgBaCsd_3Z4eNlFoU_W7.3wJ1uEEU0n
+ wi9NuBwEfu37_XfdbC3g87pG14F8Lj8rQDXJMsFw5nuxog5LXYa.7P77uGqk
+ NC7pE1spEsORfiixud5SQULpNB7Hrlzd_Juy6SRRaBcAZSkTYlx8FrGMu.VW
+ nwo6ZaU.KLqJWJbijw3wLZkCLMqekq97nt3gGA55XnhTS4CYcVpQE0osNTyr
+ oz4xVW4MN3fBWCFUATaGkUyFUgVBAMr.aEKvqkPNp4vwvtSOH0IO9J0naqWA
+ C0CeuPdhq4kzHsGNNQ41MQ7IVXc.OqfOc5ooL9DphwEVEGzwtDgXtO2fsG1N
+ RbY7U_qPLg9WeJaAkJvlt9uCvyS.IvwsLucDZJNlVlZ80KahRc90.p7RANnH
+ _rtiSDUwdv6wD6GM88gzkxGM._BkYDtoDbTjGbKJDKbJT5SkCxsvWT7iuW2O
+ krdeO4cT.o18Kt6DEg36X3EI6f43Zkj7Td2h6XKLykXAoDg0LzA.wj8Y7hbo
+ fE5QykP3PhMK5gHrRno5QgpuvUPYt9Fj2eJkAwjs_WY.oXIWfMdjz8GhPuhM
+ sob0Db.3hboPrSAsgvPWhOn2ljro3DHpztM_0yWdyRHYy1N2.RrgzEGK1GfR
+ iok0PU0JxqOV3ypIIvfiFExw7IN.osFjvAUg2vYPJ5fuXnIpAd0J3xFYLO72
+ j1WbnRFObuiOvsS69fJ1Gnlj8VEfzMXjxk.NbLxLYq7NlBhmf8DgqqJNrSN4
+ apMbsZqf6G4d9ORFdq3md9irGnattmDKxu3uHn4GjeVSUtcJGROrX6js29UT
+ 3XAQouyJqtPATxUCyYU._qnFDBA7tuHL7z3aL2niKPqwBIX08xoCCYEQyFzn
+ BlkhrC8RTZxpO4MihvVndnt9Lp.msg91rJIqjcmfp679aKHUKGIyGdoUS28Q
+ T
+X-YMailISG: tdOiCQ4WLDv0sV8t5D.YuYnPyN5P27MgQMGkBkw0R3tDdCyu
+ 1zktOvG4DuclkGDFM8eCDqiZsHC6ORz4JVlrrJ48.qUkWr9Un_jQXFluF0.L
+ 27PRb7mirFjpZIALgfEFcKX8Aq_IiDfkmVPv0WtS.0W5CiD9_tnffXZ7WTIE
+ CrXM5NpJtE.wwSNflXAH8mtZNC1eC8A3SCIZJXwYdTnCI_qKtw1k1SjxEaTW
+ .Cjqex7vEobsW1Qzc4Jr.bZT4Ml5.p9uLju37rDJS1tSfxsnUbjE9MWY9I83
+ vw7jX0.ObIQyear7pGlhg_2KJvI8yXdlBxagEOMIrnaFR6rPdDGhWFCB954I
+ h_FKTI59BaSwqldpfex_Dd2NrZBwVO0BiTbZOJw6i2S.xPSzav0azN6AkGFc
+ 67AExqO4I7ocgu080Z6IFjNszKpyXgNEeSV6BOzRClTu7DsULrR1dI0JOm0V
+ oTt6QJPUcgz.316SFZuVLmPObyqXORuA9vLFb0b.GBPDV4RSwgieO_JPl_.m
+ 4b4lu9W2I.UwVz.E4iOFhLBEANM1roaeOcYdnEixjkK3K0c8p3hxJGsXjcDO
+ PcS1_yECzUjxlOnX1G_6bT1KJum41f9mfgQ6cRxE5DazQ6.s6zrr1TBMidxr
+ eZUFpMYuq4IlfZ4x9wavnDtKwk1uwoQrkc1NTez8kXRXicoBvgExcE3iZnnS
+ qAEz7KQ3VIL.6lvkuRZXhmPhZMSB__epL6Tbqop1sKD2gX9Yak1Ja86RP724
+ JgWRa5DREiOcrUp7L6kiJBpfKzUCOwpTZ5lQnsVxPhTJy6DluuMls8GXQksF
+ dDyVxj7cll1LqfP45d9879i8TBXvrEe4eSNr5J2bzyCthaf6PIqehpEgl5J8
+ zo4Jrq21FKoC.eYP.3dzVodRM7s71M1SCXfafgzgmV7TIAbPyBGHE7nz3EzN
+ qI2rjL94UbQ79neRjuxDYcip0ZVTHEyPN4hAKg21mLXFnhgYcqJuRhbGpgVq
+ MxMzbA9LHDKf9Ae_KxavbgDLDTIrcDQ92V7aP_TAK3rTLaQBNXtnZ4.7ZAej
+ C8_MzL.4dD1GAF4eGw--
+Received: from 12.197.122.50 (EHLO mailgate.mcohio.org)
+ by 10.197.40.210 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 05 Sep 2022 12:01:35 +0000
+X-WSS-ID: 0RHQK2M-01-0H7-02
+X-M-MSG: 
+Received: from exch2019-mb01.mcohio.org (exch2019-mb01.mcohio.org [10.1.77.7])
+	(using TLSv1.2 with cipher ECDHE-RSA-AES256-GCM-SHA384 (256/256 bits))
+	(No client certificate requested)
+	by mailgate.mcohio.org (Axway MailGate 5.6.3) with ESMTPS id 208DB291730
+	for <ms60710444266@yahoo.com>; Mon,  5 Sep 2022 08:01:33 -0400 (EDT)
+Received: from exch2019-mb02.mcohio.org (10.1.77.8) by
+ exch2019-mb01.mcohio.org (10.1.77.7) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.986.29; Mon, 5 Sep 2022 08:01:33 -0400
+Received: from exch2019-mb02.mcohio.org ([::1]) by exch2019-mb02.mcohio.org
+ ([fe80::81a8:1b3b:4c33:942c%6]) with mapi id 15.02.0986.029; Mon, 5 Sep 2022
+ 08:01:33 -0400
+From: "Heck, Mathias" <HeckM@mcohio.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYwN+7pbYyCGoOHEmtaKwiut408A==
+Date: Mon, 5 Sep 2022 12:01:33 +0000
+Message-ID: <62e8a5f8c79240bcb4c8f6353abbae64@mcohio.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_62e8a5f8c79240bcb4c8f6353abbae64mcohioorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+Content-Length: 2043
+
+--_000_62e8a5f8c79240bcb4c8f6353abbae64mcohioorg_
+Content-Type: multipart/alternative;
+	boundary="_002_62e8a5f8c79240bcb4c8f6353abbae64mcohioorg_"
+
+--_002_62e8a5f8c79240bcb4c8f6353abbae64mcohioorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Heck, Mathias
+   Subject: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+   Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Eastern Time (US=
+ & Canada)
+
+ was read on Monday, September 5, 2022 8:01:33 AM (UTC-05:00) Eastern Time =
+(US & Canada).
+
+--_002_62e8a5f8c79240bcb4c8f6353abbae64mcohioorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Heck, Mathias<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/aboutE=
+vidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Monday, September 5, 2022 8:01:33 AM (UTC-05:00) Eastern =
+Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_62e8a5f8c79240bcb4c8f6353abbae64mcohioorg_--
+
+--_000_62e8a5f8c79240bcb4c8f6353abbae64mcohioorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; HeckM@mcohio.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: WKbiudOPfEa4o+VK4O+9zQ==
+Original-Message-ID: <4d0b970f-687b-defe-9bf0-dac0f77ce19d@yahoo.com>
+X-Display-Name: Heck, Mathias
+
+
+--_000_62e8a5f8c79240bcb4c8f6353abbae64mcohioorg_--

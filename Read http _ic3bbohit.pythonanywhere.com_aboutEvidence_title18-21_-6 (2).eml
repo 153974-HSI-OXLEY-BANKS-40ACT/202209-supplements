@@ -1,0 +1,166 @@
+From - Mon Sep  5 13:14:37 2022
+X-Account-Key: account1
+X-UIDL: AAjJZrgZDyusYxYtWgdW6Hs+Jeg
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.12
+ by atlas302.free.mail.ne1.yahoo.com with HTTPS; Mon, 5 Sep 2022 17:09:45 +0000
+Return-Path: <jwaldick@allencountyohio.com>
+X-Originating-Ip: [76.2.207.21]
+Received-SPF: pass (domain of allencountyohio.com designates 76.2.207.21 as permitted sender)
+Authentication-Results: atlas302.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=allencountyohio.com;
+ dmarc=unknown header.from=allencountyohio.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 5 Sep 2022 17:09:46 +0000
+X-YMailAVSC: 0PEBdrM3bBthdSGh5HH3vFNusaRSRFXbxwP.al6nJ8_0TFJ
+ EyVSFLBA1WUaseTDmc3ZG8BdO5a0DY1SAUIHh2hkGS6EryEjURLtOaOKPo0u
+ olNX_bjW6_rMHrJDk13FlFR03Ti90DmurQO7bEqq_Ag2Jq2L5LlktHTKhXJh
+ 1Tzy0WnogmXOu1.rjMRbUR5Sc4xpdWYmc0b4CiiCSp.hfA_jUlDwcCqPBTaI
+ nJBwaZX0h5JQsSLne2b8dh.FLZRKrocHZIaTvPhEB8zELR54pQObRcskWVJV
+ s98HyGYGuArVq8yUJs0po3FtMTqHJ.PNZXALldWysiapMh7ibpsAjCTNNOkv
+ q_cYSOfU_afpOwqlV366lKQ4Pv7LChfp2w1gnBRYsC3hN9KDeJyUjSAwdYYE
+ gfvE2gaEi0wMU11lmpWuucDuzkbbTqURvc46_aAY5Y9yUZ0z74xiEEzaqQZ9
+ PNrtFQvb0laSncnT_cpU.qP5cESYUyQXemUZrOob5g75rT8yHvoMmCSUi8Mk
+ FXD.RgaZvHTY9vOY7V8GV74CAN7svCSFDnf.V42JEugRZHxE44SOzup9V70L
+ SbvddvOqvqX.rRSc86MLAFJIbDFOvCgfBfRt1P8uYFPfhzaSdZBp7V_eSwEU
+ IjA1yWgMdrfHzsHS.SQXN15NZKWrmzw2YEvCrlIx6ahbq8ZIRABTNuNphC8k
+ J3QEt25PTZ461YObbyxxTqf8rtTCXPzhstNBeF6nvwZVMXIQwF3YHah0B7D0
+ AyasbPpJywxDV3bqyA5k7Ro3zynzQTa3pm7px05kpM_aRHBiGbfNngT4lbEe
+ Nymf5HiHibVVRg33ie.M3mu0kpgbQ8dSu2Gw0JakVy4ityS8QZaQfCRE4Cva
+ OHImHPwZue2jDw5wx.T6fdXSw2_TWVXZb5OTY6sSdIeRQRtXeXwneocWAuP4
+ P0hEaiAuloF5vg1hk8rwXs9WIKhFQtwuqNVOSDre6MrrHJ6EE60vnMbwTRDb
+ 0rnbQvp1_SaTzNLIdeVGiVcTmSfXuDjY0oE_dL54RNKEQBSJcg6l61Ob5gO4
+ gUIAhqP.z2CQYOojAcXPaRPzOYsO7p0NPHMZSsl9qfqKt6jKJZR2i60JFpS0
+ ZAiO0hDhOjl.Z83DBEx34MXwl6HqYdCAZNMvhknpNMxO24mQ.w1LoOLs-
+X-YMailISG: S.z7TawWLDs1joI8MOKF4FjefqTJhVmkMJhVSbQ5ap7rC8Kd
+ 1ChGyTFl5pfEyCXnKkoAOsNm4mYsfjRlwwGdQaLOgFniAnoRAsnHfJkuytoW
+ LfYwR71lChXv2_rQB5dRPK7HuznYJKZ_tr_Js4rPUB_3rQrTNcEdjVIJj_z6
+ yCRerk0mP6ZGIliVhW7ktuluQ8AwW70ytZQ300MPDdIBNEfvpHdgHjBwFNX0
+ RQy0PJLVvB1ZmqAmxzpzHYQ581WZCzfYnQEDQMyAAu62EaksxSH0sGzHdk7Z
+ 927Y.z0pOyBNUwq_gxamCOqk.qfgt4keKJzQ0hPfWC4XAn5Cj.yaAHOZa_7p
+ gBdZOZ3jsY1RUj02eGB77WhQkGrS.l72aVwqyzBHpstpTeCOY4B7h8qm33oC
+ VOuQK76O00Ll3h2QDY77mzeGM8SNM.exprGg7sj2ONYb8T3P8eBr6Bey28xi
+ HEDWp.jKYk8_BbiMeo6B5XQjYC_bpLK8wUv9AzhO.eDfJ8knIO4TmasimpyQ
+ .x175sBQEzmh4Pw6c0QWMkIqeVLs7d_.PUThdFaOle5MCSTZPaIyhxFq2BNi
+ oVFZ53bOCnaBm4EAu3OCqp1ah9iCmdM65fU5VU0zb58ZQBCo2_N0Gj6tyryO
+ 7HsZ0i3pE09Sb7NbZQt0XdiqkptvUQnSoAXysWyS7Ah7XIm6ZLtYzm5dZTBc
+ K8STLRZm2VqGyxvQJMVSfQCmCEG5d1NMqZxAITlzhq0YlaZEf9a8ki.SaLRV
+ 76Di4.quAurH_HJJ0bYSC4_2oEdf3pmaZL_JBAOZypxXvDPST_6h.NCts96q
+ yp6SrFs2d7Safzz0D7q5SULDnsyny3Uw35YZZWKPjz02bV_VnaK8fkTbDLjG
+ 1vGtIEmEmPGHHS5d8fJp5xuLutHB0nqV50.KcgMukK2ZSl90Yf9Z1zU_RVmx
+ 2K3WIOWMhGEiVmVd0IGAaHU6mNFRG872ReWfB2Hpe_Hucp.X8taAwF8a6SeK
+ UroZ_E833DmiNClEuyxQ0WK7pwgwc5cg_OTGkUzFQcaHQmva99jzGZfexysr
+ 1yIKMdRdIteSw7ZA9Sl3ejudDQYZDLYZI3K.a4d85rjTdTkAw7j_TmzH46WJ
+ 1kTb8xLZPLH6z3sIgVqSBAv0l5mv7gKUavG2q42YFwemff5dZnGzFgaGDNMJ
+ sq9DSdIK49JgbKFfbqQGmCfKLYc4O8WEPWbCJIh9S9ksitJo3USr9ebmrhlg
+ e7y4q1skYXNL9Ag-
+Received: from 76.2.207.21 (EHLO barracuda.allencountyohio.com)
+ by 10.217.150.12 with SMTP;
+ Mon, 05 Sep 2022 17:09:45 +0000
+X-ASG-Debug-ID: 1662397782-0dfc2e1735429690001-igPLcE
+Received: from Allen-Mail1.ad.allenco.org (76-2-207-25.dia.static.centurylink.net [76.2.207.25]) by barracuda.allencountyohio.com with ESMTP id fi2EfG2MrSbVDsaF for <ms60710444266@yahoo.com>; Mon, 05 Sep 2022 13:09:42 -0400 (EDT)
+X-Barracuda-Envelope-From: jwaldick@allencountyohio.com
+X-Barracuda-Effective-Source-IP: 76-2-207-25.dia.static.centurylink.net[76.2.207.25]
+X-Barracuda-Apparent-Source-IP: 76.2.207.25
+Received: from Allen-Mail1.ad.allenco.org (172.16.1.25) by
+ Allen-Mail1.ad.allenco.org (172.16.1.25) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.858.15; Mon, 5 Sep 2022 13:09:42 -0400
+Received: from Allen-Mail1.ad.allenco.org ([::1]) by
+ Allen-Mail1.ad.allenco.org ([::1]) with mapi id 15.02.0858.015; Mon, 5 Sep
+ 2022 13:09:42 -0400
+From: Juergen Waldick <jwaldick@allencountyohio.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+X-ASG-Orig-Subj: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYwN+8GCcM2zQcFkio/4aUBkdk9A==
+Date: Mon, 5 Sep 2022 17:09:42 +0000
+Message-ID: <a4824d283930414a874e93c6f9648179@allencountyohio.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_a4824d283930414a874e93c6f9648179allencountyohiocom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-Barracuda-Connect: 76-2-207-25.dia.static.centurylink.net[76.2.207.25]
+X-Barracuda-Start-Time: 1662397782
+X-Barracuda-URL: https://76.2.207.21:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at allencountyohio.com
+X-Barracuda-Scan-Msg-Size: 1152
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=9.0 tests=BSF_SC0_SA590, HTML_MESSAGE, MIME_HTML_MOSTLY
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.100577
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+	0.20 BSF_SC0_SA590          Custom Rule SA590
+Content-Length: 2124
+
+--_000_a4824d283930414a874e93c6f9648179allencountyohiocom_
+Content-Type: multipart/alternative;
+	boundary="_002_a4824d283930414a874e93c6f9648179allencountyohiocom_"
+
+--_002_a4824d283930414a874e93c6f9648179allencountyohiocom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Juergen Waldick
+   Subject: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+   Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Eastern Time (US=
+ & Canada)
+
+ was read on Monday, September 5, 2022 1:09:42 PM (UTC-05:00) Eastern Time =
+(US & Canada).
+
+--_002_a4824d283930414a874e93c6f9648179allencountyohiocom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Juergen Waldick<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/aboutE=
+vidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Monday, September 5, 2022 1:09:42 PM (UTC-05:00) Eastern =
+Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_a4824d283930414a874e93c6f9648179allencountyohiocom_--
+
+--_000_a4824d283930414a874e93c6f9648179allencountyohiocom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; jwaldick@allencountyohio.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 9h6KaLrKSEmLvF0SbcEQiw==
+Original-Message-ID: <4d0b970f-687b-defe-9bf0-dac0f77ce19d@yahoo.com>
+X-Display-Name: Juergen Waldick
+
+
+--_000_a4824d283930414a874e93c6f9648179allencountyohiocom_--

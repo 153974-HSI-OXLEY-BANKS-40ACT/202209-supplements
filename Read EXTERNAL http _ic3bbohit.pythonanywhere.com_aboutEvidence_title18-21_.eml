@@ -1,0 +1,220 @@
+From - Mon Sep  5 13:14:36 2022
+X-Account-Key: account1
+X-UIDL: AKgQeyEpGrj+YxYIMArZWC1FBoE
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.36.8
+ by atlas208.free.mail.bf1.yahoo.com with HTTPS; Mon, 5 Sep 2022 14:31:12 +0000
+Return-Path: <gwen.howe-gebers@henrycountyohio.gov>
+X-Originating-Ip: [40.107.89.65]
+Received-SPF: pass (domain of henrycountyohio.gov designates 40.107.89.65 as permitted sender)
+Authentication-Results: atlas208.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@henrycountyohio.gov header.s=selector1;
+ spf=pass smtp.mailfrom=henrycountyohio.gov;
+ dmarc=pass(p=QUARANTINE,sp=QUARANTINE) header.from=henrycountyohio.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 5 Sep 2022 14:31:12 +0000
+X-YMailAVSC: I1Ryt2I3bBvg7lKKizVboNM9F3j6JrXREGyj4hdyADZf25G
+ O4hnQZl6kV5TiQ4yd_7UpzqfTCxJ0sDF3.DeqbnvKJi5V4h24wM4GSBnOAYv
+ g6PsQcNdMzPbEEIQQGZse0NQjhembPiPnmv0A7U8v_IKIL4UIbRgPc76KxNY
+ ft1JAh_q7e_tYbaQtJ0iZz68LVkar2uvSaV64BoGeSS_GDW8TDirF.tFzxBr
+ FdMNJYJXzybdFf5aGiZcWlzXRiXDPjQ95HH8A0TsFRyy24mwV2tH8FfdkMM3
+ MlZE9KFSZQSS462DPwtIXL7ItuK5t3br0h1JVmZ2ulMn2lCaq_z.0U53J0WI
+ ymHomexuUFzFyZCfUMB9IPkcNXAb6Kp71d9QSMcPtJFVFNadKJuqn789zWQO
+ Ngp4vj25FG1.uWZQwiG1Zgn3LbTCN.ELAoIx7bZBx2Fd7XLFl0d1Ou_BqIwD
+ y7pwi7XetCMl2n3eVWyXAkFP75BKRdA6SPcf92ZeIimjdc2J4PisR0RN1e0Z
+ 9Pxg8M03kMui06ocfb1FZdw5uOCHXG8h9.FKoT3q5WOqW.KVJjoI_NTqomaP
+ gPyIwN4NJ8KWdl5_XwUy86vvhLPwJZNGxRDF40xloqJM2u3WHahQOUSmSER2
+ tq.yoIS1mMKkObFnWxMUiPOJkhipK3pX5Hu5Dan3zJEIYsiU05eURFj2jVFh
+ 5H29Ch1os8RTz.k_8_phs10Gj2WZFSk4uzPTmVh5awp0k57to.9GJFmPI.WE
+ NHRnEfRixreyx2J2dT6aBQDJJ7Bff0E0NBH.Q9pcCCJ_na3A4ycxnKOnjJs.
+ aatkAMelL_CG2HpBppxyurOz2kCm1yZgwxXNo2fkgWqO_EBk9Z_Pu_KOkjdx
+ r3VKadMbzVwQFz3lQIhzEaTQ8NYfLDN3yGBylAZpw5mkZelvATyQDcMBYl6Z
+ xn.0OGQ4pUH3WmGQ2WhX6uPWBMaaR1vHHNEfPSc5BEpgabWPrs8vVoyGYJvq
+ zTxDwf35zaDTLMlfuFhFzyW001kRdiTKU08MxntfGb5rugCpNNzsTIhLnOOX
+ rTyOcXgqaSUhWLWf5ls_IOWYj7PNLg3BDXl7H7sPJQ7OEZ47D7xHPuDstL82
+ OM3MG5ZbvdThTQvsP3dYQ90avHZ9LT2SxqBMuc9VmlYKeWYCKuH45F5cy2iL
+ UJaM8CgdFBD2OQ4eAzWIDsWtBx7Cm3D9gcXiak234EnqquKMWwGQ0JkUGlgA
+ NKI_X2sWTRhf3zAN2ssZ5VKWrbirCr1QxWLTsgFNFPR02b95W2D_DDrWVdi0
+ vGvW3pWs824ErrdjHzHH5_A8S
+X-YMailISG: 4Ad4xaQWLDtFqDQ9TwhabUZLgoyRBis.msb4mii6wXZ3yuX8
+ 7.Vu05BIs7_s7Yan9F3.YU2ad_J3ti5md3oognK8RIrmyBTdz8o9cxZaPaZ2
+ WIlvxbxptKcl1AgO.U1Tl5LZsMGDckJiTgodVPygeUf04alx3tSwklH6O4f4
+ xfcq9NiC9H4uYiIUFqW5k4iiZw7fLnBJuc3dzts8nJ1UqbB9OynbLaibZEpg
+ 5HnmEV59j24TQzclluecp0zAXlM6TwzsZM69yWQ6E6aIvgpntWzT7IaWhwRj
+ oWo49iHtJFV7K9w.8ZeJN25Vy4FYqBKusXFpgH20B6EHNJbJ24MG49igRzrj
+ pTApZ4YKYDYY_bmSvUYRsE02u7.7BRpzO8DYqmtRITw8.A3pYIvWvSpgr_g5
+ E3CcUOoQca2YM5mHWbDi2NVi6jB9_PqJNVXyC1XAMcRX3Z1y5BEb1tlsj2rf
+ pSS6Zz9wNrUTqrr24chrgyOJKr_ovKo1LT9ikiDSYtNiFzUXUOM0J4PCMNny
+ 8cWG1tyUmklahh9CWkLtglDouRN.MH2A76DICgo1qzhUjBDr_YLQjjpFZxv6
+ R7uKJsqS.OtSqpDWM8m5iUX3uta_w6WrO8tzj94j.2cInFvweO.BrUSuI3cD
+ hEMjg8v3Y_t2w4gUQCUNE.bammSi0uldNxbTVeq_Mane_xm8bA40s1Psego9
+ EXnSd1eHEOEFzb.PV_m5UqVP8k.gBI.TR2zE88Bh5quWWHmg9Mhdlxd.K_V2
+ E5NTysPco7AnZ3KMNwUzwwK4rTWqgdAAm1cN5OnA4l_pDx4JtqntEO0Y6l76
+ IjEhd4X19vvtWiMDFtiQzjs4reIDNWS83wy4nYvHf0K6py_9a9nH6BUX6Cnj
+ FKAgXo3PhTm.p1LHqYqzEINFy.a76QpRqF.lqJdE6qgWz.mqiyvpbGPpGKdD
+ Pygeg2YV8NCoyICmT_GjrsgF9r7jcGCGRRPfGtVkpmBdKrXlxkhM6ngp6o90
+ 28gsJ0cMqBt53pmqfVpiiVfLymBbpgr5.wcfH5vKnaYvAlxGW3tmQoBlHi48
+ vgB2VW6vmOE2_UimcJ50vE8BV1S66FRWxTPhe73Nmym_OR1aBELKaPpW480C
+ HEoGhu00AwR0tlHbB4tvBtGIK.pl8w9sCpLBjdGLsrznke9bqQj2YUx3Ou1K
+ RvHMgDm5YFC7Et4Pf_q0zGDKDbAIsYqCbEijwPKTPn8B1XvUcQ4mY7cINgYG
+ p4N.aOOQMO4V4u1uzQi8IiiM1YdcsBoq6gFuxwumtZ833Np_4ocFd4A1BCDn
+ gP3U4zx1LcWNpY0yjFoJU5xzye9BgfSghGwJnjmpSBGcLLLvoA--
+Received: from 40.107.89.65 (EHLO GCC02-BL0-obe.outbound.protection.outlook.com)
+ by 10.197.36.8 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 05 Sep 2022 14:31:12 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=SPXqjg3dxl2c5UoQEjt/1cEPdLR0/uA19EeaUU30SP42Agjq7qZc0jdBLJb9J0H9wui18gPgdNqXSrBotQOFeHw1k4cWBFsZnHnR6MQH6dxgPe7WhgO1C3XxNqCiKBRKS9iLD2B8GiU866EZJPQD17DJhcTaUr4VzaRbTZThsij43zIR6iqX+migIe/TFBFeh6KLKZuh2Bj2sagWFs4e9BTAEadPWzh2KqBL//yUGWtHrQwQhFzqZyqZrboAFuXZrCYVhIJ5pzAcA5cEpW/Rhwsy2v7uVyy9bfq3InAEuJVhRjgsiPuRyCfaIdTQIlGWx6Ww1h/oGTAI37tXz/4QGg==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=ZhTxKABUZZA+wUd34oTyxcguh5s6Owbe62pgedD4ROQ=;
+ b=oO1IBV+kzEKuEowKRwBGgx9Ao8KjUIPrls7fYLmoiCioi2pCVrak4xEYCCosDfUkPX1nFDzVk3ZmLCVLJlCsGwJ8+SuyT51rWdwC8YRMEP4kS/EVw2JtNM3a7IO7rk6Rjyq/zUPIEhQqEHlhll5ovd1/NTS6243E2pUEBDSnbVERfQ6S0ImFHnWyfC06IiMpbZHSgcegy1rwS7hnYZUn3gWC7L4740kdatccjlW6floxb0lmEk4edTme/QXj7Np0UYaO8qQw70NYe28ivy82mj07NFAsf4BvPova1kh3D65TwrKExnkSDyLwktoNI4R3zjr20/a5/O8akcpUsh9wcg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=henrycountyohio.gov; dmarc=pass action=none
+ header.from=henrycountyohio.gov; dkim=pass header.d=henrycountyohio.gov;
+ arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=henrycountyohio.gov;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=ZhTxKABUZZA+wUd34oTyxcguh5s6Owbe62pgedD4ROQ=;
+ b=VC4zze5z/yHdR1IR+Ynmxtt0jrOkbSZNhX7ruv42yN636RzEUIHPhQue3rFYyhdI3S5rPUpco8m3cLb3mFjn4hNzW7aeSE0c9Efqos9/X0IBhFY0Z3RihcFgCyfkMxDOkCHL8/H/pOBgGvVR7hjm1U+uGfkVeYxO4DfGPL6SjjQ=
+Received: from DM8PR09MB6693.namprd09.prod.outlook.com (2603:10b6:5:2e3::23)
+ by SA9PR09MB5678.namprd09.prod.outlook.com (2603:10b6:806:1d::23) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.12; Mon, 5 Sep
+ 2022 14:31:09 +0000
+Received: from DM8PR09MB6693.namprd09.prod.outlook.com
+ ([fe80::cdcf:157d:a0ca:daf0]) by DM8PR09MB6693.namprd09.prod.outlook.com
+ ([fe80::cdcf:157d:a0ca:daf0%6]) with mapi id 15.20.5588.018; Mon, 5 Sep 2022
+ 14:31:09 +0000
+From: Gwen Howe-Gebers <gwen.howe-gebers@henrycountyohio.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read:
+ EXTERNAL:http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic:
+ EXTERNAL:http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYwN++bTr4Prrgz0Ojty87PH9Kkq3Q5oho
+Date: Mon, 5 Sep 2022 14:31:09 +0000
+Message-ID:
+ <DM8PR09MB669336137AD25A648360B6B8D07F9@DM8PR09MB6693.namprd09.prod.outlook.com>
+In-Reply-To: <4d0b970f-687b-defe-9bf0-dac0f77ce19d@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 2a433fce-f514-4d01-9291-08da8f4b4676
+x-ms-traffictypediagnostic: SA9PR09MB5678:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ hfKk2fi8pelhFyR4kutFHjCf+psWq3eo1WHktGIhf3m4SId2jNwoUnZIzc26o3PPvyl2CXmzCKMlOLjdb8D6Zx+8Gl5xd4krfvYAejeU+NVB8WZeSVzU0FVPAHZiZeNGhlOdH7QcdRb5779ce/A7T2opWOuVoZ6j23eUbFQsQVWUmD382kpoUTx16/ESUhB3kJ48mueyXyKS6jFdzsp1xtxz4IER14r0A9o+zhA2lW42giNghD0SGsL0y0O1ebK65oUHojdCl0gbvHsH1GACR/GTvOU513CnC+LNEpXs4Iwq0mS8uuU3uFr2daegv/rKf3sRWwV4Dwwts/mSPtuOcVDIHA8Z4orSQca3T4A+cqOMJnO4doi7K/1dls2lKpFsE7hPX/08PoCygYaMxydc5WyP3rKSbXu+OtdO2/R48qj0j+uQeTLb0++ec8nAfhAFtVNA3pQ6MhEexGzl2LpNuVg9yF80HTZtIcOo8s0B7y9uYgy+bTHje5mqOaKe0F7a6+OE46S7/hMqIm5wZO+MFw==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM8PR09MB6693.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(366004)(396003)(39830400003)(136003)(186003)(73894004)(621065003)(41300700001)(55016003)(71200400001)(508600001)(9686003)(4270600006)(38070700005)(26005)(122000001)(38100700002)(7696005)(6506007)(86362001)(41320700001)(33656002)(6916009)(52536014)(8936002)(76116006)(2906002)(66946007)(64756008)(66476007)(66556008)(66446008)(8676002);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?VhyZk55DUpwSVihEi4UqZ8QFP5sZSNsCnuDvIhyWsFGtsOpE6iAFIZRfagqC?=
+ =?us-ascii?Q?lgF+RGbchIUMZHO+r1VApYBifCPM61uCfpQxV735vV+qaTLk63Zq0dcNp5W5?=
+ =?us-ascii?Q?mxP5+YfSu6MB3vnjp9DFki8T9jAh9NovOxqfT7gjEFpS+XbONvu9+3PJxDXR?=
+ =?us-ascii?Q?l2IewRmybrXgNd6fYjbKblL1Cq0KXwA7E6DEnz/f66iZnOxNDQ0uX5pmqzEd?=
+ =?us-ascii?Q?M6t3H1D1dAhivQfpu77jNUzXmPl6jPfzd3Jd8fN4nyQ3pH+Qoz8I/YDimwO5?=
+ =?us-ascii?Q?Tgep28+ee8srso/4Hi9Gdl9bzhBKdyYgOrvdVPDEWLblM878FwsCwKAaIaq1?=
+ =?us-ascii?Q?nTSrvVSvoXl8GXFYnHKyj4ocHptOUk/2aC9bPi70iOEp3tCgygCXWbRGg232?=
+ =?us-ascii?Q?Y2HjUZ3Kz9lCdBTeCQp64pGLBj6YyOTlyBH9l9nrU1lK8GsMjkcToLrUaSsN?=
+ =?us-ascii?Q?NHNjOuYzGqwsD269VerCS80EldpTTjRjkE1X8aqi4Btsv8PV/YEHHYLs1rkC?=
+ =?us-ascii?Q?e/Z0CrFnbP6vyVUYW957ABxDL9tfskAsTVudcP0HiTYnSZYiH/wE81hxCJ8W?=
+ =?us-ascii?Q?QvnktOBVXFCYvo74cU+6CakbRd3/5e2Lc5i65QyYbqrpdQIUA7VMJ3+Z/NF3?=
+ =?us-ascii?Q?iEavkqaaU8GJ+3nSuRpSef2fRiQutZrCimrY1rebnDmQnCAwne2UhrMh/kKd?=
+ =?us-ascii?Q?hP28xwY9R1wKKxIUZD5nT1s8Wv/ZbrHldq36CesTvWKG+hDrvEvif/CptdQj?=
+ =?us-ascii?Q?s0I7y/KbJvqs2MdO9K6o1SXxE6b3On0kiWP63uAWJPSVlb1BwmQ9p5MNeLIO?=
+ =?us-ascii?Q?vvrRf/0rcZZy6arJ6LsO/abtC3LQVZWpUNP0zsxwj1LhY7AHjz1IUgrK4GON?=
+ =?us-ascii?Q?282WM61l2C2RqieIdNC+Kj+j/8YqkNIpDTnE5iaAbq921yrEP2oyhyyoJ6Fi?=
+ =?us-ascii?Q?VISl/O+gQgJmXVBVvzsir3EXXD0xdNzmJAaF0jPopxiJ3p87EwwegC7Rt5yQ?=
+ =?us-ascii?Q?Zjfzv7pyWyuaQqKwxLfoe9ZosZeaYFoHMpLHIzkEQFYtpdKQmmgmCDe8UVB2?=
+ =?us-ascii?Q?ZjYnBujN+3h+gbUl9cszDKc95lZH6PyQ80c+abZeexIuvOKUgyjMIQjE8AsG?=
+ =?us-ascii?Q?hcxiJ5mGRBZzcErJ/ZebSz1KLHvMQWazYBRLTiWSj0VHtRlCykOXnPeCSIQE?=
+ =?us-ascii?Q?PFQVFZPYfmWGtkt8pJ7J4DXxbRwzNKcWGlPWknF0/b2d4/2DplBYzx9ldZHp?=
+ =?us-ascii?Q?ZQjvVO33eeCfa6hRFzcROS6Y60cdP40V4MfzMghNi7aitwTlni+hCI7fNubo?=
+ =?us-ascii?Q?zgzd9OWnXuPTfbiSDX25nuWbjJDTfg1yo1sxuLM+ciq9XJ6pk72c8YIiBrkl?=
+ =?us-ascii?Q?H/Y294CKTbvhVwTzYQKbXwROvrKy0xZI0R9UsWEIgRg7gxu84kx2CRt5uWV3?=
+ =?us-ascii?Q?9+dfeMscD9bXcv9BdYVYfNkdKVj636UN8pQ4ROPtu6AGT7664hrL2EXPd6XV?=
+ =?us-ascii?Q?OhhuSPU1IsuFtyO9WqOup6bwQm9RfQKs+aV8Bi94y+lrYExLZ62Q7PhT+zor?=
+ =?us-ascii?Q?EKHpzPY8y5k5nICPe2BEa4SgLXacEa2pU9wWMfCR9mFHU3Xwh2Z11Xue4Wai?=
+ =?us-ascii?Q?427XPr9vtxprpLiVRY1DIg4=3D?=
+Content-Type: multipart/report;
+	boundary="_000_DM8PR09MB669336137AD25A648360B6B8D07F9DM8PR09MB6693namp_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: henrycountyohio.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DM8PR09MB6693.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 2a433fce-f514-4d01-9291-08da8f4b4676
+X-MS-Exchange-CrossTenant-originalarrivaltime: 05 Sep 2022 14:31:09.3685
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 365d6ca6-c348-4587-9eff-963d88c6406d
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SA9PR09MB5678
+Content-Length: 2043
+
+--_000_DM8PR09MB669336137AD25A648360B6B8D07F9DM8PR09MB6693namp_
+Content-Type: multipart/alternative;
+	boundary="_002_DM8PR09MB669336137AD25A648360B6B8D07F9DM8PR09MB6693namp_"
+
+--_002_DM8PR09MB669336137AD25A648360B6B8D07F9DM8PR09MB6693namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Gwen Howe-Gebers
+   Subject: EXTERNAL:http://ic3bbohit.pythonanywhere.com/aboutEvidence/titl=
+e18-21/
+   Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Eastern Time (US=
+ & Canada)
+
+ was read on Monday, September 5, 2022 10:31:09 AM (UTC-05:00) Eastern Time=
+ (US & Canada).
+
+--_002_DM8PR09MB669336137AD25A648360B6B8D07F9DM8PR09MB6693namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Gwen Howe-Gebers<br>
+&nbsp;&nbsp; Subject: EXTERNAL:http://ic3bbohit.pythonanywhere.com/aboutEvi=
+dence/title18-21/<br>
+&nbsp;&nbsp; Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Monday, September 5, 2022 10:31:09 AM (UTC-05:00) Eastern=
+ Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_DM8PR09MB669336137AD25A648360B6B8D07F9DM8PR09MB6693namp_--
+
+--_000_DM8PR09MB669336137AD25A648360B6B8D07F9DM8PR09MB6693namp_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; gwen.howe-gebers@henrycountyohio.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: ZWZmqvpKdUC9JExT6eGzvg==
+X-Display-Name: Gwen Howe-Gebers
+
+
+--_000_DM8PR09MB669336137AD25A648360B6B8D07F9DM8PR09MB6693namp_--
