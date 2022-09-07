@@ -1,0 +1,210 @@
+From - Tue Sep  6 09:31:36 2022
+X-Account-Key: account1
+X-UIDL: AFB6+JtxrZSdYxdFTQRo6KjisI0
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.134.141
+ by atlas202.free.mail.ne1.yahoo.com with HTTPS; Tue, 6 Sep 2022 13:04:12 +0000
+Return-Path: <Camille.Aponte-Rossini@opm.gov>
+X-Originating-Ip: [205.131.177.151]
+Received-SPF: pass (domain of opm.gov designates 205.131.177.151 as permitted sender)
+Authentication-Results: atlas202.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@opm.gov header.s=opmseg2048a;
+ dkim=pass header.i=@opm365.onmicrosoft.com header.s=selector2-opm365-onmicrosoft-com;
+ spf=pass smtp.mailfrom=opm.gov;
+ dmarc=pass(p=REJECT) header.from=opm.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 6 Sep 2022 13:04:13 +0000
+X-YMailISG: FW_oh58WLDvOY_Zx77iRJpBhhTilssrq50PHwKLXa5MwyNPD
+ 8MVt5g8vN2AXBafX0l_Vg5NHDP8XLcOAF30bz3cFfacbYeHyc13ICHnpS4Fk
+ iH1yfizTi4SFlCqEH8pEBZduwj7NvBUrbrCvGM1ShVq3qbAQD2_XWfFHN8On
+ 2aWyUt15aY3z6ga1fyBVP10Am0mlS6HsZ4_NN6r4DJScrgjC4O6t4Xc9uOj9
+ stAszRHZcuJKNHkEHOr8oGybhkTVsKZe98TsXvN5auLc4brhla_Uk0k8Mk0s
+ WGKE3IA2vRXIMjvWUAmOjA4rG0sRVcVc3oxRxe4Bv6B1Uem3LK6Gsn0tLwj5
+ S8EekJ5dkeaTKw778a7ZuhzjC8hx13op0fL197.u944eO2S95s0mkmUE83Wa
+ HVJL_8JyrO6uQHXq4mBJ5UOjcGNfynCJOxGnIDYOySBqp5kNfMW_9TXB2LSf
+ OeUErM5_IITfGNoIuqtNJq37CcdTvCVonnztbjTojQTL4d08bENViIuDhzWN
+ 3z0cydEq4DpRVaxJqV.cSzIzkpCk6_QU0N82Lz4_MY81Y01AIbe_HguX_lT_
+ SACW65ZvKAuN_hkG6vOQFftuRpHrzcjAlGwc7beOZjG1gWbq_H9WfGOOXzOy
+ kIB2YEBs2sHo.nZdMsMdQhrRTaxEryLs.F4pxd0hL6PCmvqAbYxeuDQmVYOa
+ yUcQwthly5dyWdIdShkGuqWQenK7FkGxVD56lV8GYHDJQca63_aLEfFFl50u
+ B3mw1AapMQUlhd5nizAxcRJ99gYUFGxRgDQ2mYEgl4atxB3UN7vr472HThf8
+ D4M7nO5ursJo8PyA70CJ6V4OH4NsN1du38O64HKiAU60C_6vF3_3lNfkBwIQ
+ eDmsH6Q_Vn0gVz_0Ql_Rnb25DJxchWRQ8S6LdKz1CKxniivA_EkJm.WQtfZr
+ 3xjwF4eoAy36laj7GBgaYmRUQGsR5.2zXF84x4oXPVDIFYCEwXWz37JSpvBQ
+ 4i3WzujgDUhmXxQHmxeDKgixG7it4BwaCKCow7ztdpsdciV2GihIqMXrZclZ
+ VylY6nW1U_L6f2HZlFChhdAnWtPNEsfpcL9Hp0pTIvmokZFaR7su5bh4SBKa
+ kfKVBE2eCvAB_2GSs4OyP1AER4ei_eoHcshwMn1b2VnFj8jh6hWUhS8AnihE
+ SCDC4gJeZjm9jPM_oNXY18Yi0cieZf5qVuPTDiOftqnyX36shxzql7FIeaPy
+ qG8gxL8K_HbzQdnBDxhjIX12Ek_sUNFbbVM6mxLoS1VdMUhx.TOoK1hVA5sc
+ jvsm0V_RFPnip6vDP8mZ6v2SOENyBpUsaS1yKIy4Smyt5FkR36YXcX_BuN0S
+ a88guIcooON5YLh3LnJfG0bEI6oUZCqEnCgzwfu_TRdj.zS3WtSmfKf8SJQc
+ OuTQfO8j1GtmQ_s-
+Received: from 205.131.177.151 (EHLO secureemailgateway.opm.gov)
+ by 10.217.134.141 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 06 Sep 2022 13:04:12 +0000
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=opm.gov;
+	s=opmseg2048a; t=1662469452; x=1662505452;
+	bh=nBvB+IGH5eyifRh8f8IOlI930dtpo/WKK5K/mNoJGy8=; l=2095;
+	h=From:In-Reply-To;
+	b=MusWp1tq56Bf2JYQRjrMPfeDPDn8KtTaMmJGWJToKHaUHWuDkP8+eeP8znxNJf3WW
+	 tlFF6QbVLCWdQmH8u09hAN2YYzx5yamC+Cqj6QKCzRSm00mZwq0Xr2YSOF6E5VwisP
+	 2zSzdo1eOjuLU4NWd9HE0ToAxThjjHjfgZBiVh5d2BHLro9jfd4vY9wty1N6GBVIn8
+	 uB3tLf9VCneakcf/yRnjpnahPy22G3q7pY2HyblvjKV7RZrYRzJC05dGjZsOtW7boY
+	 Plv4AACQtgeIzq3Mt7XFOqlTC37lOsEyv42DzxDoZkQ4Gm8WCdEU1uu6UNLO11UJtO
+	 JRdIfkTTfl2bg==
+Received: from GCC02-DM3-obe.outbound.protection.outlook.com (unknown [104.47.65.101])
+	by Forcepoint Email with ESMTPS id 24500D9DF2672B121AD7
+	for <ms60710444266@yahoo.com>; Tue,  6 Sep 2022 09:04:12 -0400 (EDT)
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=RgAy+AXtQW0K/F7Y4lKpIlD6JuvpU9s0OZc3rUyWXs6dBJKrEQMtORCcsDZ6qLQr7GJUVALCxOZTd/jN+WYbXhscMjSVxrAL8MDAJLJFbOhitQrRxtqFrW4z+lHtliamiuM7RudymcOqA2xN49DOyiiGaCDTbkvh5MaImWN4gQB/r9FC3zwvoAMKmUC8RK689xhYjegcjq2yJewaA1ThX42CbS8LIvViiA757HEcp2HN0JjRC/Rd18wkIh9TMNALTQ+VjBgFnpDgCN5jGlR0dycxldU71ifMJsNfpm+hTLaonJb4QW9CpymB5B8tfB+6fJZAy2qEUIwBC2fOl1kFrw==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=nBvB+IGH5eyifRh8f8IOlI930dtpo/WKK5K/mNoJGy8=;
+ b=AbRktDvGCXt1wgP4a8wg7lNY3ZeMvJG4nbYLyL0c2EPBc1376QFW+NiPEAqj3PUPhhrvcZzLY3KpTQvayQQUo1kEkZPiB1EwS3VCoz2GowY4WVqj15DST9hTu4f9fCvy1HVnR3BmXTLaRme1mAMAXeSKJtsfr2LTTLcPUqVCFPbtgWQFGjKreu3+mUyjvDFP4rqwG6mr5hNseyngbzCFvgkEuzYVmuzJNhfXh07YtJtqe7ZTy/eDRMVEZ+Y+PiAq/4HraqokRUhmH/zt7OMameHP45hreCr9lpz04FJlkd6Ym9yEgGldKXI4uiWkcfDkv9dY4kbp3+cj1l1VKEOG+w==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=opm.gov; dmarc=pass action=none header.from=opm.gov; dkim=pass
+ header.d=opm.gov; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=opm365.onmicrosoft.com; s=selector2-opm365-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=nBvB+IGH5eyifRh8f8IOlI930dtpo/WKK5K/mNoJGy8=;
+ b=0ambWWdI1yUMVyCLJkPD91ioEE4L3oPN0aoHZSFcpP36G5UO2CYGGkRnvj6WJA8Z9NnCAO8COsXZBPsFE98DGMvDFAccVJugLm6EMPclAgFHRScB+vsbCahR0VrnRKSxV5lq3pdvaTdYWvNiJLHdkKHYtxP4rb5rOwCayU4szuM=
+Received: from SJ0PR09MB7024.namprd09.prod.outlook.com (2603:10b6:a03:261::14)
+ by MW4PR09MB9442.namprd09.prod.outlook.com (2603:10b6:303:1f1::8) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5612.12; Tue, 6 Sep
+ 2022 13:04:11 +0000
+Received: from SJ0PR09MB7024.namprd09.prod.outlook.com
+ ([fe80::307f:bd58:9b18:ec22]) by SJ0PR09MB7024.namprd09.prod.outlook.com
+ ([fe80::307f:bd58:9b18:ec22%6]) with mapi id 15.20.5588.017; Tue, 6 Sep 2022
+ 13:04:11 +0000
+From: "Aponte-Rossini, Camille C." <Camille.Aponte-Rossini@opm.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: for violations of civil rights, and privacy - use this link.
+Thread-Topic: for violations of civil rights, and privacy - use this link.
+Thread-Index: AQHYvwmDEWyaJzK94Eq8JpaGiXIK4K3SZAZ1
+Date: Tue, 6 Sep 2022 13:04:11 +0000
+Message-ID:
+ <SJ0PR09MB7024F2560D51F7F5FDA74371CA7E9@SJ0PR09MB7024.namprd09.prod.outlook.com>
+In-Reply-To: <fe81b64b-7154-8d76-4c9c-c8cdfef8d7c1@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: a64eaf90-e939-442c-b9b5-08da90084a97
+x-ms-traffictypediagnostic: MW4PR09MB9442:EE_
+x-forwardedto-forcepoint: Yes
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ ytXJV0EFxLag3zdkLwMYroAUVh8YQ71avelDfDv4B1KcE+sU2gUVpFerrZzbpJ8yj9/HCX3Rm+6SHSlP5QecABbGfMCYNdnTfqBxAg1V544iAHLt46ZSPXFarZoSdcpFHa0ABwQgq3owLKTFN5dQOyuRxyr3UlKL1FvxszgPR1WdMV69oDmpUNgBOEqMznNZ+Voe00KEHqK9rU1zYcqZjmiURwGfPh4SNDRCZL4HLeux8C0sMJqBUM1P4MMXHOwB4yNwykL1JxTXDbxmnOx/guBxBajTjnLAOSRyK5I0X2EhNCByk6AcEQO6QuIRmlyDiYXCrJI2lzODfgJ/nZDLH8MLoqyz9XzQT8YP6SmTbS9q7RZPbCbmVdL+LkXMpdr8deCnYaEfQ9dulZBLt4feZ2oRtXNyVs3GixXtp4MpUI9kuAiTPkCwECS7fP8XtMxR/b0BRGI5E/b7I/GB7jRBt0aUR8Xf+fC6Rdr5hlvFV1NI+oGKoA//SOomkGNKI8k4
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:SJ0PR09MB7024.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(4636009)(366004)(38070700005)(38100700002)(122000001)(76116006)(66946007)(66556008)(66476007)(66446008)(64756008)(8676002)(6916009)(2906002)(55016003)(52536014)(8936002)(73894004)(621065003)(186003)(4270600006)(498600001)(7696005)(6506007)(9686003)(26005)(71200400001)(86362001)(33656002);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?3FIImtjy+qxWdN+B5nv/hepq/OS9KIaW+6/HvZ3NbFqnL+U0h7t1scUdHHy8?=
+ =?us-ascii?Q?oZ23NqJtAvPrhtlPLVG9ptl70mr+vvxMaTTF8OB1kw5cSugAbhxSDfuCJ+1G?=
+ =?us-ascii?Q?aL56IM+tR6wns7eHgiSUXcIC5vRor/Jczu/YKUsd7UB1aEac+KwN614iMLA3?=
+ =?us-ascii?Q?MFL6rHvD6UlmpjSfnGh3R1zG5ueb68cMucXKbQjbppM4j40hVveAyyWiFnAk?=
+ =?us-ascii?Q?smkMVdh+4EOZsYVaS9pE61FY8o53gsBK+OA5xLD8KrhBav3ZrxXI+z0r5b0X?=
+ =?us-ascii?Q?G3QwQH5Zzvf3HuwyO4q17hVGsBB3/oR45tODmOmMicYLJ5LOidU1syfTBGV2?=
+ =?us-ascii?Q?aD5zyLe7rnaE/A15btbTl/uZuGBKQbfQrIyhAng0N7fuvaaZXbykOLZfQ8aw?=
+ =?us-ascii?Q?vvM/Sh76atiyKgKHMRya4EqWRRHx/mdVVxcWSgv8Pwl97rr4uKEh7/ZLOufo?=
+ =?us-ascii?Q?rONb1HlthDoAG0XaIqpU4ysocpLs2qm7AFbw69+6nGFbFB7mYFQOTuwhtiV1?=
+ =?us-ascii?Q?CQadZWTV4oWFqLBScvT0fLQ+S4Jqh+NKPgLm4vA3i9vj746Zo/dvS1cBjUJk?=
+ =?us-ascii?Q?LwJe8J2jD8pDlqenVc0bvuH/tM9XBYXzoqD5QTPq0wtkfv8ZaWoAS6ermGTl?=
+ =?us-ascii?Q?62VBLtSO1vvCh3ZB+GRiKv6td9AbZRpNjjOhgmJhxP+gWjP9ap/XqDt+npmu?=
+ =?us-ascii?Q?z9m+XJSfMfljY7m2LhETmb9fpSBfo5b7bUiyd2CqUAhhYotOn2GfAtOCA5Nv?=
+ =?us-ascii?Q?aHHcKV8JcMngbH25HK80Zrvi5hANpUWAdTen0MqRL/lxv9kJ/g1amBvp1om0?=
+ =?us-ascii?Q?ocXwhvOoydmdHgek8Gh52LBFSpDXyaL3FOYVeGC7WDtyWgJg662XZgeIjEg5?=
+ =?us-ascii?Q?YbXyk9WccMFIQPXVHNaYjr+F1SN8eQCcWjfGR+cbuBGSE/F163p0jEB0EXaF?=
+ =?us-ascii?Q?/oMHmEc0ut8T2CuqHMEDr/jpmtQ5Mb6QC1uoVWrzS3UwexNamXwal75WZ5PQ?=
+ =?us-ascii?Q?0JJV222WALhViXy+7ovjKKi5OMT4G+AJkrHv+Fb3Tz1ggYZFL2/zJwSGmWTi?=
+ =?us-ascii?Q?fqIPh0b/PVz0pXUCtjuD+Jo35bXVvmNKAMS1+MHXVcZtSnVIKLapri66Ey8U?=
+ =?us-ascii?Q?15gsiWKlXTqIXlAdn5duA/WpG4GZ8tOm2lVXaUaw2cOocVvOdR6eubZVaMI+?=
+ =?us-ascii?Q?hnkU1B2K55mysdR1M71mIFYzfIRohYzNf1cSs1sDfoPmS+e66+EUDenCk8F9?=
+ =?us-ascii?Q?z3+bw5MHWpHFjEy/GeOe9qRoUu8VdrCKqDaX/rVQu2OK6bjmjmdID4FpyZLi?=
+ =?us-ascii?Q?awDY5ljR8XjkSGwa6mCEFL8hWExnssXTjK3AZbpwEYoPSi7udDFzFCxqSJy3?=
+ =?us-ascii?Q?jtU8mpxblGzgw9lQqwgYYDDaEQUtUTUuWFyOikFspoibCoC15AuyANNhyP1O?=
+ =?us-ascii?Q?EQUyarzwOyJsbnIAWVd75AIj4kIh1qUgiUpuguDlNi6HIak8tO7Xi7kTyd/1?=
+ =?us-ascii?Q?5zXBeHPcoGdxRrVJM5uNpG7/6jJu+mvrQ+RX6DAe2tzccusAk/cojj2jbOYz?=
+ =?us-ascii?Q?6aY8xlql0IIZFUno9F0sN8H8QlUt6VcwbC9PjMmQ9RVx/Ze3gsA5+lLazvlO?=
+ =?us-ascii?Q?CA=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_SJ0PR09MB7024F2560D51F7F5FDA74371CA7E9SJ0PR09MB7024namp_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: opm.gov
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: SJ0PR09MB7024.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: a64eaf90-e939-442c-b9b5-08da90084a97
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Sep 2022 13:04:11.1630
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 844ef997-7b63-48f0-882a-7dc8162e363b
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: MW4PR09MB9442
+Content-Length: 2043
+
+--_000_SJ0PR09MB7024F2560D51F7F5FDA74371CA7E9SJ0PR09MB7024namp_
+Content-Type: multipart/alternative;
+	boundary="_002_SJ0PR09MB7024F2560D51F7F5FDA74371CA7E9SJ0PR09MB7024namp_"
+
+--_002_SJ0PR09MB7024F2560D51F7F5FDA74371CA7E9SJ0PR09MB7024namp_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Aponte-Rossini, Camille C.
+   Subject: for violations of civil rights, and privacy - use this link.
+   Sent: Friday, September 2, 2022 4:17:28 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Tuesday, September 6, 2022 9:03:25 AM (UTC-05:00) Eastern Time=
+ (US & Canada).
+
+--_002_SJ0PR09MB7024F2560D51F7F5FDA74371CA7E9SJ0PR09MB7024namp_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Aponte-Rossini, Camille C.<br>
+&nbsp;&nbsp; Subject: for violations of civil rights, and privacy - use thi=
+s link.<br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 4:17:28 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Tuesday, September 6, 2022 9:03:25 AM (UTC-05:00) Eastern=
+ Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_SJ0PR09MB7024F2560D51F7F5FDA74371CA7E9SJ0PR09MB7024namp_--
+
+--_000_SJ0PR09MB7024F2560D51F7F5FDA74371CA7E9SJ0PR09MB7024namp_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; Camille.Aponte-Rossini@opm.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: B9hlqy6YD0iulUOd2AWTYA==
+X-Display-Name: Aponte-Rossini, Camille C.
+
+
+--_000_SJ0PR09MB7024F2560D51F7F5FDA74371CA7E9SJ0PR09MB7024namp_--
