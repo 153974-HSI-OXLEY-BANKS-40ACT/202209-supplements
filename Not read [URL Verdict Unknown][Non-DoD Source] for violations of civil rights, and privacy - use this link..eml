@@ -1,0 +1,208 @@
+From - Mon Sep  5 13:43:45 2022
+X-Account-Key: account1
+X-UIDL: ADcoR3NYmh0zYxZC4QcA+CvT6CY
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.151.10
+ by atlas215.free.mail.ne1.yahoo.com with HTTPS; Mon, 5 Sep 2022 18:41:36 +0000
+Return-Path: <DAF.Privacy@us.af.mil>
+X-Originating-Ip: [214.24.24.197]
+Received-SPF: pass (domain of us.af.mil designates 214.24.24.197 as permitted sender)
+Authentication-Results: atlas215.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@us.af.mil header.s=selector1;
+ spf=pass smtp.mailfrom=us.af.mil;
+ dmarc=pass(p=REJECT) header.from=us.af.mil;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 5 Sep 2022 18:41:36 +0000
+X-YMailAVSC: R3G.x.M3bBv02KkGbL5Jr31X5jxqZ7XqCHcrTgVUnvlCOOP
+ 2GAAaNukvykj2pNTxJZ6dU.cqcqwZ9p5O5GVa7tCNkX8ooTZKMgU1_Xe2eFk
+ fcAEKxfaqkPB9MkX3dnXLEK5LglEglQm49HwJhtUJQwE_GZ7H0diAypLtuTH
+ h_0wQvzeAHd0E9MC6Ecpbd_C3cEPpEmLnXEZOFGgBVPqASbsioyDlUO1aYC_
+ DgI7eRsZIrioOKEBYJ87RNi7eQyqHwf1weHcTt_U0f3yMyJxixmB7WQLej4m
+ tu_9_O8sydSMXD_95U1D0Y3415rpsnmTpBlU8DO92PiO9rG4b0k07GxI7s.p
+ w1vHehPZpygGzrvd.0R5J0F0Abql302CMNTQSqTktUOSHD.jcbo4FiQELyRw
+ PjIu_KUmG2NJyJvSwjw_XeY6Ubl6pnIXcOaDxQGB4bZ3cTmut8nI4e6UGXP0
+ WKhL4ICxv0iEec06eMxTZ4TLgwX0KPxf1FK6KQzOM1XQCf3D2aa3zUudkSDu
+ WQwnHvQs63pyJvQUxbLVoXnveFJo9EeynSEapCc9xRtuHtApjHJwbN_giJfD
+ ZXCHdcT3yQozqdcWLEpWlDirx6IAxgUBA9H9a4LRhIHSO9jWZsykudxV7.yz
+ IYuhSz4hpASyKMSakS7JxufrorkgETM6dlfJzmVDM_6_dr6siYtW6t_IYja4
+ 2nNaW8f_i9Ja6s8p3RMmyaoS49ERBFsB3fQdxeccCvjTo_MtQSjzesFYw_oN
+ srZD0uMYSssIkz28KWcEpwisux3CvQrSoEnMceNxGuh8LRJdenStPJ1h9jOa
+ YpNQfZ7EIA8M0BMw1jFOFo5qyqttn.Di.aykRZfNwFp8vWndJr6.5RqJ52ml
+ VyMMu6hpH93mDXzv3W4X1WFmI3SatEvFQlqp8WoW15W88vjpc6whyhPbrXL6
+ WW6_nwtg4ZN4m9h3TAWlEpEeMUMeLcrXLPrapiNilPMB9a8gCM3KECt9RyLw
+ gxbELY2nLGo0OlSdxK72OaUhMwWfUJCIU7aUPfmzVagYi6vAYWW3m9NL7Qjf
+ oqg5lN7mIc66BfITUvQIH_lHyZBoh2FA7qB2xpYP7J7mJIXqBNmmPL5MISbQ
+ -
+X-YMailISG: NeJXzK8WLDtFxwA4JRvKQ22YhdSL4hHvScr9ouck.raQRdry
+ pSWyR5S4uAyhHniE0AlshJ6rIWGUlg6TvtHeH1fR1AiT6YggxcOTO2pUNo7I
+ 9q.RjzUbysCFt6xSGsAI6iGDOv223brNqr6rL6NPzBLSs5dQFnZMxl._NGrc
+ 8s2Fh0EwDnCnN9k9r7cHHG13tH7XG.eoh1Ka3ejciK5.pj25FY8t15Q.B8Yu
+ G2FmCAwyGC0QsPVrWBMtI8LspDunIgawMYV0yUQgpvQ6eZAnfMxazmnf51CR
+ wK1Qxa6aSHDfpj8kd5hVsTmHyS1IpcXa5eKO9AntfJuI47JIcOddzl_wmJ9w
+ lzCuVdQTmaf4qFSmTr8Vu86c_jsNUDiBKt8ipqoXDqIpp0wrCsVRV21sIPjy
+ ycfVKhvAwRuAkg9r5OWf96hd29rJrYBhiYO_WPPPv8XEtUgm9iSDz7xtWp6N
+ ZM.fsoaMdIDTpXJPh6iUhhAtFIHOcA31dOKSW0cL2.BqLF3Hey1tUx0V8aWK
+ OL9jUc9PBOLP_Rxwp4f_iCIMnurkLoj1MHRIFnF1WNF3fn0XLdNTrhkPxm7M
+ yAEueXOXTCG_OuLANr7R1j2s_RtJkjyRayYzByK_whHWTLVHDiok8_7FCMTf
+ Z744DmKQwsaP97t7YyCVDx.X2P_rOM8qsol5JO_HIFn2C8ybb6dZF_pek4xz
+ 4Ni7fxYFv_nc0z3V1WOACCKGEkVbOo.rh6rENRwTpwVqBPNC3jXwpd.LQ30.
+ R9o_I1eAhaiY8W97Lr5FgB8VQEovrYjOCI8n6WfKzAdCI2cMs1nuH8DE9Hlb
+ r8_mMZ2SugAbqV5cbp3BZ.CSR2Z0vwp.lBby9T.DcZDchlyD2rQlY14K66e_
+ ITtdTDtv0DHPGGS3TMmGd2mgiR70Eb8k.cTBWI9PXcOKNcCIiJX9QQyCBzHh
+ .65YbHtPCUf0HKJkPCFh62.6OoWncNHRuD0PTbaQZ.8sUEtnXFDs40ukOeCg
+ Xf6p2l3Sy0QnAxXGQ5L3Pgj4ka5w0Q8UYUsSdlZwqPqDb2DpKxd3CB3UqNev
+ Xx1FDgwLSJ2Gh2j1Jp_K60JRZl3WRoWR7CV3TWBnLqz.BqiBwe5vpZc8yL6f
+ cTElOH6509kPvmPNZqTHnW1GXARwcAibkIg0Tr1W1h_rU28xxxTf3L.T6ign
+ KeUk1XFKyFimoWkIgJQH0tEd5UI0zlxhnmD31Oy2HnejM4xO_pYgmCbLxZP6
+ oK9Kuiii9l9JZ21CH73XJmU6AE.zJZM.VUFkjpsjuoH54Mpz.eB4gcGiADMS
+ bcP2JGTjbvqoQf83hFCRnD9kiW9nsSax8kJaeeObna0vRGqywQiqk7.tRUtS
+ Mgr._ouqi45EzNEMFjgrsRykXW2OWpmQHkblDlk-
+Received: from 214.24.24.197 (EHLO UCOL19PA37.eemsg.mail.mil)
+ by 10.217.151.10 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 05 Sep 2022 18:41:36 +0000
+X-EEMSG-check-017: 403184650|UCOL19PA37_ESA_OUT04.csd.disa.mil
+IronPort-Data: A9a23:Vxlt06OA7/rqax7vrR0AlcFynXyQoLVcMsEvi/4bfWQNrUp2hDYDz
+ TdOWmvQbP+PZ2bxfo0ibI3k9E4DvMLQmIU1TAZtpSBmQkwRpJueD7x1DKtR0wB+jCHnZBg6h
+ ynLQoCYdKjYdleF+lH1dOKJQUBUjclkfJKkYAL/En03FFQMpBsJ00o5wbZo2tMw2LBVPivV0
+ T/Mi5yHULOa82MsWo4kw/rrRMRH4ZweEBtB1rAPTagjUG32zhH5P7pGTU2FFEYUd6EPdgKMq
+ 0Yv+5nilo/R109F5tpICd8XeGVSKlLZFVDmZna7x8FOjzAazhHe3JrXO9ImVEtVlSfVxexw7
+ 85xn46OThY1D4HlzbF1vxlwS0mSPIV7w5CfeD2UgJXWyEfLNXzx3/9pEUc6e5UC/fp6Cn1P8
+ vpeLz4DbxuO3Lzrhq+gIgVurp1/dI+yY8VG4SAmlGCEZRolacmrr6HiyfZ2mg8qh95HFuf2e
+ tFfYDQpaRXEC/FKEgtPU8tuwLn13hETdRVBrWrE+7Vtv1TuljVc873cHYDcR/qjEJA9ckGw4
+ ziuE37CKhQBaoTAkGLZri722LHnjCr7X4VUH7q9nsOGm3XKmjRVUUJQDADq56Do1yZSRu5iF
+ qDdwQJ2xYBayaBhZoCVs8GQyJJcgiMhZg==
+IronPort-HdrOrdr: A9a23:cZsaC6kulZVMGirutzJaTxeuIp3pDfKn3DAbv31ZSRFFG/Fws/
+ re/8jztCWVtN9/Yh0dcLy7VZVoMEm8yXcd2+B4Vt2ftWLd1ldAQrsM0WKv+UyDJwTOstN47+
+ NOc7NzJM39SVNnjcP21hCiFdsXysWc7aatify29QYJcShaL5xF1UNXCh2WPl17AAJbBZ81Io
+ OG4MdwpzfIQwVxUu2LQkQgZaztp8bGuILrJRUbBxsr3hCUiz6f8aX9HgSTw34lIldy6IZnzE
+ z+1yP4/amOo/3+wQPd0mLk9o9Rle37xt5ODNaB4/JlTAnRtg==
+Received: from unknown (HELO USG01-CY1-obe.outbound.protection.office365.us) ([140.17.139.195])
+  by UCOL19PA37.eemsg.mail.mil with ESMTP/TLS/ECDHE-RSA-AES256-GCM-SHA384; 05 Sep 2022 18:41:34 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector5501; d=microsoft.com; cv=none;
+ b=aLR0tu5FM/7ajJny+yggsCMnENjPONXI6u+C4JsAZzFcIO7AFWg9whn6yAgQXzMz0xgBcIYiPfphp5TJ9do3RIThmUb9Z/pL1hc7ZQITyVIH7F8LQhaLmSyBIl5lWCwK6BUllSykCImLUwL7tYK6HiNCdTxVrjH7J2OimQ/gARtXTu1bdCgLlVGphs5a5tZwckdN8NxmwqaOuZsvA158mqn+lA8tjkAXnwQA9jDSaS2A57IB+FKuKwDenINWkDgjZpfucSKZybDnD8PK7O49UZhIjMYMtV4dASoJWJWgYbZhLA0xBJC7hV6mqqwJLGvafDEnRD0WZOgHKjHbFWiBFA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector5501;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=DdRRYyhHdTT3BI/qrupfZZ5BhxS7YsnAMORrisYwydA=;
+ b=UxxlWB3dspfVe5tF1B8s7nKrWIPeWNMzJC6t5hzpxjUCY3ECSklClgoK8bUXBeVmxPv/r8MsSjXHS8unrZGxzSgLunEPGKpLNwnAr0qGIWZmVYs9bNoDoBj38qc5yAcrS4JpMIwekuEIoJDZg8OMP0CX6tu4XNyC3JZJLR6jtXbTNjGvaJuBrPu53btcq4pM6VGuGE9Lo6Nl8VX0yujtNT9m/WAJURguT7c2I2XrfjSSrJOAv6T6hrk8KW9zQ4tOQW+l++FP4fJgtKUI10rLHh9tWpZPD0mAXznDH30lDySqhA/KYtHtgIrARYMsEG1qAlZ4FJawsw9nvHhc7VsQAA==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=us.af.mil; dmarc=pass action=none header.from=us.af.mil;
+ dkim=pass header.d=us.af.mil; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=us.af.mil;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=DdRRYyhHdTT3BI/qrupfZZ5BhxS7YsnAMORrisYwydA=;
+ b=N2xhqUHgeTRfxjgh3Pxot62QG3LpQNl14BNfgaIU7Uyim59XmS1J1YQgm/nICIGlsTUhVVBbu997sJtvLvYLDRFFJBFWQjbu21H67CNb3tmYfQNZRUzU0X2eFzNyA969E5+GvbxDTEqWy27s6YhaQqEqhtMOUdAeAxhIVHQhk/YaUQj26kQtEdyaJjI0+8NHHPg2G+PgQXYK9b3o0n9b73U1F7pPfZy6Y4RKaT6lO7VAgaxmavS1kOvU9SWx0kRvoteZC/w4tvcj3Q9uS5sZGFDocDXRYhtB6lhe9j2Pgh/bKxal5m9lHBkMJQ8ghDO8apI0ooDXb0H9sQERVah4Sw==
+Received: from BN1P111MB1265.NAMP111.PROD.OUTLOOK.COM (2001:489a:200:59b::13)
+ by BN1P111MB0897.NAMP111.PROD.OUTLOOK.COM (2001:489a:200:593::10) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5546.19; Mon, 5 Sep
+ 2022 18:41:33 +0000
+Received: from BN1P111MB1265.NAMP111.PROD.OUTLOOK.COM
+ ([fe80::44b7:50db:de3e:331b]) by BN1P111MB1265.NAMP111.PROD.OUTLOOK.COM
+ ([fe80::44b7:50db:de3e:331b%7]) with mapi id 15.20.5546.026; Mon, 5 Sep 2022
+ 18:41:33 +0000
+From: DAF Privacy <DAF.Privacy@us.af.mil>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Not read: [URL Verdict: Unknown][Non-DoD Source] for violations of
+ civil rights, and privacy - use this link.
+Thread-Topic: [URL Verdict: Unknown][Non-DoD Source] for violations of civil
+ rights, and privacy - use this link.
+Thread-Index: AQHYvwldCGOv2bneYE+AH5LukugmjK3RMAcI
+Date: Mon, 5 Sep 2022 18:41:33 +0000
+Message-ID:
+ <BN1P111MB1265F2227F60C5B14AE2EF66827F9@BN1P111MB1265.NAMP111.PROD.OUTLOOK.COM>
+In-Reply-To: <fe81b64b-7154-8d76-4c9c-c8cdfef8d7c1@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-exchange-messagesentrepresentingtype: 1
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 1d4fe09c-2113-4ced-29d0-08da8f6e4185
+x-ms-traffictypediagnostic: BN1P111MB0897:EE_
+x-ms-exchange-senderadcheck: 1
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 1Uy0xi1KFOYYef4EtdePWgjZZPLnk7DJ/sB6d2byHwZszBDdA3xSxAYPykaNua7ytILTsz3O5jtWBK1DTerrx5oumyTk6rqwI4uopE+mphZTIn7VTYyYSkkOaMAKJQabIzv4HXlOFO5DFrcSDduY83x4g9pHsPfucpjljRwWxYxeSfC6mj7eeAT5ukqM2vRnSAFum118og7PpQYktGK6o/mkD0aoTcfPabjNlWkWWh8e/4kndhN6co2vXB+6J0FBSuqZoH9rKcEPdVX8ri7JLETtVRi6OePfVEAP3RmqcMxYLDLmeHASx7dw9YBriJ1gBb5g8MSfEkOro7+dFA4eHDQcyf4SYdHp55S7Q6/RgH0eZ+CwY0otzLQ1yp47HF2Kcx/LEViO5zEVMI+nQQhZqACx/RUOObX53kGGEgNu5/7SkHD4VdrSKwZ56hMK0fxiUy1LuTLPabt9bRoicXgLrQ==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:BN1P111MB1265.NAMP111.PROD.OUTLOOK.COM;PTR:;CAT:NONE;SFS:(13230016)(366004)(86362001)(76116006)(66556008)(66446008)(66946007)(66476007)(64756008)(8676002)(82960400001)(38070700005)(33656002)(38100700002)(122000001)(498600001)(73894004)(186003)(4270600006)(71200400001)(621065003)(9686003)(26005)(7696005)(52536014)(6916009)(55016003)(6506007)(8936002)(2906002)(2490200003);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ r7lxMMbsj47e+0eO/ByYWeahiFhMPNoSsuRriz4BBcMtFfS2GvkQ70DsQDqN+jbc7XHyP2VSY6PBE/IawOwFh+GCZDifxIiArAp5BlwBcblp3LDu+dWJzA+WkU6okRhSD9q8nGRiI0JvN3q/mlCodwuBXnLip48EtSS1uyXvUGeGZTrALjHuLT626wctyVGA0y0723n/I4muvMHWc5v70kyWKO/iqgYqzV+PB5r5TbiMuOrPVX1UEE5RF42yZcEItWivQbh01G15jUkzpVmPbuX1mjQJ6UjjKqX4T0e8fbu72ai3DF2Z5SBhiLHXEi/WbGcB+OqOP4K9iHJ4c14Q1+o/wzuiIcFtkQiWY/t63egSSZNimu+I60NaP4LHdnF9yONd6fdD1LxAy4qCvxu5v2l5uDY1qsR+vPLhMF+Qhvs=
+Content-Type: multipart/report;
+	boundary="_000_BN1P111MB1265F2227F60C5B14AE2EF66827F9BN1P111MB1265NAMP_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: us.af.mil
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: BN1P111MB1265.NAMP111.PROD.OUTLOOK.COM
+X-MS-Exchange-CrossTenant-Network-Message-Id: 1d4fe09c-2113-4ced-29d0-08da8f6e4185
+X-MS-Exchange-CrossTenant-originalarrivaltime: 05 Sep 2022 18:41:33.4298
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 8331b18d-2d87-48ef-a35f-ac8818ebf9b4
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: BN1P111MB0897
+Content-Length: 2109
+
+--_000_BN1P111MB1265F2227F60C5B14AE2EF66827F9BN1P111MB1265NAMP_
+Content-Type: multipart/alternative;
+	boundary="_002_BN1P111MB1265F2227F60C5B14AE2EF66827F9BN1P111MB1265NAMP_"
+
+--_002_BN1P111MB1265F2227F60C5B14AE2EF66827F9BN1P111MB1265NAMP_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: DAF Privacy
+   Subject: [URL Verdict: Unknown][Non-DoD Source] for violations of civil =
+rights, and privacy - use this link.
+   Sent: Friday, September 2, 2022 4:17:28 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was deleted without being read on Monday, September 5, 2022 2:41:03 PM (UT=
+C-05:00) Eastern Time (US & Canada).
+
+--_002_BN1P111MB1265F2227F60C5B14AE2EF66827F9BN1P111MB1265NAMP_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: DAF Privacy<br>
+&nbsp;&nbsp; Subject: [URL Verdict: Unknown][Non-DoD Source] for violations=
+ of civil rights, and privacy - use this link.<br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 4:17:28 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was deleted without being read on Monday, September 5, 2022 2:41:03 P=
+M (UTC-05:00) Eastern Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_BN1P111MB1265F2227F60C5B14AE2EF66827F9BN1P111MB1265NAMP_--
+
+--_000_BN1P111MB1265F2227F60C5B14AE2EF66827F9BN1P111MB1265NAMP_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; DAF.Privacy@us.af.mil
+Disposition: automatic-action/MDN-sent-automatically; deleted
+X-MSExch-Correlation-Key: VtjwqkleL0e1BOSxsO7d8Q==
+X-Display-Name: DAF Privacy
+
+
+--_000_BN1P111MB1265F2227F60C5B14AE2EF66827F9BN1P111MB1265NAMP_--
