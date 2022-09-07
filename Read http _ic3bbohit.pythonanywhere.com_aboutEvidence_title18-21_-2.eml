@@ -1,0 +1,145 @@
+From - Mon Sep  5 13:14:34 2022
+X-Account-Key: account1
+X-UIDL: AAf1v0JkpfvoYxXpvwST4ArbXH8
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.136
+ by atlas112.free.mail.bf1.yahoo.com with HTTPS; Mon, 5 Sep 2022 12:21:18 +0000
+Return-Path: <epierce@auglaizecounty.org>
+X-Originating-Ip: [167.100.43.8]
+Received-SPF: pass (domain of auglaizecounty.org designates 167.100.43.8 as permitted sender)
+Authentication-Results: atlas112.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=auglaizecounty.org;
+ dmarc=pass(p=NONE,sp=NONE) header.from=auglaizecounty.org;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 5 Sep 2022 12:21:19 +0000
+X-YMailAVSC: mGEcAyA3bBtaiHRefMlIJpANEDPl7oIYDHHlV7514Ys5uWv
+ unWGyFkgTfQ4Wj.A_TLWWljZ58PcSfXolNVB84AW1DMsdIzAQObH13ky73TH
+ jOepXJ6xOKVOFZ7BHZOpRYSaMigo4z2jmtpDlvcDJxZJ4Dgmf3w311E2Gmy8
+ yCA.r2gikQmE07.guXMyQW_N8VYnJc3on06rJLdPe_fW8d9DXiD.G8vAdYTN
+ .B_gFumli5dBDS_3vAzN2dmPKjjwO6BjwQV.ugjHrdhc3Q.3LvT35b7MkQqe
+ .Z5ZLwOAwHSuZ6hHvT6C0zqgNtpC5g_fLjTHayzZu0WHJH2ulugNNrb7ExGR
+ Dy1KG75KdFd_FgiOiZ5lwlluKPc27R.W5l2rLx.Luu6mBR_CS5OVXZCH8DCG
+ RgH59ZI6j8jAdS5gAIP4ZAeFkx7HyAyL1h42UunScF4uPqDwLfys0fQ24mmz
+ 3sEPZeBciOBzQ6TqdBmyNgPZv0E5LRpA8XxMO00OYe3xTh9Jl1I_M8NbNLFo
+ WwxiaVq9LQdpGfxl5yxFIwZ6YifAKX9kSieOiyQJReMhNKerr59kN1EQfJDv
+ Mtyw8Rvg.xzb2_H1gfOYKSE6h0QhrSRANGzIIy0DnB1yQgfX_DSNyQDTqxQd
+ WcgHSlGTLFcxS0rVEGcwiewjBuktDqJfrV.vNIL8LHBeg2iZJGcrgffntziR
+ 7sNXuaJofqpuv1jbaZ2O3tTK5B_W1oIOo3pC.6v.QnCGW7zDLb6LjnuJwhs_
+ 0lkI5rgQshAuy0OpWi4OiKFyRf1ircfJjUi2eQjNNCFFxpEiDYHKfKwQZuVL
+ Zb6r.dsqp0MLVA5xL7JxApv11qpB8p7Kh7vjkG5NuK30MpLbziMZ9YaAE8bX
+ RSgjgnwst7HG1WU1sig6cOaA4pooeynFR2lr9F79pP3p8fgAMJSfsWC143xE
+ miWjQcloWY5gNzE97DQ5Pm9n.pJhByW057IsI6ieqv49Q..Z.G2mpkOcUNc9
+ duP2XpFO1csGuDHt.O32_7YmbcrEokt5_uAHyEJ_12O3lc95MPkWy5fTZnNO
+ UwbXkB2DOMB5l7mYsZIluMPjMYJpHJof9K8GgX9VK7g4-
+X-YMailISG: Qq5D4v4WLDvU9N5a8a5m9n9aGVFG5.laLAWfLNRemRutEKmt
+ gVgvD3nHy_zneywRRaOPRnmHquVOohbYQznO1ZLKgrQYEa8c8vDSW_R3BC06
+ WVzuzCNbRMSf9XkVJ0N65CBqIzqskEM19A8_nn8orFfZIXYVNJAyTmSlUOdK
+ fLdH4p4aWWbHgq9CKF7Vy9PBKD_kB16kHh3w9RlAsuPOW_nj2NEwqW4axpyv
+ V6_O8LXGE2xYJ3ZoVFdzTJ9F_PYLvjoStdk6RRjNAgVR_x.lQkqBZwLLtsWi
+ DtQ6rmxP2ONj_qXWZo4FQXI9jyns0kumMQzpZdcvKlyUwRPG8mAL.t5aSDEi
+ dG_wJF1BB5CGZPf6b08RQkF1W6suUrs8.hcAc.tWU8v6R_yYj_i1o6LCnuV1
+ ctcIqm0Yah6Y5KxYLL5tOh4HiHxk6aQO2OrHbuRWJZYUx3QvhNpbj4pXTY0X
+ ERcvr7YZmRNfrfnsu4dgWzs9x4RkEBEirWOPvFI2FVbR4ziwP0bD2pWol406
+ y5_.ESLjkzq_v2XsH81HBJABzU4Dke8v_0EBngmUE3oG44uh17rsjk3s7Q2m
+ Wy5rjKMFdaU3HnCIpJQnD34kR8IaPkNAUIDHhwJ6d4xF1GNX6OhcfiB0NeMD
+ b_Jo3Gbod5jIPCXD0dccxE7qDfecvhnNGbgdIa10D0SgxCVpVruZH_to4R04
+ RcskiAKbK4XTLnF4C6pOZcSmRfYsnLqKoEJAyU4zh0OAPVHOv23WGhbHrlfB
+ kCYaXtITSD8fdiebmRazKyR7UsrN96AAIl9lqPlnj2inEA1AczOlpA.2Sz5k
+ s9du.L8xTfRQgo7kFHpVlrmQYdvXvxBibu9q_itvOTZ_Dox.vyJMED26XMoN
+ L3UY.OlRF1rj8WQvT25MZeFRvGq9EIc3IPZTDEpXhGtSutfwM1K8TmMG.AW2
+ _x.HotALxF4mDkyh1tahjSDtLYl0yPcDwBxqn0FS6mXZXRGf1NYUIXLjADQQ
+ qxPkNALfBzR3f1f2CY79wcm7HIG1wBL.hcb17qvnsuV_Ig8MiYHla_CJcAE5
+ RSfnQzFPPYqdoV3oAk1WiHJSxUFnOE1uFATJEft5cTbfmSBCebvuzSBCONQQ
+ LoYDaKkXSva4CJ9UWjJtlsRrS8zDNbvJPp0E5vsooOSW1el6wOJVanFyGacf
+ KnqNuGWJSb.DNZl54EOwbcEasCoYXaYXDLWIYcqer_2hfrZ2P6o_hk.hX8o4
+ q9xZ
+Received: from 167.100.43.8 (EHLO mail.auglaizecounty.org)
+ by 10.197.40.136 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Mon, 05 Sep 2022 12:21:18 +0000
+Received: from AUG-MAIL03.corp.auglaizecounty.com (10.10.0.40) by
+ AUG-MAIL03.corp.auglaizecounty.com (10.10.0.40) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.1118.12; Mon, 5 Sep 2022 08:21:18 -0400
+Received: from AUG-MAIL03.corp.auglaizecounty.com ([fe80::310c:59a:c1a2:356a])
+ by AUG-MAIL03.corp.auglaizecounty.com ([fe80::310c:59a:c1a2:356a%7]) with
+ mapi id 15.02.1118.012; Mon, 5 Sep 2022 08:21:18 -0400
+From: Ed Pierce <epierce@auglaizecounty.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYwN+71AsZZKQ+kUKdQAJ2stHc4g==
+Date: Mon, 5 Sep 2022 12:21:17 +0000
+Message-ID: <a6149494281f4e60b1b34036dd35c4f7@auglaizecounty.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_a6149494281f4e60b1b34036dd35c4f7auglaizecountyorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+Content-Length: 2097
+
+--_000_a6149494281f4e60b1b34036dd35c4f7auglaizecountyorg_
+Content-Type: multipart/alternative;
+	boundary="_002_a6149494281f4e60b1b34036dd35c4f7auglaizecountyorg_"
+
+--_002_a6149494281f4e60b1b34036dd35c4f7auglaizecountyorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Ed Pierce
+   Subject: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+   Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Eastern Time (US=
+ & Canada)
+
+ was read on Monday, September 5, 2022 8:21:17 AM (UTC-05:00) Eastern Time =
+(US & Canada).
+
+--_002_a6149494281f4e60b1b34036dd35c4f7auglaizecountyorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Ed Pierce<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/aboutE=
+vidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Monday, September 5, 2022 8:21:17 AM (UTC-05:00) Eastern =
+Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_a6149494281f4e60b1b34036dd35c4f7auglaizecountyorg_--
+
+--_000_a6149494281f4e60b1b34036dd35c4f7auglaizecountyorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; epierce@auglaizecounty.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: vWZqxfS6rESUSvUtmZulkw==
+Original-Message-ID: <4d0b970f-687b-defe-9bf0-dac0f77ce19d@yahoo.com>
+X-Display-Name: Ed Pierce
+
+
+--_000_a6149494281f4e60b1b34036dd35c4f7auglaizecountyorg_--

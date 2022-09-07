@@ -1,0 +1,168 @@
+From - Sun Sep  4 23:28:55 2022
+X-Account-Key: account1
+X-UIDL: AJ5u2U0T8lfwYxOfawyK8LTkKlM
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 127.0.0.1
+ by atlas-production.v2-mail-prod1-gq1.omega.yahoo.com with HTTP; Sat, 3 Sep 2022 18:39:39 +0000
+Return-Path: <jwaldick@allencountyohio.com>
+X-Originating-Ip: [76.2.207.21]
+Received-SPF: pass (domain of allencountyohio.com designates 76.2.207.21 as permitted sender)
+Authentication-Results: atlas-production.v2-mail-prod1-gq1.omega.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=allencountyohio.com;
+ dmarc=unknown header.from=allencountyohio.com;
+X-Apparently-To: ms60710444266@yahoo.com; Sat, 3 Sep 2022 18:39:39 +0000
+X-YMailAVSC: .Bjokdc3bBtVz2TzJISL5T2Nmt1xnC48c1a__8GCSWRwna0
+ kphuPoGRCJtgnTymqwG6U_FV9GEv6WGj8TRFrSwcKfJdDxLl37l82k11ZQCZ
+ wEiIloXF6aLdfMl1uWmES34H4_BG6D3Uw66otAkIZKs.rZGKWaTnkFoGyTr1
+ jNVSl35HYpVhululCEmGVKNYbQhwSWtaa8PzdywBQd6scKmS_zM7wm9w7W6I
+ x.xtJX7.G0ZQSRh5ksAwAnm3kRgA8LkLWn061FRDBDAwTwt_O2aGzG5QPsTs
+ 8islDcebxK.VtAWqYm5DHV49NkP6k2L0i6E7r9v332EM161V_qnkhnC3I0T4
+ MWj2xKfex5mNLR7gBdjazWxmtGWS4eDVT9sXmfp5oD7yy.F3mrrxIcAjTbLx
+ m6jZPT9jxue26dX1xTt5_pawmjv.J8rveEst2FY5jlJUkHCi0Oiv09CUQ5U5
+ WZ9rEADfcLguWIs7_AIcGPtVexq3Uk4IgjS2_FyGc_ZdZhwfdkMNk9niqo2E
+ F9M6CKDONdKsGRMNbejavSVOX7tLTlFfe.CsHBSoPzG40KN0hxvgP58GDYyA
+ 8SpP_.ob8JRdY2Y_Z5gsSt8Z4zzE6QF4.3d_fhdmD.6NF7AEFO9N8Qc_WXJd
+ QzY07idsfJlL91yTKOAgXWi.Na6ecU.C5lo2YWBrW4gKqco296KBbMeBZDB1
+ ySbzUJnR8XmEAQohGJL9OFrzKPDMbaO.JT7zPrsJIiqJYzu67xHCdfYrIwJ.
+ 398uvurYZPPiOPAkiq.r1soVWoSRLyE6Rhz46oARo0zXm5G01xcD7SPVg_3r
+ _1c64kGkIxxV2f2yadl9krKfdLNkPtaCzseFhNXZgM5lYuB9DZZdq5fxYxiV
+ GtQqXI2UmrGBJbXAKE_pdOqy0AeQdaxKJBDGlkCR3zfYTuLhL9CWR3eefnGN
+ ohNn1bmVKS9fpbLkw1WfNWsqtDo.WNVpDKlUCtk_cOPg4NyxocJUMbkoEQ9q
+ 2I.s1.ICIIeoUMO5qEGDigojpyU7k5B6Ggy.otoUOlQcXkrqegNue0lyQN6X
+ fvjUrSJ14hpjiJHtW_j8k5l10aAKfqRMe9btLvwKuF_g-
+X-YMailISG: z1DXZNgWLDsmpBC8RbuLKGrRbfhpImphken1CXze78r1RY7n
+ x9P597hOijC0t6GeClfLD7JaQB5PJ10GtL5dOu5J.0LUHeRW8O3UW25.aaVZ
+ WruzsIQ.uCU8PI0CrAlLXJ1JFLUSAmehiwrjQAxb17lP81uNvFpAuD7zyCJU
+ 9YsfyUP2Xi55GAv_BFgfrEcgCJc15elDOveNqm9dkTUGeA3GsuXfAQxIUUeZ
+ w1kQXsQ8ujkviGu_39F8vLchusNVo1vQ0Xa3Q7SqF93t__jV5Hofii_giZn7
+ ktwalSLeg2PyMolQtmW2c21YvNVF12YayDRkHlgQsRQd7KWQy8cpcyPLkOJw
+ vyuEFJJUUufhYFnV8zW1.v_Na4aW59GceEHdVlCWSz8oTz4t4shh90LaaDdb
+ cCQ70V4E3Z8G7gyZZRBi4IWCIa6N_NoDtK2AWUTlCTy8voZRlq7sB0hd7UI5
+ 650VBk4uNJ9BbjBnq7V2eyD6i_JDD1PslGrlDR657mq45rHcUFo5oAp3NX9q
+ cgakpVXj093Tiwgdi37VSmMEkT2Oh97ugM7VPMbwyIfonZgch86Y96oDoYZl
+ TPPkrcFw12DKB53OxftTyzn9oXagXwuVwHxJ6lweiYGjK4gzzXgvQrWMjLqG
+ eBeq8Gh.RlxHGdDDfYmS9sqULcGpHB7Aov_vPiRRKsHT1XHNdNH4Mj8EoSGH
+ lH9ecTfES2_L02YR9wQJrL5_U.9gXMCixIudYu.XAfuaD546Gt7kj9lFNsCG
+ o_PDQMJnVYBOE5FBtQVg.PMzhuyNDhmP8ob27xAqguN8J59Ma.WLjhbJVL5I
+ 5Vamx1dNHL.3DCIBckWigFaKTPpbRUgEHH6HXWmHLw2Y010_sMkhAkxWgUfA
+ i29q8pfhN_L1bsBS632fW21POAfBO50cDpfLSWokaosNGPrnjR9letmEGxif
+ MKkhtLY1maeSUgXME4xvnX.5SLkcPT4lp_Ptf_xlD.u9XwFeAFwvhDnfF2pj
+ W.hQUzqF3xKrpzOfxp.MEsRi_y0GTtuFZIZ1Mn89U0RglFPl5xe2Zrs4qNnR
+ FMlYWingDzUtHTta4PjorgnKn81nNvGkYiig8PKrGAMXRejRPM45HQKSCrfh
+ GLw.CJOMwmz9BUryQaIzCeIcXekR4gVFBqJEX6TwaRERD23cBiOf6KYhAoJb
+ 2r1tREeYk4aks53H8em7vVfLUROjcQ6O_K6WjHofqXlrBad9K6ydFicN7atm
+ ksQdL4VWmQ09xDusliSZlfs-
+Received: from 76.2.207.21 (EHLO barracuda.allencountyohio.com)
+ by 10.214.154.149 with SMTP;
+ Sat, 03 Sep 2022 18:39:39 +0000
+X-ASG-Debug-ID: 1662230377-0dfc2e173541b340001-igPLcE
+Received: from Allen-Mail1.ad.allenco.org (76-2-207-25.dia.static.centurylink.net [76.2.207.25]) by barracuda.allencountyohio.com with ESMTP id dBHL66uhkNhkEWYu for <ms60710444266@yahoo.com>; Sat, 03 Sep 2022 14:39:37 -0400 (EDT)
+X-Barracuda-Envelope-From: jwaldick@allencountyohio.com
+X-Barracuda-Effective-Source-IP: 76-2-207-25.dia.static.centurylink.net[76.2.207.25]
+X-Barracuda-Apparent-Source-IP: 76.2.207.25
+Received: from Allen-Mail1.ad.allenco.org (172.16.1.25) by
+ Allen-Mail1.ad.allenco.org (172.16.1.25) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.858.15; Sat, 3 Sep 2022 14:39:37 -0400
+Received: from Allen-Mail1.ad.allenco.org ([::1]) by
+ Allen-Mail1.ad.allenco.org ([::1]) with mapi id 15.02.0858.015; Sat, 3 Sep
+ 2022 14:39:37 -0400
+From: Juergen Waldick <jwaldick@allencountyohio.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Re: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Topic: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+X-ASG-Orig-Subj: Read: Re: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Index: AQHYvxY5bgZ6qKBMEEmUEyjwB1Rr6K3M8TUA
+Date: Sat, 3 Sep 2022 18:39:36 +0000
+Message-ID: <55b7927cd4af4da9b10f4e4eba2464c8@allencountyohio.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_55b7927cd4af4da9b10f4e4eba2464c8allencountyohiocom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-Barracuda-Connect: 76-2-207-25.dia.static.centurylink.net[76.2.207.25]
+X-Barracuda-Start-Time: 1662230377
+X-Barracuda-URL: https://76.2.207.21:443/cgi-mod/mark.cgi
+X-Virus-Scanned: by bsmtpd at allencountyohio.com
+X-Barracuda-Scan-Msg-Size: 1158
+X-Barracuda-BRTS-Status: 1
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=1000.0 KILL_LEVEL=9.0 tests=BSF_SC0_SA590, HTML_MESSAGE, MIME_HTML_MOSTLY
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.100533
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+	0.20 BSF_SC0_SA590          Custom Rule SA590
+Content-Length: 2131
+
+--_000_55b7927cd4af4da9b10f4e4eba2464c8allencountyohiocom_
+Content-Type: multipart/alternative;
+	boundary="_002_55b7927cd4af4da9b10f4e4eba2464c8allencountyohiocom_"
+
+--_002_55b7927cd4af4da9b10f4e4eba2464c8allencountyohiocom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Juergen Waldick
+   Subject: Re: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY KN=
+OWLEDGE OR CONSENT [ 153974/2020 ]
+   Sent: Friday, September 2, 2022 5:51:32 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Saturday, September 3, 2022 2:39:36 PM (UTC-05:00) Eastern Tim=
+e (US & Canada).
+
+--_002_55b7927cd4af4da9b10f4e4eba2464c8allencountyohiocom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Juergen Waldick<br>
+&nbsp;&nbsp; Subject: Re: II. VIDEOTAPED THE &quot;INTERIOR OF MY APARTMENT=
+&quot; WITHOUT MY KNOWLEDGE OR CONSENT [ 153974/2020 ]<br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 5:51:32 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Saturday, September 3, 2022 2:39:36 PM (UTC-05:00) Easter=
+n Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_55b7927cd4af4da9b10f4e4eba2464c8allencountyohiocom_--
+
+--_000_55b7927cd4af4da9b10f4e4eba2464c8allencountyohiocom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; jwaldick@allencountyohio.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: wVdTQPrxHE2RBakmR8ZVWQ==
+Original-Message-ID: <de1748d5-2dff-5a67-3354-1749a39fd380@yahoo.com>
+X-Display-Name: Juergen Waldick
+
+
+--_000_55b7927cd4af4da9b10f4e4eba2464c8allencountyohiocom_--

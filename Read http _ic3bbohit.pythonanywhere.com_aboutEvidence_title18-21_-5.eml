@@ -1,0 +1,167 @@
+From - Mon Sep  5 13:14:24 2022
+X-Account-Key: account1
+X-UIDL: AJDQY2U/I6/VYxXguwpE6BYsz8g
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.141
+ by atlas118.free.mail.ne1.yahoo.com with HTTPS; Mon, 5 Sep 2022 11:42:50 +0000
+Return-Path: <prvs=02408f4f50=jburkard@pauldingprosecutor.com>
+X-Originating-Ip: [173.45.18.208]
+Received-SPF: pass (domain of pauldingprosecutor.com designates 173.45.18.208 as permitted sender)
+Authentication-Results: atlas118.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@PauldingProsecutor.com header.s=hse1;
+ spf=pass smtp.mailfrom=pauldingprosecutor.com;
+ dmarc=unknown header.from=PauldingProsecutor.com;
+X-Apparently-To: ms60710444266@yahoo.com; Mon, 5 Sep 2022 11:42:50 +0000
+X-YMailAVSC: yPdnrK83bBslPdh2jEdz3lHp0104hozAcmK_JeSHrxGy_a8
+ hYy3OzTuYa22JUIE4JUIoAT6DbrBfF2qv5OgMDcyRv7mRo7.pS9u5ceuj4wg
+ NooWxMZZxwP6_SPV3Jjezd_kvmlJL1XW_l9lokCUnximfHUtMmCzlbvgbyfB
+ ldZd8HRMkrTYQT5KKxDQtOXljQYCQTMerSaHRVLojvuB0VY5FCAdoMdoA_0h
+ Wv5SPd8a9Qc6X.KGvGOr2xA2WBXMOEBCWYXfkKA4OkA2wMtUrDTRQgMJ82vv
+ nKbJlFfqM6H4I3cfKu9VbY.M4.wxZqkUdNPTISFCVJvjKjwtI9m2iLj92_dR
+ .c2nzrN9oFDSEdufXH.aTZjiAyBagLdKaMC32puzONmcgtGp1iZLYKD0_frQ
+ mVu_fzqAhy0PVlVdvNbY1YKlXSISnldijS4xNDm667oYPi30G5FnmZL5LA_t
+ OjMLLYNITv2jK5rPRQ0ooANga0CtryeHygw33Vvd27bhbGhxlFQwrVfWZa1L
+ Mk59c01k1wCA7vfpaI9LI1wkfcpe0UiImYhHMmOosshicJhC7udnpRR8cBIv
+ 6pXlw2NE1M2bjMZE4xyeqeTWwHo3JvTMblL5AJIJNTtKq6VrvUsUi3i68T2B
+ DMBPP6AcgJWKzhm.swfJd8cElk_KhMZx.EuBzP7lK0_tXroWSY2ROvebW6rp
+ owN0d9Qtn2sFUHVO_YDuzNb3S.3VtY.1pgZws3JWGMce9ZjYpDKyGGehMAqY
+ UX9jnuAkByc38MM9pfKxUBBPGhpodXFCVIJXwf4E7dj_jDJJSTb730zfxlNP
+ FECjtnpHGpcfr7gvboyTCNL3i6mBM9zErYO8y9xosawTlURIQYBozG7ROyZE
+ 9B.uYn19Nss_RaGceiFq0szVH4H7Yh9pjagO9OL.zMax2JI67Xn_ABmHHry_
+ cRyTpNVoqDFdzfkH985ALFbMznlG9ninOxwl1oeQj08aylsd0Dx2R5tmj26_
+ k6he3iMiNuN4ToQg71mL2VfJVtdEZ_XCfFog8x5HqwFgKeiRahZUUHyictWm
+ qfZPB0Fs5UIpx3OFwjnzyWTOprj6Nbuds4udSD9JHhG7Yas2lvzmANafdnMy
+ ayTCM6WC.DmqNF17qi5Qigfc0hJjxN5mzfasXMNzHyvH3sRxhRRnTyMsDYWe
+ rsIyu5sv93WM_6TGqj9F0_IRsnkqf1DtlGvdDuHNETxgkilcfs9upCRnY5WM
+ Alu32izW3ZQ--
+X-YMailISG: hA4P2kcWLDvHprd5ES.b55wtFHb2JHOPnVsYl3w7VL8jmzYK
+ ZIlNdkgqFvR8KfPhaB2gpFzCzeTXtpJg5wJAkQtNiAfA3254SX94zIr8r0pm
+ l2dw1NFXFWpV0VbiCBJv6iu5q.0Y82z_tkvkNi1UoeeCV1G57qIzKeuNeJAJ
+ 4brjAd_tXbw3K1Ztag3t77bnga3I4W3OWzwRXKo0vpI5GpZp3Fee9E87l90T
+ rJvMdi_W3TMsd9zOe2J5170o_Pccoi3GUHMbJitfxh3t21ovBPzTgUb0geRD
+ lD_zd0dDESRmjLXrxoKvK8pfL.UxO61XikSioQGKFvcrE7GkqI._n_OihOSZ
+ U657cUNcjzR0KcqO9lFEBaKo.XmBuJJNIAIRykH_TWl2TkOYU6zSW20s5wHE
+ UeQ7bT0gZPEanSs0gGDTpy3odeG9kwnidOAMpMqWO80poWw2UaG8yqrmwkL1
+ tIxiZIHBd8H8gqVnmdYMkJMIrKF96Nhq7ipylawhGtGqqFXuTMFBet8.VzDr
+ u8Eukwjy5aqBVXjY8fMypTMySi_Cmz8WJwAJmi3vehtMr6XDi_cBRKcLs5V3
+ BtE0HwXn_s6LvysrZjvLvHrgCsWKBjK2cgclEbo8Q3aPfeX_gL.gcnxF63az
+ AQ8oIE0oilpd6ikhaYRrQc4emipwrEDMzIynedK8CGk9JKmFNrZ_uJkwlejq
+ FRp1lnLoS5I2eyJCsdUKfv6VVqE3iu7fKCjX2Y_UabGgohp_SzMmIcs285bG
+ p1AEOBhsNanEKvfdaXok1_F1_MYhh3jcJcYzSLgQIZfkXDnHmZXTQWcQyGSS
+ UJ3jSlPPszE4jZMp5tMdktZr243s2cc6ydAYLwSt5o6urznogonKN4sGtxRx
+ 7RvZnATSlWNkGIKsJrVb9afSpHoe83EKCV77Ua8FUfmqvFk02vpQh._nzWFP
+ yF5se4SsDySMz7T7tMfmGr4.NqMfldiLZ8GdrN9WSIpst0mDQ4eFkW1oL5Vr
+ MggAuZ_OSFu2ulDLeQ6rv5VsKyTOtPAUdbnWalZv_tZYL6SP2WpFA9BZqvQO
+ vlVB9OlFjGYrJMU4_Cl9k9.egrwAewCI0EjC3o6dnDvx7_EEJ8eA_wDR3M9R
+ sNFVCc4ns0Bk001VUq7BYIjoS4fu8Rlae_UyXW9NG9yxABNYc7RZMDPHZw1t
+ nnw_lGopMOvbdygTJN2h.FJ255_JJ1976DQfe3RdDZpzc.8waUpQL7gHAk0J
+ jUwvN1UzzCvB1EL_Ea3OwsyGXFQtU9vU7qG0sJ1laaxYBz08YMY0lqVbEoiV
+ .EaumDJV7FBHjA8WJBnLNL2CKj.TSXusDMwAkSptAlG.LijxxzkwvJLtyHIc
+ 62ajLEQ57viFEeiGpcQ5jTtTmTMxHx5v3v9HO39iUg--
+Received: from 173.45.18.208 (EHLO mx-relay08-hz5.antispameurope.com)
+ by 10.217.150.141 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Mon, 05 Sep 2022 11:42:50 +0000
+Received: from email.pcohio.us ([199.38.205.165]) by mx-relay08-hz5.antispameurope.com;
+ Mon, 05 Sep 2022 07:42:49 -0400
+Received: from PCEXCH.PCOHIO.local (192.168.21.2) by PCEXCH.PCOHIO.local
+ (192.168.21.2) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.792.15; Mon, 5 Sep 2022
+ 07:42:44 -0400
+Received: from PCEXCH.PCOHIO.local ([fe80::ec90:7184:686c:1f0]) by
+ PCEXCH.PCOHIO.local ([fe80::ec90:7184:686c:1f0%6]) with mapi id
+ 15.02.0792.015; Mon, 5 Sep 2022 07:42:44 -0400
+From: Joe Burkard <JBurkard@PauldingProsecutor.com>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYwN++tMCnBGj00kiL15Uvfd2xtQ==
+Date: Mon, 5 Sep 2022 11:42:44 +0000
+Message-ID: <e09554316d984e27bde0c8d6a6a43f29@PauldingProsecutor.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_e09554316d984e27bde0c8d6a6a43f29PauldingProsecutorcom_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-cloud-security-sender:jburkard@pauldingprosecutor.com
+X-cloud-security-recipient:ms60710444266@yahoo.com
+X-cloud-security-Virusscan:CLEAN
+X-cloud-security-disclaimer: This E-Mail was scanned by E-Mailservice on mx-relay08-hz5.antispameurope.com with 9863F2FC00D8
+X-cloud-security-connect: email.pcohio.us[199.38.205.165], TLS=1, IP=199.38.205.165
+X-cloud-security:scantime:.4890
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed; d=PauldingProsecutor.com;
+	 h=from:to:subject:date:message-id:content-type:mime-version; s=
+	hse1; bh=+F7b43fyPVuTA14kYLLQiaGk5h54I1u2sGPV6gj/+wY=; b=heNj2PO
+	hv6ttNPUsGF0f62h5qjHwitMBfFCqOM/jtsmGbCnacgme7xRW+SRBNEmAPFLLMeR
+	MRGrsQLHp2D0zsN7bwkxhVsw+ExU/Ftq+GDQwoi/58OnZfgvDwY8ExLgXYhBHuEE
+	AUVe026oSW+ijoKmzUyyTU2QMd+Mx0puHP5j4tZWxaVjSIheuRR0sqzNEJQ1v2r+
+	yc/8LFu3lcZ8qE6UmBTbGm3KiBroBphgSalnps63K1sY22necrMG0ZuKs3+REtw/
+	goG/r/xZ08Mje1drwurSarlK+X7HfFFabRCKtjhxD8azwbNaTNTtv+pig506kkHV
+	HjXJNDG8c2zRWdg==
+Content-Length: 2136
+
+--_000_e09554316d984e27bde0c8d6a6a43f29PauldingProsecutorcom_
+Content-Type: multipart/alternative;
+	boundary="_002_e09554316d984e27bde0c8d6a6a43f29PauldingProsecutorcom_"
+
+--_002_e09554316d984e27bde0c8d6a6a43f29PauldingProsecutorcom_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Joe Burkard
+   Subject: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+   Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Eastern Time (US=
+ & Canada)
+
+ was read on Monday, September 5, 2022 7:42:44 AM (UTC-05:00) Eastern Time =
+(US & Canada).
+
+--_002_e09554316d984e27bde0c8d6a6a43f29PauldingProsecutorcom_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Joe Burkard<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/aboutE=
+vidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Monday, September 5, 2022 7:42:44 AM (UTC-05:00) Eastern =
+Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_e09554316d984e27bde0c8d6a6a43f29PauldingProsecutorcom_--
+
+--_000_e09554316d984e27bde0c8d6a6a43f29PauldingProsecutorcom_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; JBurkard@PauldingProsecutor.com
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: Niqpg4j5CE+Uwow8AHXVxA==
+Original-Message-ID: <4d0b970f-687b-defe-9bf0-dac0f77ce19d@yahoo.com>
+X-Display-Name: Joe Burkard
+
+
+--_000_e09554316d984e27bde0c8d6a6a43f29PauldingProsecutorcom_--

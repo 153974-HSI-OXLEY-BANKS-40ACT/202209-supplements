@@ -1,0 +1,127 @@
+From - Tue Sep  6 09:31:40 2022
+X-Account-Key: account1
+X-UIDL: AD0M31wB0yJaYxdMQQMksJDupoU
+X-Mozilla-Status: 0001
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.135.166
+ by atlas106.free.mail.ne1.yahoo.com with HTTPS; Tue, 6 Sep 2022 13:33:52 +0000
+Return-Path: <Katrina.Magnusson@lakecountyohio.gov>
+X-Originating-Ip: [12.236.217.200]
+Received-SPF: pass (domain of lakecountyohio.gov designates 12.236.217.200 as permitted sender)
+Authentication-Results: atlas106.free.mail.ne1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=lakecountyohio.gov;
+ dmarc=pass(p=NONE) header.from=lakecountyohio.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 6 Sep 2022 13:33:53 +0000
+X-YMailISG: 9WK_eeUWLDvegRjNpNCwaL7ufD9KA1s62_e0ZqREVX95Qkue
+ mW1epAeY_KAsdlLtVbLv6RJdcZSiYfQAHIif_5VuKPnrKPQuLXVVAoNEnDIJ
+ PeZjHLM8VdL8pX21fKGG2EdCpOcINYiXyc9Stz.eqA_fFDcbYtYKKKSSFO_b
+ hJ8P64KR5RNUQI43fvgTPAnTGAUXscppb9rf0UEisiBlkXq1KFk03ObJ3zqT
+ Ai7nFVYsOiSTADcvvOZo1PRv.vFPu9K2oEHizkfSkKdrxEzX0LU21s6HfvzC
+ LHihJm2jqz9PGWQB7Z4NTm7jy3sUzeglOyxk57aR3Q.3IAORFiaL1JahC9s2
+ .4qdbNeKrfxNrug123nCt61vAUIhR35F_4YBx.WXVLlpiM_4qyWq47actmie
+ gRQTlq.kz.reHF7BqRviZS5U8XiPWI8TkkTlwd9yRtXEu1J_DoW8yCEG.hdy
+ vXQzHCSwTktNKhV4GIDgcv3gxvamMTEFkziW0EfDo8WN3o4j6Aw8CokqLHpG
+ kDXfM6yZx67uRI66067uP_Pm70TUi8dIoczXVjxtIbly7HuxOtaTZz6p9aTO
+ hOTL2JYgMQeBQORngxk_SLjglwZfyOU1iNgOdIJa4SCPNmFMVTF8P8kM1gts
+ pbqZQ0DjbTIUgc8lnjbgSV7wBZiwvWrRoHSej6T3dlLd2TZjx.vvT_bogbyX
+ 9VmZnl4SyP3yYNcSMKRmhD0GzvvbTfemO4fryjb6SM2RcKPqPYQGaNx1V9KS
+ Yb7hHfAyjh.Jz7cDlis.bzNjXh2oHOpsqF6vMKKTkdlkRUBlWmwUqnUf88Dp
+ VlroHkbp4auEbrVm8TN3dSTDiuzALZtN8wCIzksl5YavEfqIPfRxTA6aRamA
+ 0N029zy5CyZT39Wcd5awWUl1bPxeq30Nf6IEIT197Yp.VLr5KM3TInGiNeBQ
+ nTSWZms7q3GSuK6_wRnbuA.TAE.XCqteNYIP52.i412yeCrguOxV.6GaICW_
+ Ul1vDLR.HYJ16kC.FweiNs3Gce2N87I6WzLPMGNEClCDyxgGtu0trV6_pV2d
+ 62OcySCELPo4Unu5mhtMLhibDX6KEBlxmXnWzny04vgGy6OzC4vhmMDPrXrR
+ PHkIleBSaGkBYjfZ0vgKxXID11Tk_raIa76aKQFTaN7bgbtdOnfh4eFfb62o
+ F8Ao7VFmwZxz3oZ.zJNhqUk_hP3qQXTxvtXpoK4xOpyQ8AZ8IV6rVm65e49a
+ I1yng.lAJHKvs5M-
+Received: from 12.236.217.200 (EHLO POBox2.LakeCountyOhio.gov)
+ by 10.217.135.166 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256);
+ Tue, 06 Sep 2022 13:33:52 +0000
+Received: from POBox1.LakeCountyOhio.gov (10.253.0.40) by
+ POBox2.LakeCountyOhio.gov (10.253.0.41) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384_P384) id
+ 15.1.2375.28; Tue, 6 Sep 2022 09:33:51 -0400
+Received: from POBox1.LakeCountyOhio.gov ([fe80::55b8:cca0:7014:6209]) by
+ POBox1.LakeCountyOhio.gov ([fe80::55b8:cca0:7014:6209%12]) with mapi id
+ 15.01.2375.028; Tue, 6 Sep 2022 09:33:51 -0400
+From: "Magnusson, Katrina T." <Katrina.Magnusson@lakecountyohio.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYvwluBYERNXkjDEik7mZPHGTCJ63SbIQm
+Date: Tue, 6 Sep 2022 13:33:51 +0000
+Message-ID: <a6fa58add01f49bb81c8202e42c7d629@lakecountyohio.gov>
+In-Reply-To: <acd111ab-80d6-a30a-a6d7-8ec1a9c50cb6@yahoo.com>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-originating-ip: [10.253.0.44]
+Content-Type: multipart/report;
+	boundary="_000_a6fa58add01f49bb81c8202e42c7d629lakecountyohiogov_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+Content-Length: 2073
+
+--_000_a6fa58add01f49bb81c8202e42c7d629lakecountyohiogov_
+Content-Type: multipart/alternative;
+	boundary="_002_a6fa58add01f49bb81c8202e42c7d629lakecountyohiogov_"
+
+--_002_a6fa58add01f49bb81c8202e42c7d629lakecountyohiogov_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Magnusson, Katrina T.
+   Subject: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+   Sent: Friday, September 2, 2022 4:19:41 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Tuesday, September 6, 2022 9:33:48 AM (UTC-05:00) Eastern Time=
+ (US & Canada).
+
+--_002_a6fa58add01f49bb81c8202e42c7d629lakecountyohiogov_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Magnusson, Katrina T.<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/aboutE=
+vidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 4:19:41 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Tuesday, September 6, 2022 9:33:48 AM (UTC-05:00) Eastern=
+ Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_a6fa58add01f49bb81c8202e42c7d629lakecountyohiogov_--
+
+--_000_a6fa58add01f49bb81c8202e42c7d629lakecountyohiogov_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; Katrina.Magnusson@lakecountyohio.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: 3MLIuy1S6kSr2sMqHpKnNg==
+X-Display-Name: Magnusson, Katrina T.
+
+
+--_000_a6fa58add01f49bb81c8202e42c7d629lakecountyohiogov_--

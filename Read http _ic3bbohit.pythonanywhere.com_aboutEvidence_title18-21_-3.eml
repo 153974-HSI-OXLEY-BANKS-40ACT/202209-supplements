@@ -1,0 +1,158 @@
+From - Tue Sep  6 10:00:07 2022
+X-Account-Key: account1
+X-UIDL: AH6R+IISkpkQYxdeww3mmN7vDnw
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.253.62.152
+ by atlas213.free.mail.gq1.yahoo.com with HTTPS; Tue, 6 Sep 2022 14:52:50 +0000
+Return-Path: <bhayes@lickingcounty.gov>
+X-Originating-Ip: [208.68.189.41]
+Received-SPF: pass (domain of lickingcounty.gov designates 208.68.189.41 as permitted sender)
+Authentication-Results: atlas213.free.mail.gq1.yahoo.com;
+ dkim=pass header.i=@lickingcounty.gov header.s=edgegw;
+ spf=pass smtp.mailfrom=lickingcounty.gov;
+ dmarc=pass(p=NONE) header.from=LickingCounty.gov;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 6 Sep 2022 14:52:50 +0000
+X-YMailAVSC: KUQXHaw3bBszBRCUmbKLw6pcCbrf5yJSMtckRn.42AdoKl4
+ 5CODlQJSoWxx2MjJI0P.0knb8voNUYmsup3Jsoh0KFyVrHWNAZ0H4lhGriDY
+ n7_7j5RhENAnlgZQk_kKmx_ZEx4uZwcFQ5gQF6eJEtqlck5dHg1pDqmXKohq
+ 3pAqUXfwzIVZ8WTbGECutvICxjoag7X3oMjvN973Uhk5vfiQRNQXIjmiUq6j
+ VfMeo4dFWJCa8rwkk.VHazjcuz1xGyG1jgPPlxOMixUgF98tHN3OcycvawRw
+ .O3c_KwflZVtmTILVSLNUhKEt3u1h5whlhPnBJ8sxQXNsLC8iN3b0xWp_OyR
+ y4HYpSg0Z4z4YSvoR7hlYX_kUWYbPPrGXYbp746ePCQhVFYqSOIEtOD6FLFX
+ Rg2GCNzayG4JltmR2mDCZc30g5FOTZquGtQ7En7mkU1n_E0YBcz2s5Re.NfV
+ DTahPimRDmMTiNQQDovkB0iCEE0KNOmZ6Twi26u.toA4cfeAclVZCrsfJAw8
+ 0KWnYc_7sPdrSudlFgmjdUvdO8uScoxISIJ2qtLl0pBmGWIL3AkeHO16MQbD
+ DZdDdiv5TLH8MaIPF9tRrwWE7mIXUA5EK.0TQaMOt.z22q1woDjPHkjJ8mjd
+ ZFHNqhHByT.UGNLNwergyOy_u5W853qYeGStL7c9otBJ2KyO5OFQzlT5uCB4
+ Kie2Ky8z_h8lCTpDmQ6SBMkLIfYmkPksHyRHxm2fYZPIoGdjDTH2omhZgiJX
+ fqhNk40CJezT7vxfsW2Tsrqw9D5dRwwSc0oxW7PbBXLfYB0XU86xUsxIB5yZ
+ oDZmXco5D2I0SY5ZT..hjCMPkf0yWf0gF0i1hgYtd7bf2V.9HXRKc2iTi5Lz
+ 5XWewms6l071fRT39CHbuuP0OnZ5lDpcU6ISuTwnPOIZ0PpR42rUfun7i5OR
+ y6kOEdYN5iqY6DSgLrFil0YPB2lHjHGiXXkzas01bu0cDQqccvk3SJiUZo5f
+ 2rq4MjNLzb8Iqzp4Sw4ad6hScACspLxj3w8DNpPPzihtqnUEfNsOznkul6ln
+ VWLloSVjEFmMklPbu6pXhXMe8dsjMgOYwssIWe9KX73wIefQ6eSwGvWZnYGx
+ qDehRwTgkSeQnhuNvvU8x
+X-YMailISG: 3GpY6mcWLDsOSTvJJmYNIW3gIdogzFY5dzHtmXXMe4K.8Hm0
+ zM7i0HpLV5Y7I.wicGDtnJl6meu1kRDp5XqE3YLA47wVJuZbznQwiv5argkJ
+ LnMc4FV8byrQhSn.DV9fCeM9TbBvC_m03at76XydCFhFpRzAK2soD5gNQzmK
+ IfCJ6LHUXhl00ts7nw69vHG_PlOUvWi1jw5wobwMIx9f6MZXQstBVIPoMxIs
+ 778n0v_MR3j5nJyumDcOl4.qRmmPHV_fhEWa2fBOTbWWvoHv4thcv_XtFtwP
+ Ghl2s_T7oXvRouwLId_nwmZiSspIuSfBjqFcrJ6IEjPoJtischRAyHjstyz1
+ lKpOVIiYiP3rkaMjQj3HWgDiU_rG.hs8yZENqRFE1D67qjC8I.eKSFjyY3Re
+ 13hs3iAaDN_YRQ5mldimE8xJN3n4XTBmrIwJUHV8Q_BxafWuV0AD11fk3hYf
+ 5mTjL3eBoxI3Kxj4qW4UVleFjP9aZBvHzys1U4K8OGkmakGV48jwqrYsNYhR
+ pnSDDMTGnVTrpN2dPvQ6W5ycJvaXLuoPTZORR1pR9GDs0hREFQzc7C9CURjZ
+ TPXxGXr7obVFHhHaxkRJrxW9hvBGoccPNR17DjDr8MaOxdliSc_KpGR3TEh2
+ RWbcQ0lhYBN2yTjwiDpFNqZKITdnkPnxPC3XQWXO_Yd39hiaAGsf81YqqCCh
+ sDAMfYqeiswapzS5w2pix0ombvnantLe8Hu30C6Xb_mot92k3aG7VxR5Wq.B
+ cJs9h2vTIFtyrVS9nwPVW5V75Ssh__iiKhpZD.myKO4.uHwiOvGE4AsNquXc
+ _9FTUT8qQjxbttM4dYCcC8RLqyyQRd0ecsA1r7ocgf9GBR_MX_t6SbSwlrQD
+ .e3GDv.OlKAVjIAlgOP94vLSNxKZNJKa_CCgfItKfCoyphQcCifOOknmcfIu
+ rCbvlY7Oy7YqP35P8GqLT04..xxtegAOQw0y9LKVcLtus1eciAAmQDOnknar
+ UoxkeZXJSwTXnX4xyHtoXIjZDO.wyE9pxn_rQIUVZA5.ViW11hZmofbop3zU
+ 01tsWgyRQjANjVntQs3i.U43nh6G_jB5MmchJ51FmHxmXXbUBQ0yA99kKiAH
+ B05qjQkd8g0BSLaRUr2aImvk0.oIv7v_SwHuw9xFo1wRBWhSad4p1c4sETOU
+ TkMs5fk007z01GDHjXfXGLscnk8btWKwTg7pEo5qfMpzK3IILyz71pgER80K
+ 2f5n2_SC3WNIJxUpDrUQtC2r6WHJksirGwi5kiKltMrTU_aCQb20J3h6aICJ
+ TUT6dsFNEMW9nilm2pge2YnevvuLohDf4f6W2xucsQM1rmg3
+Received: from 208.68.189.41 (EHLO eprism2505.lcounty.com)
+ by 10.253.62.152 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 06 Sep 2022 14:52:50 +0000
+Received: from mail.lcounty.com ([10.10.10.131])
+          by eprism2505 ({77c849e1-a52e-4513-aef5-96b17aa51ef5})
+          via TCP (outbound) with ESMTPS id 20220906145247244_0000
+          for <ms60710444266@yahoo.com>;
+          Tue, 06 Sep 2022 10:52:47 -0400
+X-RC-FROM: <bhayes@lickingcounty.gov>
+X-RC-RCPT: <ms60710444266@yahoo.com>
+Received: from Exchangesrv2019.LCOUNTY.COM (10.10.10.131) by
+ Exchangesrv2019.LCOUNTY.com (10.10.10.131) with Microsoft SMTP Server
+ (version=TLS1_2, cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id
+ 15.2.986.29; Tue, 6 Sep 2022 10:51:02 -0400
+Received: from Exchangesrv2019.LCOUNTY.COM ([::1]) by
+ Exchangesrv2019.LCOUNTY.com ([::1]) with mapi id 15.02.0986.029; Tue, 6 Sep
+ 2022 10:51:02 -0400
+From: "Hayes, Bill" <BHayes@LickingCounty.gov>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYwN/CkzAhgzQrf0ywi5MyCCfTPw==
+Date: Tue, 6 Sep 2022 14:51:02 +0000
+Message-ID: <7d4077848dd54a01ab7c1bf215070f76@LickingCounty.gov>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+Content-Type: multipart/report;
+	boundary="_000_7d4077848dd54a01ab7c1bf215070f76LickingCountygov_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-DLP-OUTBOUND: 10.10.10.131/32
+X-MAG-OUTBOUND: lickingcounty.redcondor.net@10.10.10.131/32
+DKIM-Signature: a=rsa-sha256; b=ZT7HH3btd9BFA/LIXUlwBZCJFmnqWNt8gdrHBhJHNEq99m0JA+SKZhc390YPZolnrjiA6I4as9htcWl8fyz59rxPRI9X2J3/D59UPEa4LXl1+6zkrDfuZAHH7XpMxLnt0CujGI882bq+sxSEvAQTLeZ1dhWNIxcm5w1SnG3GK+rTb8zgSzeM/+87w6P82eeNsIeIUM+WM0ZpDAF6pcBaJKFQuWgW4tMZ1d+Fq1l++cX5t1uZ9uTFuofGgLZ3kgeAx9WDryKhQ9Y+N8KJj7njHLsbzVw0TqOXlhGtW84+wfXGSZTFHJzjF4qaFpxXfDzrDvbsQiw/94urxi/bVwZWcg==; s=edgegw; c=relaxed/relaxed; d=lickingcounty.gov; v=1; bh=lAKqA4anY79FYLT8COILv4WpnDN8j2N36dSdqVNtqTU=; h=from:to:message-id;
+Content-Length: 2099
+
+--_000_7d4077848dd54a01ab7c1bf215070f76LickingCountygov_
+Content-Type: multipart/alternative;
+	boundary="_002_7d4077848dd54a01ab7c1bf215070f76LickingCountygov_"
+
+--_002_7d4077848dd54a01ab7c1bf215070f76LickingCountygov_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Hayes, Bill
+   Subject: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+   Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Eastern Time (US=
+ & Canada)
+
+ was read on Tuesday, September 6, 2022 10:51:02 AM (UTC-05:00) Eastern Tim=
+e (US & Canada).
+
+--_002_7d4077848dd54a01ab7c1bf215070f76LickingCountygov_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Hayes, Bill<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/aboutE=
+vidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Tuesday, September 6, 2022 10:51:02 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_7d4077848dd54a01ab7c1bf215070f76LickingCountygov_--
+
+--_000_7d4077848dd54a01ab7c1bf215070f76LickingCountygov_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; BHayes@LickingCounty.gov
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: ZKbcgFyPcEyZkIy5BKsSBg==
+Original-Message-ID: <4d0b970f-687b-defe-9bf0-dac0f77ce19d@yahoo.com>
+X-Display-Name: Hayes, Bill
+
+
+--_000_7d4077848dd54a01ab7c1bf215070f76LickingCountygov_--
+
