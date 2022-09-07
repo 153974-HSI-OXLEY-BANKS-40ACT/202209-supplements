@@ -1,0 +1,217 @@
+From - Tue Sep  6 09:31:44 2022
+X-Account-Key: account1
+X-UIDL: AH9fchIafr4KYxdXxwau8LemaL0
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.40.136
+ by atlas319.free.mail.bf1.yahoo.com with HTTPS; Tue, 6 Sep 2022 14:23:03 +0000
+Return-Path: <ktalebi@champaignprosecutor.org>
+X-Originating-Ip: [40.107.93.103]
+Received-SPF: pass (domain of champaignprosecutor.org designates 40.107.93.103 as permitted sender)
+Authentication-Results: atlas319.free.mail.bf1.yahoo.com;
+ dkim=pass header.i=@champaign.onmicrosoft.com header.s=selector2-champaign-onmicrosoft-com;
+ spf=pass smtp.mailfrom=champaignprosecutor.org;
+ dmarc=unknown header.from=champaignprosecutor.org;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 6 Sep 2022 14:23:03 +0000
+X-YMailAVSC: cTX6Ui83bBsMQJ8Z.iJzhmavcL2j4SnL43HtyqHQxkHK9ET
+ OZR93lF8zyQy_2AAjncprTGkf03aWMpviYOODS5sUn.nFtc28HD5pOVLh6Ao
+ eRXeNNAZ08ojyLrt4WP002HtAsx.tY4hJwjccUPsaHyXJKV2zdALuwL.A1b8
+ 2k_uh4NKo6R6AdcxJ_kfyvuk35rrBt8IVzw5yY_JF1i3nxWsgdM3iY8QfUdb
+ sFlyle41kfe3LBxIvCUzAZ_i8OgKJAqCQI7qZGQ_3t15wPzy9Fx9nh2ww6T6
+ _MrDZapLvUvaNDEyhdmyzzvVvmtSPdVfIYIAALpSKYWsmrd9EuN4SKtnWZIM
+ 6bKUzS0e2.rXHgh5.ctzDY9Yrl1orV1nEkoOHg3RwfFtPrs2aw4Eu_CIvU_T
+ qB10Zx9Hc08KDsxAb2FbqiJUKHF8cdGacT18q7H7ZeP_gevgmvev8Z5FlXKW
+ pQMrL8IlKfu_54Rsnibi3jp.j3297vcnbTUNMt6bJMXVeb_htrgafAEo9.wj
+ tn2Dz0wiMzCTf.hoQ1n53ZENxm1cJxgXJC_7EOMAoA7AALvGgpdsIF1jxAcS
+ Q2tHnPn4EncqbN6YaP9CgoitVlV_Wk8LMgHw0kl1k672EB250zEXBY2pCVY6
+ L_RRqMXUsBu2ipwmkmPLjZpT4llUw8ixXeV46JxpnXdwetdYl.DckANSmUTU
+ 06kpKLcwFh.rErFi9E2PgqKUEujExIHZb1BlElgKIFZiMlOvjD_.kvLg9Bz.
+ tepuJ4Tmi0QaZNl1g.UENu.wGin5cdQ4rqJ1jLc8PeG7ERibOql.scn82mjE
+ W8qkIHTMzKSXFq6Ac3KpK5pKkka97xjSh6WvmwBo8YrjqAonKtO7BqIupVSw
+ lypXiQfshhnB2GZEOB4V8uIf0RHYAKgd1S30k2wZ28wjJvhPz5h88cqYbVNH
+ zWjOAv3LkFbYcyugOe70hukBTp5f6srOdqyWF4F8rkHOeCbEJfT_M7GlBR3n
+ Xfd7MmvGEU68LADlVeFOjdE1BYNxLTCYknh4Tt5SOxRzdk81BKwpqFc6rOrn
+ YkeSoPYou8wtQCERJ4jCggyMlWocE7vgq46cQ.IhJEg9cCXdDK8i9Doo36ZU
+ 4CjDfgt1iubfqYTlSrP3gtWPHorA2SlnC.3xbCFPyc4hXmbtublqDHR6fnU7
+ iEcjdtZ_.Fl4K1BgcAFa0XFyb8fOHPr7rwi5guxoh4VxikBxyHrjAD65oGsX
+ 4828Kv_YqJC0tW3w-
+X-YMailISG: mL3hjd0WLDv0iGeRkvHyAZ1NLul6xdtJq74o3bzGZ2AfMkf0
+ bozigruvc7c2IzqBMeATyU.p_.5gxL4IqjPmGyFlTo_ubn8yvazFxDqKujIj
+ cYERXXvrHYqhoVcvafJFbFwPzW9dLRawvgPfTOqv0vl5OqAXHgJtE5HwK96q
+ ihB6R1fgKZgR_qBc.nn_qOyAsoaYw5Lxot2GzjOu79Alj3ZQhz5zb85Jnimo
+ r3YZHTe_PgOBZyBr8ExDxDDoBWMH.NNgqexnx8aaOPe50CdZeG7UsK40_tmJ
+ JiU_qCS.YtLJlnYtZRdVog8eghugkBWZIz3pT3Vf20s9OwOXt1cMIuovEpYt
+ KygS5z79CJ1Ru0MkE4qt4P8L7wCl7r9yuMW22CnoNN1jWwZfNS3VXqdr..A6
+ Pf_bx1bkC37.KVjbd1PJbLSdEX4Fp2TxwORZ1rVN6P2ySTOFhpQvFK9Vvzo6
+ Xce77RlvOXTb9N9sAmyGTmVapz.PI.QI23Xq55FfE9gHqXyyBL1HygNNIIO2
+ 8fDi6e.248zg1ERv9dSWbMTPbFQfj17ejFFUiCnggMf.LJEk6sJwNyRvmglN
+ KCrPbVNvnRFIzJsqF1qFZ_HYX5QT8CT4khHKn0or4sNRyLMmoHDZQBiG27.m
+ 4rEGwf5KIVLSbCyT6d5X1kI8kuPlvSSGZy7M3MOsAkorBCVqSaCeau4rVUdM
+ UoXQwoMF.Olgnc_.VjGk43P_K1AehXYc0oK3IgK46IO75BDJvHv7HwnHLZqQ
+ wp9rYTS0iONHAszsEBwJK_PZi6aicXn0GMiLvIDKT5LnoeE7jY1OGYkRWkBT
+ 61UwZw4WmzKmwGhR5ZBpRiw5052BBkxn6rNLKjfnqokWkkg3dz3RBH.kyEGS
+ oKALmxs2MzGGyqzAt.msOHK9YHCQg8Ig_P3AZQT9mixsB7vOPQHdt.vJys8k
+ N4S.rYplG3FXE7kQFA591esEJUQey.OA2pZtitt7tLVAae7PebzCvzKcTlI2
+ HillGvKNB6OUhh.sgN33FQ52zo00mI0cEDAlNwl4ilVps3WKm_.pOACeUazg
+ Bt7A3BNV2ahtcwILljJA3O4zOIcleytuge6KmyD7JXWdhMFZsOtxoPihrL20
+ 2PQfUjXk_FOX_XjDLVco.rDJsYOKheCVGOEqDEE_cd2oM4ANqoIhD18VKz6s
+ MisGfk7dxR99Fs70HmGVYDsd0pXv.NwmFqw8_BQnO4W0ouHzGfqIgqD3r3bB
+ s2TrTG7tixmLC9CYQKHpn1H6O6lDrjDoH2d2OaiD5fCM9tFleyVySbDe_3vd
+ JyMFnFqMkvE96lpQNkFLuaRLPsYridZDz6PUlBhdMjNrBqcHOqyNkDzUiGvQ
+ sj0apA--
+Received: from 40.107.93.103 (EHLO NAM10-DM6-obe.outbound.protection.outlook.com)
+ by 10.197.40.136 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 06 Sep 2022 14:23:03 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=UuU1a3hluI+mJ6Vc8Djm0BzPJvl0NYteNta8QqS8CGYdV4jMGLgFINLu/ral9VdpukJNxzqi2FGB+ei/++bQTbqd0KjEVOmTCVo2E1f4aVb2nbLSuexk8WrVOPfeO6Y5VBgGPFytXiHGgrl5olNJcK40kG0q4pgAg10eq/NwQabzyR5tG/ctYrm/eL+sjqySC8E/gnndx4LM07nVE0/aO20ap8+68oaIXl7kU2yQw76ZVjSH7wW2vkFFd4gV1Ja4rTFevDgExfhG249NEskD5PghbUDWNF/revAz+DRQTiiCFaYDqaAAyLMQ9PWkruO5S17lob6uDbvYRM9nJr0wAA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=PvZ/hxFXWl2yBd4MnMoiGGUjCLsdPzgnTlYH6WoclKY=;
+ b=mX3paLtfw2mn/02D9l5uz996yZSBdaCPQqvdGYd3HA7tmM+bqjTKWH39zF2Iwp1OvbW1PVToudl11VrzpCv4i2TUT5bJFm9AzYg4wwaqiHs0Asw6+MGymFRf1ZBgZdmV6zLHoNtafi9mPzlZjvj7tH08gtp/0oI39pBCkVV3bnHsAbSRbM3UjGFVxkxM2acKyGzYCIylCyAw4UNGkjQpoLze3T2y9QjTCy2t8dBaV0yBQlM3VQWeGZuHqWtmiOCeG4po5uGXHKM0YGuVW+hvgxqaVW7b0/UyoJE0gL8bdtuNFe4+Fc97KBbNJQim4wOBjswCtHMtpBk/JMJm/BUADg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=champaignprosecutor.org; dmarc=pass action=none
+ header.from=champaignprosecutor.org; dkim=pass
+ header.d=champaignprosecutor.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed;
+ d=champaign.onmicrosoft.com; s=selector2-champaign-onmicrosoft-com;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=PvZ/hxFXWl2yBd4MnMoiGGUjCLsdPzgnTlYH6WoclKY=;
+ b=YWo/mJxWno8YsiCAt8nFwSZSo8C3KGhTd8pWD8DtFZ/KJkDrMS6kwNEi60/8IpAoak4lriJWWqwGexITMzIkDKH4EN9kmZ+IkNzJp6wkVVxwYJOxaD/pAN2xoir1rYnPMPrlt73JAs6PccRt7O2Ew+HMVT6p/9S1UGjOaykaPDc=
+Received: from DM6PR04MB6026.namprd04.prod.outlook.com (2603:10b6:5:126::24)
+ by DM5PR0401MB3541.namprd04.prod.outlook.com (2603:10b6:4:76::29) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Tue, 6 Sep
+ 2022 14:23:01 +0000
+Received: from DM6PR04MB6026.namprd04.prod.outlook.com
+ ([fe80::80c3:e056:153f:d85f]) by DM6PR04MB6026.namprd04.prod.outlook.com
+ ([fe80::80c3:e056:153f:d85f%7]) with mapi id 15.20.5588.010; Tue, 6 Sep 2022
+ 14:22:59 +0000
+From: Kevin Talebi <ktalebi@champaignprosecutor.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYwN+/c0NZ/VqN8kO/hv2g7hcYRQ==
+Date: Tue, 6 Sep 2022 14:22:59 +0000
+Message-ID: <2258b0bffac34db4a0b5e800862680f9@champaignprosecutor.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 6b8482f8-63ce-480b-7f47-08da90134cb6
+x-ms-traffictypediagnostic: DM5PR0401MB3541:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ HLmhCgZ3aoA/gWuQJ9ATtewDJ4b1VMEqU9kAqy7jl88aCmJ7Ua6hkilgtSwMMUHaC8PY0tewj5dNkdPFL1a/AshH+ysofiAmYWzK1TS5XXHQ9zi0sUrUCX7Lo2oN4pGLBMz8+UAqRWZEFM4aAPUrd8i4tPa53qXgT9HYfOTOyLjOgNmUvPnEZi8Cl+ZJjJzPEOlKP33gA2Q6rZczjnnX0S7WIsNEQjJWDmo/0CTU9QxJRejw7ZgQbeqtJr9Bsa/T8Dof263xPEKcta+4nyzRjqmcSV4/OSjzvpvQvH10v567esk5YPhxqlKAF40T2ICHL5y707Lfts+lsM8W4WyLfGHT7eUCDbVZvr5KaROwnJYthnIoy5C//+SRaiX4HYrwHU/jgSkiSMl39lMUZFZEIrtqyG2EhbiZdrSdDZktxuWPq/S6hCSeBmvS38D9oTeaaAPhaF53C1D3JziDs/ZXgg==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:DM6PR04MB6026.namprd04.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(136003)(366004)(376002)(39830400003)(346002)(396003)(4270600006)(8936002)(122000001)(36756003)(6512007)(108616005)(6506007)(2906002)(24736004)(621065003)(73894004)(186003)(2616005)(66556008)(64756008)(66446008)(66946007)(66476007)(41300700001)(8676002)(478600001)(6486002)(71200400001)(88996005)(316002)(86362001)(6916009);DIR:OUT;SFP:1102;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?YuYU79A0zYo3j9tX090tGBLjyOlYOhLUVTn3IdoAYfacCBpCdfEg2hGM5G4Q?=
+ =?us-ascii?Q?ftx7Pi0kgDYOW6y8AMs4rH46N46fkChrRSrwwDyjtydN6M3qtkUoNke3RP9G?=
+ =?us-ascii?Q?e5feNwzDPypvGYphGbVbOWuJIc8rJhlRU7X8kCS5UvmTUzkUTyB3pRtaJCwP?=
+ =?us-ascii?Q?V+CMBUpeHgp6+bIkS4/nf6rlmVZwVBfkNaRAlLwJREARnti/djvXF99SAexD?=
+ =?us-ascii?Q?rbT+HmPgbR25dcJsz2w1NPfW62DA9ObyLeI2JQCEoeAhgZEGhSTVKb7d3UP8?=
+ =?us-ascii?Q?AnY+NeQFqzodB0Zb2/etKuZQtVCju3MmZqnWYspcDuNT8coYXlYMLLe3XGoZ?=
+ =?us-ascii?Q?bYziRD9zH1umIPV1WJrOZwzDsth4ZDNyKwZm4h9tM9KqLA4whwe7Rno/ZBcd?=
+ =?us-ascii?Q?F9XvUdsa+rITRPHPLEJUQeoX9TdVYXQCknXjooTbKsRKfN3vAB8W5bF2s4QC?=
+ =?us-ascii?Q?+DM75W9Wu/f87zCfFlvxns1QaeQCnw1S5rFRdHToE4IzR+mgpduTJwROmrtA?=
+ =?us-ascii?Q?ysdfJJqCYgpxl1axlAbBdq/OGOlxDU+UlRNub0VhPmbBQ8gjrxJo+KXSJz2F?=
+ =?us-ascii?Q?8ZrTQDsrUtGQei6SzM80X8M7oJ2Z66uWHjMAUIjOqElTAuf1MNkVsKqO2nK6?=
+ =?us-ascii?Q?2sN72ghUeYXJVbS3y559s4GHTPcN+iQjuStK0PwbVKD/PKJ8RLJfb6VdlJAs?=
+ =?us-ascii?Q?4D25h4dms0HlEkCZRZKaAPDbcKQcFX++fJuklVZSJo0vJQHsiWIaVjSncdYL?=
+ =?us-ascii?Q?DnAFLsssX+zez9QMslexwGfHpsAfEQ0n4icgopzfLOq/LHmBD/s+/GgYYPeB?=
+ =?us-ascii?Q?Dw1rA1tr2F+P9LikuOoN2t2x/eOMv0UZvQFeVE4KAYu5TqtVybeT/GMBXmBk?=
+ =?us-ascii?Q?ctOoy0f07yLvJK7MK7qYoVS2qvhQ2uTM3FlmZK2ixArRqmKgOk46vbkEFwFx?=
+ =?us-ascii?Q?JXFYvlcWy2TiXJl5kO7SwVcQqJSZ4yNzkAjK4e4VGdw5o543NwTKhTa7zAFk?=
+ =?us-ascii?Q?9PZYc997kIHxda9/p4f0L5thlduZKK0DAb2lwFORg8XeqZ8rkw0zIBngn45g?=
+ =?us-ascii?Q?uvWl/7eh53gGbjmiykHJ97g1/jp6emPFTyn/ClfQqMiWWkiuBHq1nvo3llDu?=
+ =?us-ascii?Q?b1T4ykEk8yZ11TfqZb9bjhK/YbubM2u1+MzV9OkPzm7IoHmft3b0dz7NjtLC?=
+ =?us-ascii?Q?iIy5q/HMKJDL7V6PpmtbNILHCXBKNGB7VvSj8aYCRBx310hYbljOYr/M3nxi?=
+ =?us-ascii?Q?l7h8aQw3JjpsCzPhLtLh940qAg8tih8Zwn0yPRqaUa29af9TM8IEPXo2Ke1+?=
+ =?us-ascii?Q?bpKS1GyCaTnKjr52ZjR5pzBTra9cCowZyoMoD6m1Ovu0MSv/2zxiE5dPpdSK?=
+ =?us-ascii?Q?lL6Np/HBVIge0ZC0juktfSuA9fwYG/n1bm/ur/3wr+F81PtEjZNt/5vjInif?=
+ =?us-ascii?Q?xoZAj8JLMgJtgjI3kMZj7CvEdGCylCUhCKw6+oIkoM63uSe9yWYfTlJKsKAr?=
+ =?us-ascii?Q?RGRKjCLopdfyCBo=3D?=
+Content-Type: multipart/report;
+	boundary="_000_2258b0bffac34db4a0b5e800862680f9champaignprosecutororg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: champaignprosecutor.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: DM6PR04MB6026.namprd04.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 6b8482f8-63ce-480b-7f47-08da90134cb6
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Sep 2022 14:22:59.1684
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 0e3f5720-f589-4bb1-b426-636f9e04f53e
+X-MS-Exchange-CrossTenant-mailboxtype: HOSTED
+X-MS-Exchange-CrossTenant-userprincipalname: bNYywaAhE++jzTlxdKFMT7R2movXtP7fM85tJwZqXCMP5AuNtq6pPRXcDRvuF5x5ro2FYr75aDHisnmJs9CJQeZPuZa0FXVAQ9bCebu7CZ4=
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: DM5PR0401MB3541
+Content-Length: 2150
+
+--_000_2258b0bffac34db4a0b5e800862680f9champaignprosecutororg_
+Content-Type: multipart/alternative;
+	boundary="_002_2258b0bffac34db4a0b5e800862680f9champaignprosecutororg_"
+
+--_002_2258b0bffac34db4a0b5e800862680f9champaignprosecutororg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Kevin Talebi
+   Subject: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+   Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Eastern Time (US=
+ & Canada)
+
+ was read on Tuesday, September 6, 2022 10:22:59 AM (UTC-05:00) Eastern Tim=
+e (US & Canada).
+
+--_002_2258b0bffac34db4a0b5e800862680f9champaignprosecutororg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Kevin Talebi<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/aboutE=
+vidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Monday, September 5, 2022 12:26:41 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Tuesday, September 6, 2022 10:22:59 AM (UTC-05:00) Easter=
+n Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_2258b0bffac34db4a0b5e800862680f9champaignprosecutororg_--
+
+--_000_2258b0bffac34db4a0b5e800862680f9champaignprosecutororg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; ktalebi@champaignprosecutor.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: VpWeToNpLkaLUTaH3ZM90w==
+Original-Message-ID: <4d0b970f-687b-defe-9bf0-dac0f77ce19d@yahoo.com>
+X-Display-Name: Kevin Talebi
+
+
+--_000_2258b0bffac34db4a0b5e800862680f9champaignprosecutororg_--
