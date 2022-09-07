@@ -1,0 +1,211 @@
+From - Tue Sep  6 09:31:38 2022
+X-Account-Key: account1
+X-UIDL: ACuzKRprmSj2YxdKXwAbWDGdSSg
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.217.150.203
+ by atlas222.free.mail.ne1.yahoo.com with HTTPS; Tue, 6 Sep 2022 13:25:50 +0000
+Return-Path: <eyarger@vanwertcounty.org>
+X-Originating-Ip: [40.107.91.71]
+Received-SPF: pass (domain of vanwertcounty.org designates 40.107.91.71 as permitted sender)
+Authentication-Results: atlas222.free.mail.ne1.yahoo.com;
+ dkim=pass header.i=@vanwertcounty.org header.s=selector1;
+ spf=pass smtp.mailfrom=vanwertcounty.org;
+ dmarc=unknown header.from=vanwertcounty.org;
+X-Apparently-To: ms60710444266@yahoo.com; Tue, 6 Sep 2022 13:25:50 +0000
+X-YMailAVSC: WWdAEmI3bBtomnT0P0hlQ2qp5utUHOyUcACGZWMClgsozGH
+ XVo9mYcRoDiTGKcTHAQZC3jcVzwpuxHudIO1AuI7radJ3jrBPNg.d1vhgLFx
+ g5AaDHiSexGNKRyWwPf3zAAhnZ5zKN__LMCHAMpZrpuH46jQ9PU5muKRyoaO
+ vbjdL2H3nPcHld2pBvOvnHYElYgrxcc7G91ApTkP.IyhAxrRvtJ.cNsBk.HI
+ hqiFzE77d5XdbPuLccvR4X_QaRGlCJuK5eUG.q8fHM0e8HKfbDionXeog8DY
+ XONrb3VmipYD80SXmGLqwV1AXqyE8dC4PC3z5xiEHfvmhNu6y1BGueZMenXS
+ 3QXAK.hIHjCv1md9gLcI5djkL.FUvwm0vp854fxRRuf21j3fYDykwIWLSUH1
+ m5pmceOwlZb0Ev1110RNXdMlp4IFPby318ZCmPo1CvuZtZnYPm2dxbgOO4tg
+ W4NHYKPpeYsB3sn_I7EW16weFGfYys.ytQeYyGF9td.Dwrs9w0MHvNhA6zUI
+ di3SK_KfcyTeFKtfXwvZ.QKh7NyRdaxUXFC1HPbRnXXUjFuGh07hNW81FEAX
+ RV.Ay0MmWCmQdpb9TMGrMITDPA4Wul2Y7nZ63x7MhicaJM7wVV24eJ5aY6me
+ iQWsCGaaNO9YuD7LPbjIi7.gTgW7jmdqPUdwFkC2Cy_rrYCAXTLGA5dLZEOE
+ sKPEY6GE5jdfzpJqZAK1C5B079Rl3v6u0X8D5KPwI6pHm65yAu1EJ9DLwpRr
+ zW2FH7PRtsSOoYfOS7LP55fprIhskSNu5z388Bq5dlc3vA6a_X69X_R4Gc9E
+ LkqYdMb15s6OHw_WZKv8w4H1zdp_F2EgVNgjkAUUNrKXIBGJi2LGypkypPUL
+ M8d6PSUJ_rKopPa5w0PYdbLQMK3uR9eQtpk5IXAOpf1XqyD4xVaiOcIXhYTr
+ z64uzHRAcFEaIB8S4z0nFWz5HDAl_WGdqAgo2BxUIbnBqtb32GYVbZplgjJd
+ TmqqVSIw7T2q3ITOmkHr9phGC_hFlXA8EIwubpdaRqycvts6SkBKF1PTSlFf
+ fCB4wIhqlWiYa2n8H58kHBG8_jTuuC8Av5swfMVE_7gJSw61ST9rLy2oNI1n
+ F7gIDiya1i4onNWYhd5jRkRI6IzfH405kTww3pk8pmCZ6MTHVCmMRfrGjjyg
+ WYUlkc99imdr1BLrvgebkhm50tp6QBmnkVzf4Qw--
+X-YMailISG: T3TPzHwWLDsl5d2cDQNxIln9Q4DmJGvpmIuHo2x4b.zos.lg
+ FalSbaMmL.KfU2VAnPV50crbvwzX6Axqr1T_nF4fGZlHL1n_BUevLdKYJ6Og
+ 9weoV0bYyudwG.EWyUwY1fP_qGxRbJyOJenXy91V9pkCxXKUdd0yCCyXBAFB
+ iN0qsNWbwE3ZU6Wc1jEyboibdc49a3icdkNMih5TCsBZG8brTe4ES6CRTmQr
+ xaVcqpgSXaRiSuhlCryU4WlME49zEAAe4v1L8_QGaWBrsUY9_V_9eVnZ_Ruo
+ JOU7X61EKDhlJ.CiDwd9aWkkqUEEaGU9Oi5Jn2scU968qkCa8iJTdAUPIuET
+ _FClgbq1B8HutHUBaR86d9Tjk12KJJFiT6ch7sIQE0M.otPcX0_0YHFGkehV
+ O_bpj2a9yfN2XZi7RplDDiT6GQT99PbrmnpamOa6x6yLMfm7fTyR.igXbjW3
+ p_BVrJmDZXB41L8OSGptg40SNXFpAPOrpVLkLLFd_BigzmfBbGN4ylcXIbLf
+ sVp8QDY5oVcHmGdNTs.2o8Ps1e9mqkRwhf_vip0.GsoVwuKuaokawFzIwa4o
+ X7Xgu0FcqAq_TY0RdAW97stSal2ialJ16QYjEjZ.DVopSP8cIW5mqFvM7iOL
+ D6DZ29ZnptahMbSnCkmKnOBoi0dhw_L6Kjnw55FZQfXxsp3vDgzjatHv5F0V
+ lCynAuOhqiVgE97fC3Khdn0rOKm5pbBvUK6RmYiZKeNFl.pEJhOhr20WV2cM
+ qRbz4RsekwlmRFI9PLJbrM49gnjHghqUT0klCnaYXjoReDuhQD_hLF6qvOow
+ YJidkYL7YQVCr5b01vjvYD5LGLPjFKDP82WrC_5Q3n12abjm3wjj6mGEIMuV
+ bRAtsVdrjMDU_3sj13IzndWCAKIY8yyRtjzcQbSDpzsD_t1QYr5QOy5LDmcI
+ zAWW5ZBq8v1D4EYE9iQ0bdKdwEKmkvjK2cfkrMr_RkCQUdfHRfwUugT68NWS
+ 9Gu8rcwQrsDXVNJKeHsLWC1ribh7yyxJKpNKEOv_MBGi56J_lZliAwFVJllm
+ oxOXMmmWRwVcqV6u_3wJYew5Njiv4qosMDgO8pwbxQBXoJHPEDkUbVKdkYRd
+ 4mjEIIzHOiSM6Pz1DfkCe7Y7f_oBZiQ3NLjw.9hCyFZ0x4EXH9vCxD5RlWhV
+ hv.pI.4V02GNSBxNa7YVslyvd5HBNqLS5bKDdNB22nTD42eV7ZE23usHaZbR
+ 0mMO2.1hvTZoMFw.CM4o3cGBH58VFihdshaGvHKaQi.GlbhI9YrELNBvgnv8
+ qdxkxBWbp2YTbLNADAFebS8rrIimaA.eH20-
+Received: from 40.107.91.71 (EHLO GCC02-DM3-obe.outbound.protection.outlook.com)
+ by 10.217.150.203 with SMTPs
+ (version=TLS1_2 cipher=TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256);
+ Tue, 06 Sep 2022 13:25:50 +0000
+ARC-Seal: i=1; a=rsa-sha256; s=arcselector9901; d=microsoft.com; cv=none;
+ b=MWFy1DOgWjRad+1J651JCZYDX/r6dKJKPXerkExCcVQbdTkc1vkVZMT5ZuPo0aIefsDW2OsNiyOJefNFV202pQ5mVebtZaTZKAstt0jNGqzAAH0GkzKWhPrqdIPDDHd4/gULHrCbzIFktoh3wvGg2Ctt8zpiimbA86hyRth0mf+CJJfZCuqaKcgznpcG4zDLkoK7029hgTkX0t6Upy0JPrJWwjrIZeQFEwkcSSuW9s00Z1XrcTlhq/tz+EjSw5P02nNLtUAWoIYPF4h14WiSPcadWosmU1jLINGp3Z0EyhxCw1tVSaAHRXJTA3/w89DNCQ8OVslgYVOgrpITv0BwEA==
+ARC-Message-Signature: i=1; a=rsa-sha256; c=relaxed/relaxed; d=microsoft.com;
+ s=arcselector9901;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-AntiSpam-MessageData-ChunkCount:X-MS-Exchange-AntiSpam-MessageData-0:X-MS-Exchange-AntiSpam-MessageData-1;
+ bh=xpN+QmHrNG+xwEbCwQTnSgAwslg4IAJUHx80sU+vz+Y=;
+ b=MTOyNAp1xrNHLk2Fua8OcqtKKRRhmYsPa2YRhTAJplvNGJCUwpYJG+fEaYBON0I8itcCeEJ5cE8wQvmK3RCBClS3k4LVlj56xvh+p3StP/bTgv/Pcue9CpVUyDRtJBUPwWfLkSdVMYXBACa9oXAcElWRJ5wwbiDrbtQT05hhc2+cTnwgkYELNABGlacTPPDJWhg/CIfmCAZL7+cCIS1IDOVGuzzbE29WSYd9hv5FM5mz6R0K9O8B+jRjhqwSgslxXuC3GRh6c1ujNY3JuTLPSzSA+5LeZz4OqQO+tpq/ESh7UcEwV0OkUthn/pUOw784vf2/2jHc8gvcwrHMGu7Ebg==
+ARC-Authentication-Results: i=1; mx.microsoft.com 1; spf=pass
+ smtp.mailfrom=vanwertcounty.org; dmarc=pass action=none
+ header.from=vanwertcounty.org; dkim=pass header.d=vanwertcounty.org; arc=none
+DKIM-Signature: v=1; a=rsa-sha256; c=relaxed/relaxed; d=vanwertcounty.org;
+ s=selector1;
+ h=From:Date:Subject:Message-ID:Content-Type:MIME-Version:X-MS-Exchange-SenderADCheck;
+ bh=xpN+QmHrNG+xwEbCwQTnSgAwslg4IAJUHx80sU+vz+Y=;
+ b=hOO0av0h8DhzvL/yXgWjUCbgAffPhS14Hz1nLH/1wPfGleaSq7m8jbnFSBW5Ls5I36x0H4X9M5+omaBan+uRcIneL8SRGL8WNDFfPkoUUspYXtHxcBhzo3stsuuKdWnBCWzRsPWfZDqh2A7CQC+TTeYvN3X33vEbtq7QtwYCuRvVuoQ0wtoI9swc2fxP7beagdZAUK9AysIoiP3PMkN9XNmFlundBzD6IyEhUaSbG22UU2az9mTxay6mT7QKZN7HMF96sKDstwMVnpT1NYgp3SM4+KNfbj2dwiFBdlbesgGlsbsGz5XvFTMq30CMuaMQ3XMjQ+PGJZd1ZElkIOlpYQ==
+Received: from MW4PR09MB9057.namprd09.prod.outlook.com (2603:10b6:303:1f9::16)
+ by SJ0PR09MB6720.namprd09.prod.outlook.com (2603:10b6:a03:259::20) with
+ Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.20.5588.10; Tue, 6 Sep
+ 2022 13:25:49 +0000
+Received: from MW4PR09MB9057.namprd09.prod.outlook.com
+ ([fe80::acf6:5ff3:f40a:ea73]) by MW4PR09MB9057.namprd09.prod.outlook.com
+ ([fe80::acf6:5ff3:f40a:ea73%9]) with mapi id 15.20.5588.017; Tue, 6 Sep 2022
+ 13:25:49 +0000
+From: Eva Yarger <eyarger@vanwertcounty.org>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Topic: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+Thread-Index: AQHYvwlsL8ZYUGra30OcsWmpzisWaA==
+Date: Tue, 6 Sep 2022 13:25:48 +0000
+Message-ID: <0a15a8981f3d46ce8bd338b64760787d@vanwertcounty.org>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-ms-publictraffictype: Email
+x-ms-office365-filtering-correlation-id: 266a4ca3-35fc-4cd4-9514-08da900b5030
+x-ms-traffictypediagnostic: SJ0PR09MB6720:EE_
+x-ms-exchange-senderadcheck: 1
+x-ms-exchange-antispam-relay: 0
+x-microsoft-antispam: BCL:0;
+x-microsoft-antispam-message-info:
+ 8e4/YEJobC2i+kwFW2XEKOv+0jGxEPeY7hVIpUZQU6d2fIdmbrGN9b3uBMPKQZJN1kEdOB3GpUJrbZHBUvh4x/YXIGZ1JUFRmAVYFkTf9UDp7jw4KktmnR4UZKDCgC4wIdLKGLt83xsIm/mZhJoe8mpj8YQbyC9Mc19KM2p5N44f7PyBoiz9RgtTIGUUYnNZmhnARKJxHDfDzgnY61XvgEHR6wqaZF5CkFtYZUA2VNLW9H3vWZUwuxwIKMRgaxo1jRFyvhSivR8yamNYfeWp/QJuB420KtF9D4qTzqXBDNpmK79xDxoprYnLnH4tLw10Z19syszUjUwm8TKvYme9d10dFkdaFWmnlj1YSErXZK7K7nUKNQiaMASWvEiTQFkiGA7J5cV+IibmnyCH52uFk3olyyx633QRbdRcp94vh8/QsX2+Sax4b8MujTBSbJGbkzWdbKo0g+V5RBRo8ifUjg==
+x-forefront-antispam-report:
+ CIP:255.255.255.255;CTRY:;LANG:en;SCL:1;SRV:;IPV:NLI;SFV:NSPM;H:MW4PR09MB9057.namprd09.prod.outlook.com;PTR:;CAT:NONE;SFS:(13230016)(39830400003)(366004)(396003)(136003)(6916009)(122000001)(66556008)(8676002)(88996005)(66476007)(66946007)(64756008)(66446008)(2906002)(8936002)(41300700001)(108616005)(4270600006)(6512007)(73894004)(2616005)(71200400001)(621065003)(6486002)(508600001)(41320700001)(6506007)(24736004)(86362001)(186003)(36756003);DIR:OUT;SFP:1101;
+x-ms-exchange-antispam-messagedata-chunkcount: 1
+x-ms-exchange-antispam-messagedata-0:
+ =?us-ascii?Q?FdMyhcj7L7Jy3e1FIsDgPsYbiJ78sSC+tqC2QRRza1HcyalY+AlAlvvFxWwJ?=
+ =?us-ascii?Q?rmABI3gXgx/yd3zORJX+vsfvz2hQbKAPi8XOD0cHv8A6BALB3ja88GrpR474?=
+ =?us-ascii?Q?VcUy0i7NMPP6wHB4DUsGL5LwMo/EKC5ZYfPsJvxcVzYj90UReSU7wLvQ8uSX?=
+ =?us-ascii?Q?ZMNCwg4D8ZHeynw/d1Zm3gICghdpDmZSkcbRuWjIJCuR0AZQPR0EzrTmR6GT?=
+ =?us-ascii?Q?2wlGp6Uc0J4pTptcNJA8H7KhBehgpLwJPAINXwXaWBb2MUUQkFTdOj4kM8gv?=
+ =?us-ascii?Q?O1HagGLndwM1t+OtLl+d47WNf/jyxlm/5HIYivpTsXp5rFIiFbXgKBBysxE4?=
+ =?us-ascii?Q?rUfMKam7txsmyQfsJyHZlW8UBUP2RsDvg4Yan72atesi7ZLJk+lOJtx/qCX4?=
+ =?us-ascii?Q?ttqoTd5x0+wlaBPp5xufHtH0yUzlmGHwfRhX6wr2SW0zwncoanab9aXv+7Qg?=
+ =?us-ascii?Q?CwWfD784LPItK/g6FGDD0I44SnhunzBnwqmFnBxuKqPnF96ssJWN+Q24ZdU4?=
+ =?us-ascii?Q?9LGi36RfG+L6p2BN6zslosw/ot0fOZ0TeJDuOEeYJPlIWtM8gNqUUsHVQ74h?=
+ =?us-ascii?Q?DYpe4H4ybE4yxRFZ9YPy5k9x+Qacl9hiJcCTyIFiB5EL+PDeuih9RZochYg7?=
+ =?us-ascii?Q?R7WCcmoPaJ2zEbGJyK+e6Mscgusr1qGl2GXhoB3EVHaVddl7ZDUqe4KwqTb8?=
+ =?us-ascii?Q?7Le00nAu6zfW0/mubJfnd7852w46JWbh9EE3gF1clJeYQjXkONp7y5SL7Zx/?=
+ =?us-ascii?Q?Cslaqo4e/Eipby3Dzwmgh0IpLnbfj2qO1BNCxie8GopSpaL/1X5kddajj7I2?=
+ =?us-ascii?Q?LCSLECbvp8N59gmjNLR6bXvMKKv2ZBhuXCkViSl8OMmNbSomPNe6W48Oab6g?=
+ =?us-ascii?Q?/2zWGKGwjKdxceyYntOE9Ji2xldsy0g2kuk46QJIYwNXw12euBnv7eEPXLOV?=
+ =?us-ascii?Q?VJx+4e9/34Ta5roQb0H5jiMvymL3ICso+cyKDy1oe0JC2q26L7E+xG1Maphs?=
+ =?us-ascii?Q?Q7r2N/MtCfdMmkNbGagMtIqN2KmCgFmMGoXUmhplWdZt4nAnyqP++HuKnbV1?=
+ =?us-ascii?Q?oR47+lx0UD3tZMQm7u1xKLRB37NCa/eBxKsuI1GKOi92ldF1cfBd80XX2QbC?=
+ =?us-ascii?Q?Bd/7V2clPK/9dQ15GgnD+VqESStx6rsZF9sZtvZFLME5Sos2zkn64rKESGgA?=
+ =?us-ascii?Q?g5kg3CQ+UgtrNAQGibZOaHDtDukqxoqIvwBf42+XvdAX/hTVGS/Zkz98YX9P?=
+ =?us-ascii?Q?dP64OMP/JUVFvYUgxtpTgW/wH+6IBhpGkgK+UrnWSoX1F/Ih1qqXUigUhvoR?=
+ =?us-ascii?Q?TNmv10HLfHaAw3n70NQ+mp2X0769ad9RCW9HXxA/Zh5A/Phq/Pk4GD8Xry7k?=
+ =?us-ascii?Q?bBmDP8C8nAp+hSPT+CU7rySjlD/1WdWta5Y2aLB/YtAIXlJ4tVFNxBEJE17K?=
+ =?us-ascii?Q?pn+8B3MCtSh/MaSh0TLMA6FRToH3RdCFT54YwWxKT0LZ9x3HMFyPlw=3D=3D?=
+Content-Type: multipart/report;
+	boundary="_000_0a15a8981f3d46ce8bd338b64760787dvanwertcountyorg_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-OriginatorOrg: vanwertcounty.org
+X-MS-Exchange-CrossTenant-AuthAs: Internal
+X-MS-Exchange-CrossTenant-AuthSource: MW4PR09MB9057.namprd09.prod.outlook.com
+X-MS-Exchange-CrossTenant-Network-Message-Id: 266a4ca3-35fc-4cd4-9514-08da900b5030
+X-MS-Exchange-CrossTenant-originalarrivaltime: 06 Sep 2022 13:25:49.0122
+ (UTC)
+X-MS-Exchange-CrossTenant-fromentityheader: Hosted
+X-MS-Exchange-CrossTenant-id: 03c5e146-97c6-4d71-b336-990e01cdd08e
+X-MS-Exchange-Transport-CrossTenantHeadersStamped: SJ0PR09MB6720
+Content-Length: 2092
+
+--_000_0a15a8981f3d46ce8bd338b64760787dvanwertcountyorg_
+Content-Type: multipart/alternative;
+	boundary="_002_0a15a8981f3d46ce8bd338b64760787dvanwertcountyorg_"
+
+--_002_0a15a8981f3d46ce8bd338b64760787dvanwertcountyorg_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Eva Yarger
+   Subject: http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/
+   Sent: Friday, September 2, 2022 4:19:41 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Tuesday, September 6, 2022 9:25:48 AM (UTC-05:00) Eastern Time=
+ (US & Canada).
+
+--_002_0a15a8981f3d46ce8bd338b64760787dvanwertcountyorg_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:11pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Eva Yarger<br>
+&nbsp;&nbsp; Subject: <a href=3D"http://ic3bbohit.pythonanywhere.com/aboutE=
+vidence/title18-21/">
+http://ic3bbohit.pythonanywhere.com/aboutEvidence/title18-21/</a><br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 4:19:41 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Tuesday, September 6, 2022 9:25:48 AM (UTC-05:00) Eastern=
+ Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_0a15a8981f3d46ce8bd338b64760787dvanwertcountyorg_--
+
+--_000_0a15a8981f3d46ce8bd338b64760787dvanwertcountyorg_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; eyarger@vanwertcounty.org
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: z+/pqIB3cEuS5pX96tHfQw==
+Original-Message-ID: <acd111ab-80d6-a30a-a6d7-8ec1a9c50cb6@yahoo.com>
+X-Display-Name: Eva Yarger
+
+
+--_000_0a15a8981f3d46ce8bd338b64760787dvanwertcountyorg_--

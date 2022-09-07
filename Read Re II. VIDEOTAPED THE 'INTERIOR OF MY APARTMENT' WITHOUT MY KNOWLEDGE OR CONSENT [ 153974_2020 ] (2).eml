@@ -1,0 +1,172 @@
+From - Sun Sep  4 23:28:58 2022
+X-Account-Key: account1
+X-UIDL: APhlbkwTtY1fYxP+zg0H8Ih1u10
+X-Mozilla-Status: 0000
+X-Mozilla-Status2: 00000000
+X-Mozilla-Keys:                                                                                 
+Received: from 10.197.39.105
+ by atlas109.free.mail.bf1.yahoo.com with HTTPS; Sun, 4 Sep 2022 01:26:38 +0000
+Return-Path: <btv1==2462c4c8bc8==cmotoole@ashtabulacounty.us>
+X-Originating-Ip: [69.54.63.83]
+Received-SPF: pass (domain of ashtabulacounty.us designates 69.54.63.83 as permitted sender)
+Authentication-Results: atlas109.free.mail.bf1.yahoo.com;
+ dkim=unknown;
+ spf=pass smtp.mailfrom=ashtabulacounty.us;
+ dmarc=pass(p=REJECT,sp=REJECT) header.from=ashtabulacounty.us;
+X-Apparently-To: ms60710444266@yahoo.com; Sun, 4 Sep 2022 01:26:38 +0000
+X-YMailAVSC: 3YNFKA83bBsaRJjdGZ95ISlvO_CV.lTYa4kZOq45PMdj7Do
+ A1CdRM1_JXOOzd2zzot9PVl1HpTmSfxb0DCMNQtJs9sGF951cdPbFzE2H7A2
+ h035F_1C8RhQ_ymU7UQ0ts7oOkj_5r51I0jww1R_zRuyY1Ukxq3.PIPYwolD
+ UD1stUcwQF6QYJtP91BDiI7mKuIE__mfT2P3z9bwVluu5ZV_FlCV9Y_3mpYA
+ WBThyyjdOk7knO7Vk8SGR_HRCKFW.J24Rq_ypPvpTg_pTa2lBvF6VHrwLfNi
+ zNBvZYxNksUzV.iQJttwpG.u4kC8thx0G_r9gwAw2a_FIhpLr6RsNo.TRVSU
+ LLEoFdGDZKXXguB1YWd78HOiZvNSlKCZzMAx9HfAU_o_dyPbl6Qmr0EbL0pF
+ XXHbyUd6b0xW_zjIud2orTN.gPw2TC7JZMWPMBtPvTE4AFTym1IwzDSWxnRu
+ DLG6XuBQxy78hOK1pq9lRZ0qeY_Pi_.jX9TMvU3BRLbwKF74lJRwjgcPxWR7
+ uVUYQUwmjpA79XehmxOr8OvWrdjx.rIVKJsGBWk19zojSMU5aGeFW7oIQlBQ
+ uRhQSc3royXyO2sBzWdAAW_pBrQiQINpCdPcSsYscKBDAg4KLipC5f4FivO1
+ n3zIS1eECxapDWpziFwZk3r50jCOvhiLpJQjcIWutXEOAaX4HQqXehlJjaG7
+ GDxYamQ7dw.nMcrbkYqWnXXmwiimd95dfSyjq5CWCAbehS4ExeIk8_2.uuFr
+ 1L373QNTDoHNmNuF6DD1z6YnKcTCUVEkxvT5ndyi6usuq.fhvNhOo3tmZZAv
+ .MeamxPF_d.LZYit5rgG73TTLRdTu.y7XvPV63.t9oGogPVWLTqZxedrA5WF
+ p883dn3FDfyelGi5wYR8YkIsxtnrjN2SnbcopjJookLZL02WxMEa4lU7e63Y
+ .lu9fJj3LJrI0jtt5eU.P25JYdcqI13.LZUc9FLyyZwS_dMzoeeA6KWB1jnp
+ .MdvE4ti7lOpHSJ3Clp80wqEy8gFasQVSo2eN68R1jwSjGioj_FbLn0YkJ43
+ oqcSDdnz04deKMHem2WruLrFXyCcfOT7moswzgPR3zfMdSMjsYcI-
+X-YMailISG: QQThP1AWLDueGe8wpO4EGuQ.wIi_1000.5YBo1ACBPKTAkfd
+ PgwLqwOHzWNy16aK02jF95CDot6euV0Naj4tMVUn3HG_Rx1jAZVCypdng.W3
+ 3t1f40aUmO8h4tAYpFc4SiG4OIWqdXAodAnc5ELxNcxATAZFzKChB_SVQvOS
+ kWAYiTI3iowBFrwEAEuL6OtI4.BMOyUWmWOvrDJl2DTlvBmWVuzLCi.35n16
+ TQirpvRKdfl9QuGFOAOvSBt25aIHWOfJEDjbRWohN65Uu3V.TYd1BO.sd.U1
+ IQ9sCOXZU7RScez5dQvuqc34KrrqRg6v7Slx_XxoDuGiS3U6xgmI6lEQ2SZh
+ Ha_Y4L9k6BNIoX8nOPEmW4lE5We2uOi9u13ENdXm7o1JUeysEdXGWRglUGUu
+ be1X1H9ahV2mErBLhEcEXwdEgjuz9Q5LgO9nm_e0_a.DzBt.s0U6biiYXIsl
+ bacNSe3.uSjDZ50tSAA8TtKQM20uXDu8ADkmaF2hwfdNNUfUT.ZZ.WBSciPt
+ FYXvaml6kK_rOe.qimN8oN8YpcleqWaY3gncZpKV_tOJPzQb0xaFQ1EVkeRi
+ 9S7FcLzAXlI6T8vjaR1jcYJ1nuf8mn6hx6rYC1zJssePJdofwb.QMMTQzmwE
+ fzEM3s_JvNhUr7LtrAkLouihe5qS4Ek0lZ75ZDr800qPaCoekJVDpnbnhgQR
+ 0fULoXnrz9byrHIwcXB4Y9A2_cfdfFd4eIvhgNN_64Yipzc.JZVQHzhRFgwK
+ CrKBnSubyEeEB4LJytVRmx1sDyaD03uB9yMN2CVABZfqJmLuXfp4kCsLOMRk
+ MaeGDbzfoPUK7IlQVz14dpP7NLEhgpoACJ4LvAAP3BuC.kTg2HrOxhv9x0A6
+ ZzO.aswjyZgOwyswKZ_a_rmKOrakyFKoSpk1_GXSf62sR9IYC4x7SLTL2kLM
+ JKtE1Fv7CZs8WkN5xwxITX0B9CpBAuaet_rrk6PL3bV1u5vEF8TRer4ZaG9U
+ m7chOiM8BkwIOW0rHeZrOXSmeDTIGWJwMqC0Y.ZOEPEZRL0jllmrQL5MNg4N
+ Rn1sjH9oD6EC3LW9Ic05.g7UrR5_7r9TKc6PqCP_GfO_kPB8ru7pV1_y9f8p
+ Htyr_uA2QKP65ug8ztEhWf4rztQWsXQBaSZqUGNTymyQ3riCYQBUgR2P0lR6
+ PiAN9g5pgYbhN1KKnFUiJyaHgfNa1w715VPDmDbxKDIbk0Ql2n6veAuPE.21
+ q4LA8Q--
+Received: from 69.54.63.83 (EHLO mail.ashtabulacounty.us)
+ by 10.197.39.105 with SMTPs
+ (version=TLS1_3 cipher=TLS_AES_128_GCM_SHA256);
+ Sun, 04 Sep 2022 01:26:38 +0000
+X-ASG-Debug-ID: 1662254797-15285b226c10c9c0001-igPLcE
+Received: from ACExch2.ac-gov.us (ACExch2.ac-gov.us [172.16.3.26]) by mail.ashtabulacounty.us with ESMTP id Iz5w4RSZocgqqS7o (version=TLSv1.2 cipher=ECDHE-RSA-AES128-GCM-SHA256 bits=128 verify=NO) for <ms60710444266@yahoo.com>; Sat, 03 Sep 2022 21:26:37 -0400 (EDT)
+X-Barracuda-Envelope-From: cmotoole@ashtabulacounty.us
+X-Barracuda-RBL-Trusted-Forwarder: 172.16.3.26
+Received: from ACExch1.ac-gov.us (172.16.3.25) by ACExch2.ac-gov.us
+ (172.16.3.26) with Microsoft SMTP Server (version=TLS1_2,
+ cipher=TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384) id 15.2.1118.12; Sat, 3 Sep
+ 2022 21:26:36 -0400
+Received: from ACExch1.ac-gov.us ([fe80::1deb:911e:785b:1963]) by
+ ACExch1.ac-gov.us ([fe80::1deb:911e:785b:1963%9]) with mapi id
+ 15.02.1118.012; Sat, 3 Sep 2022 21:26:36 -0400
+X-Barracuda-RBL-Trusted-Forwarder: 172.16.3.26
+From: "Colleen M. O'Toole" <cmotoole@ashtabulacounty.us>
+To: B D2022 <ms60710444266@yahoo.com>
+Subject: Read: Re: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Topic: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+X-ASG-Orig-Subj: Read: Re: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY
+ KNOWLEDGE OR CONSENT [ 153974/2020 ]
+Thread-Index: AQHYvxaPcU56Sj4w20u+HBUrjNH9Og==
+Date: Sun, 4 Sep 2022 01:26:36 +0000
+Message-ID: <9be6532475a34699b660f4c8968574e4@ashtabulacounty.us>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+x-esetresult: clean, is OK
+x-esetid: 37303A29BDF78156627763
+Content-Type: multipart/report;
+	boundary="_000_9be6532475a34699b660f4c8968574e4ashtabulacountyus_";
+	report-type=disposition-notification
+MIME-Version: 1.0
+X-Barracuda-Connect: ACExch2.ac-gov.us[172.16.3.26]
+X-Barracuda-Start-Time: 1662254797
+X-Barracuda-Encrypted: ECDHE-RSA-AES128-GCM-SHA256
+X-Barracuda-URL: https://mail.ashtabulacounty.us:8443/cgi-mod/mark.cgi
+X-Barracuda-BRTS-Status: 1
+X-Virus-Scanned: by bsmtpd at ashtabulacounty.us
+X-Barracuda-Scan-Msg-Size: 1164
+X-Barracuda-Spam-Score: 0.20
+X-Barracuda-Spam-Status: No, SCORE=0.20 using global scores of TAG_LEVEL=1000.0 QUARANTINE_LEVEL=7.0 KILL_LEVEL=9.0 tests=BSF_SC0_SA590, HTML_MESSAGE, MIME_HTML_MOSTLY
+X-Barracuda-Spam-Report: Code version 3.2, rules version 3.2.3.100539
+	Rule breakdown below
+	 pts rule name              description
+	---- ---------------------- --------------------------------------------------
+	0.00 HTML_MESSAGE           BODY: HTML included in message
+	0.00 MIME_HTML_MOSTLY       BODY: Multipart message mostly text/html MIME
+	0.20 BSF_SC0_SA590          Custom Rule SA590
+Content-Length: 2132
+
+--_000_9be6532475a34699b660f4c8968574e4ashtabulacountyus_
+Content-Type: multipart/alternative;
+	boundary="_002_9be6532475a34699b660f4c8968574e4ashtabulacountyus_"
+
+--_002_9be6532475a34699b660f4c8968574e4ashtabulacountyus_
+Content-Type: text/plain; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+Your message
+
+   To: Colleen M. O'Toole
+   Subject: Re: II. VIDEOTAPED THE "INTERIOR OF MY APARTMENT" WITHOUT MY KN=
+OWLEDGE OR CONSENT [ 153974/2020 ]
+   Sent: Friday, September 2, 2022 5:51:32 PM (UTC-05:00) Eastern Time (US =
+& Canada)
+
+ was read on Saturday, September 3, 2022 9:26:36 PM (UTC-05:00) Eastern Tim=
+e (US & Canada).
+
+--_002_9be6532475a34699b660f4c8968574e4ashtabulacountyus_
+Content-Type: text/html; charset="us-ascii"
+Content-Transfer-Encoding: quoted-printable
+
+<html>
+<head>
+<meta http-equiv=3D"Content-Type" content=3D"text/html; charset=3Dus-ascii"=
+>
+<meta name=3D"Generator" content=3D"Microsoft Exchange Server">
+<!-- converted from text --><style><!-- .EmailQuote { margin-left: 1pt; pad=
+ding-left: 4pt; border-left: #800000 2px solid; } --></style>
+</head>
+<body>
+<font size=3D"2"><span style=3D"font-size:10pt;">
+<div class=3D"PlainText">Your message <br>
+<br>
+&nbsp;&nbsp; To: Colleen M. O'Toole<br>
+&nbsp;&nbsp; Subject: Re: II. VIDEOTAPED THE &quot;INTERIOR OF MY APARTMENT=
+&quot; WITHOUT MY KNOWLEDGE OR CONSENT [ 153974/2020 ]<br>
+&nbsp;&nbsp; Sent: Friday, September 2, 2022 5:51:32 PM (UTC-05:00) Eastern=
+ Time (US &amp; Canada)<br>
+<br>
+&nbsp;was read on Saturday, September 3, 2022 9:26:36 PM (UTC-05:00) Easter=
+n Time (US &amp; Canada).</div>
+</span></font>
+</body>
+</html>
+
+--_002_9be6532475a34699b660f4c8968574e4ashtabulacountyus_--
+
+--_000_9be6532475a34699b660f4c8968574e4ashtabulacountyus_
+Content-Type: message/disposition-notification
+
+Final-recipient: RFC822; cmotoole@ashtabulacounty.us
+Disposition: automatic-action/MDN-sent-automatically; displayed
+X-MSExch-Correlation-Key: dQVtq4gL00qiW5rKOQFNcQ==
+Original-Message-ID: <de1748d5-2dff-5a67-3354-1749a39fd380@yahoo.com>
+X-Display-Name: Colleen M. O'Toole
+
+
+--_000_9be6532475a34699b660f4c8968574e4ashtabulacountyus_--
